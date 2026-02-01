@@ -1,0 +1,2501 @@
+ID_Inscricao,municipio,Q006_Renda,Score_Renda,Q002_Escolaridade_Mae,Score_Escolaridade,Q025_Tem_Internet,Score_Internet,NU_NOTA_GERAL,ISE,TP_ESCOLA,latitude,longitude
+3563451924,Belo Horizonte,E,4,G,5,Sim,1,711,10,Pública,-19.9167,-43.9345
+9678344341,Fortaleza,C,2,F,3,Sim,1,591,6,Privada,-3.7319,-38.5267
+5298312065,Manaus,Q,5,G,4,Sim,1,692,10,Pública,-3.119,-60.0217
+2250819632,Belo Horizonte,C,2,F,3,Sim,1,572,6,Pública,-19.9167,-43.9345
+5684118973,Fortaleza,D,3,F,3,Sim,1,559,7,Pública,-3.7319,-38.5267
+2934879560,Belo Horizonte,C,2,D,2,Sim,1,657,5,Pública,-19.9167,-43.9345
+6950318585,Rio de Janeiro,Q,5,G,4,Sim,1,681,10,Pública,-22.9068,-43.1729
+2111451555,Belo Horizonte,B,1,A,0,Sim,1,436,2,Privada,-19.9167,-43.9345
+6188069941,Rio de Janeiro,D,3,F,3,Sim,1,503,7,Pública,-22.9068,-43.1729
+9274936803,Rio de Janeiro,D,3,F,3,Sim,1,625,7,Pública,-22.9068,-43.1729
+7612927342,Belo Horizonte,B,1,A,0,Não,0,423,1,Pública,-19.9167,-43.9345
+4445409806,Belo Horizonte,C,2,D,2,Sim,1,694,5,Privada,-19.9167,-43.9345
+4055190407,Manaus,A,0,A,0,Sim,1,531,1,Privada,-3.119,-60.0217
+3677045063,Manaus,Q,5,F,3,Sim,1,790,9,Pública,-3.119,-60.0217
+2644658402,Belo Horizonte,B,1,A,0,Não,0,488,1,Pública,-19.9167,-43.9345
+7415803238,São Paulo,C,2,D,2,Sim,1,558,5,Pública,-23.5505,-46.6333
+7181903227,Fortaleza,C,2,F,3,Sim,1,496,6,Pública,-3.7319,-38.5267
+3318599822,Belo Horizonte,E,4,F,3,Sim,1,813,8,Pública,-19.9167,-43.9345
+8765817900,Fortaleza,A,0,B,1,Sim,1,411,2,Pública,-3.7319,-38.5267
+9088627133,Belo Horizonte,Q,5,G,4,Sim,1,704,10,Pública,-19.9167,-43.9345
+5767636704,Fortaleza,A,0,B,1,Não,0,527,1,Pública,-3.7319,-38.5267
+3082328893,São Paulo,E,4,F,3,Sim,1,625,8,Pública,-23.5505,-46.6333
+9468739568,Manaus,D,3,F,3,Sim,1,542,7,Pública,-3.119,-60.0217
+7453957249,Rio de Janeiro,C,2,D,2,Sim,1,544,5,Pública,-22.9068,-43.1729
+7575313972,Belo Horizonte,A,0,B,1,Sim,1,487,2,Pública,-19.9167,-43.9345
+6874583831,Belo Horizonte,B,1,A,0,Não,0,459,1,Pública,-19.9167,-43.9345
+1647326920,Manaus,D,3,F,3,Sim,1,530,7,Pública,-3.119,-60.0217
+7494390210,Manaus,Q,5,F,3,Sim,1,684,9,Pública,-3.119,-60.0217
+1487365080,Fortaleza,A,0,B,1,Sim,1,476,2,Pública,-3.7319,-38.5267
+3218934259,Rio de Janeiro,B,1,B,1,Sim,1,344,3,Pública,-22.9068,-43.1729
+4867266084,Belo Horizonte,A,0,B,1,Sim,1,448,2,Pública,-19.9167,-43.9345
+8168249959,São Paulo,B,1,B,1,Sim,1,474,3,Pública,-23.5505,-46.6333
+3849718370,Belo Horizonte,D,3,F,3,Sim,1,598,7,Pública,-19.9167,-43.9345
+1077633091,Fortaleza,C,2,F,3,Sim,1,455,6,Privada,-3.7319,-38.5267
+6434002806,São Paulo,D,3,F,3,Sim,1,653,7,Privada,-23.5505,-46.6333
+3158809885,Manaus,D,3,D,2,Sim,1,490,6,Privada,-3.119,-60.0217
+1988638203,São Paulo,D,3,D,2,Sim,1,532,6,Pública,-23.5505,-46.6333
+9392059356,Fortaleza,D,3,D,2,Sim,1,688,6,Pública,-3.7319,-38.5267
+4987097879,Manaus,Q,5,F,3,Sim,1,778,9,Pública,-3.119,-60.0217
+2653982164,Fortaleza,Q,5,F,3,Sim,1,574,9,Pública,-3.7319,-38.5267
+9289359170,São Paulo,B,1,B,1,Sim,1,389,3,Pública,-23.5505,-46.6333
+4017146154,Rio de Janeiro,B,1,B,1,Não,0,472,2,Pública,-22.9068,-43.1729
+8712870799,Manaus,B,1,A,0,Não,0,465,1,Pública,-3.119,-60.0217
+4603191957,Fortaleza,C,2,F,3,Sim,1,577,6,Privada,-3.7319,-38.5267
+8828009797,Rio de Janeiro,E,4,G,4,Sim,1,758,9,Pública,-22.9068,-43.1729
+2963938918,Manaus,C,2,F,3,Sim,1,459,6,Pública,-3.119,-60.0217
+7616977454,Belo Horizonte,Q,5,G,4,Sim,1,668,10,Pública,-19.9167,-43.9345
+5631934902,Manaus,Q,5,G,4,Sim,1,763,10,Pública,-3.119,-60.0217
+3957084555,Rio de Janeiro,A,0,B,1,Sim,1,363,2,Pública,-22.9068,-43.1729
+8364133423,São Paulo,D,3,F,3,Sim,1,583,7,Pública,-23.5505,-46.6333
+8430462300,São Paulo,C,2,D,2,Sim,1,488,5,Privada,-23.5505,-46.6333
+5689241307,Fortaleza,C,2,D,2,Sim,1,571,5,Pública,-3.7319,-38.5267
+3036561099,Manaus,B,1,B,1,Sim,1,416,3,Privada,-3.119,-60.0217
+6415496883,Manaus,B,1,B,1,Sim,1,547,3,Privada,-3.119,-60.0217
+3316608503,Rio de Janeiro,D,3,F,3,Sim,1,531,7,Pública,-22.9068,-43.1729
+7757559970,Rio de Janeiro,B,1,B,1,Sim,1,496,3,Privada,-22.9068,-43.1729
+5128282016,Belo Horizonte,A,0,A,0,Sim,1,368,1,Pública,-19.9167,-43.9345
+3816307289,Manaus,A,0,B,1,Não,0,507,1,Pública,-3.119,-60.0217
+6414641778,Manaus,Q,5,G,4,Sim,1,680,10,Pública,-3.119,-60.0217
+4450924308,Manaus,A,0,A,0,Não,0,431,0,Pública,-3.119,-60.0217
+4142403170,Manaus,B,1,A,0,Sim,1,316,2,Pública,-3.119,-60.0217
+9171402512,Manaus,A,0,A,0,Sim,1,362,1,Pública,-3.119,-60.0217
+6573300620,São Paulo,D,3,D,2,Sim,1,590,6,Privada,-23.5505,-46.6333
+2371441606,Belo Horizonte,E,4,G,4,Sim,1,798,9,Pública,-19.9167,-43.9345
+9947638415,Belo Horizonte,Q,5,G,4,Sim,1,586,10,Pública,-19.9167,-43.9345
+4399806102,São Paulo,C,2,F,3,Sim,1,574,6,Pública,-23.5505,-46.6333
+7655175902,São Paulo,A,0,B,1,Sim,1,605,2,Pública,-23.5505,-46.6333
+1434318588,Belo Horizonte,D,3,F,3,Sim,1,642,7,Privada,-19.9167,-43.9345
+5644357636,Manaus,A,0,B,1,Sim,1,333,2,Pública,-3.119,-60.0217
+3542142764,Manaus,B,1,A,0,Sim,1,466,2,Privada,-3.119,-60.0217
+9187729753,Belo Horizonte,B,1,A,0,Sim,1,402,2,Pública,-19.9167,-43.9345
+4533857662,Manaus,B,1,B,1,Não,0,309,2,Pública,-3.119,-60.0217
+2610056894,São Paulo,C,2,D,2,Sim,1,542,5,Pública,-23.5505,-46.6333
+2385927470,São Paulo,B,1,B,1,Não,0,456,2,Privada,-23.5505,-46.6333
+3246688145,Manaus,A,0,A,0,Sim,1,422,1,Pública,-3.119,-60.0217
+4930987466,São Paulo,D,3,D,2,Sim,1,565,6,Pública,-23.5505,-46.6333
+7251998155,Belo Horizonte,Q,5,G,4,Sim,1,705,10,Pública,-19.9167,-43.9345
+6437162011,Rio de Janeiro,B,1,B,1,Não,0,401,2,Pública,-22.9068,-43.1729
+2329410976,Belo Horizonte,B,1,B,1,Sim,1,598,3,Pública,-19.9167,-43.9345
+3634598190,Manaus,A,0,A,0,Sim,1,340,1,Pública,-3.119,-60.0217
+7664019194,São Paulo,D,3,F,3,Sim,1,704,7,Privada,-23.5505,-46.6333
+4600594380,São Paulo,B,1,A,0,Não,0,422,1,Pública,-23.5505,-46.6333
+1058720660,São Paulo,C,2,D,2,Sim,1,610,5,Pública,-23.5505,-46.6333
+2935072333,Manaus,D,3,F,3,Sim,1,613,7,Pública,-3.119,-60.0217
+9066896320,São Paulo,A,0,A,0,Sim,1,544,1,Pública,-23.5505,-46.6333
+8612049525,Belo Horizonte,A,0,B,1,Sim,1,583,2,Pública,-19.9167,-43.9345
+9452382955,Fortaleza,D,3,D,2,Sim,1,692,6,Pública,-3.7319,-38.5267
+3664209236,São Paulo,C,2,D,2,Sim,1,623,5,Pública,-23.5505,-46.6333
+6800729381,Rio de Janeiro,E,4,G,4,Sim,1,858,9,Privada,-22.9068,-43.1729
+4365764055,Fortaleza,B,1,B,1,Sim,1,561,3,Pública,-3.7319,-38.5267
+1631675779,Belo Horizonte,B,1,A,0,Sim,1,556,2,Pública,-19.9167,-43.9345
+2492129217,São Paulo,B,1,A,0,Sim,1,448,2,Pública,-23.5505,-46.6333
+4851676866,Manaus,A,0,B,1,Não,0,463,1,Pública,-3.119,-60.0217
+1725570564,Rio de Janeiro,C,2,D,2,Sim,1,695,5,Pública,-22.9068,-43.1729
+3295331460,Rio de Janeiro,A,0,B,1,Não,0,345,1,Pública,-22.9068,-43.1729
+8728408824,Rio de Janeiro,B,1,A,0,Não,0,444,1,Pública,-22.9068,-43.1729
+2189180441,São Paulo,D,3,F,3,Sim,1,624,7,Pública,-23.5505,-46.6333
+8505330540,Rio de Janeiro,D,3,F,3,Sim,1,612,7,Pública,-22.9068,-43.1729
+8514544490,Rio de Janeiro,B,1,A,0,Sim,1,382,2,Pública,-22.9068,-43.1729
+1908162278,Rio de Janeiro,A,0,A,0,Não,0,466,0,Pública,-22.9068,-43.1729
+3549460179,Rio de Janeiro,C,2,D,2,Sim,1,435,5,Pública,-22.9068,-43.1729
+7690452078,São Paulo,C,2,F,3,Sim,1,578,6,Pública,-23.5505,-46.6333
+2559426565,São Paulo,D,3,D,2,Sim,1,628,6,Pública,-23.5505,-46.6333
+1032359860,Fortaleza,A,0,B,1,Sim,1,527,2,Pública,-3.7319,-38.5267
+9967409085,Manaus,A,0,B,1,Não,0,393,1,Privada,-3.119,-60.0217
+7768861651,São Paulo,A,0,A,0,Sim,1,416,1,Pública,-23.5505,-46.6333
+6402651504,Belo Horizonte,E,4,G,4,Sim,1,873,9,Pública,-19.9167,-43.9345
+6497468338,São Paulo,C,2,F,3,Sim,1,604,6,Pública,-23.5505,-46.6333
+8348484931,Manaus,D,3,F,3,Sim,1,632,7,Pública,-3.119,-60.0217
+6534626111,São Paulo,C,2,F,3,Sim,1,390,6,Pública,-23.5505,-46.6333
+3287454186,Manaus,C,2,F,3,Sim,1,471,6,Pública,-3.119,-60.0217
+6679466508,Rio de Janeiro,D,3,F,3,Sim,1,709,7,Pública,-22.9068,-43.1729
+3558248906,Rio de Janeiro,A,0,A,0,Não,0,651,0,Privada,-22.9068,-43.1729
+9301905780,Fortaleza,A,0,A,0,Sim,1,411,1,Privada,-3.7319,-38.5267
+5501532219,Fortaleza,Q,5,F,3,Sim,1,720,9,Pública,-3.7319,-38.5267
+4498571780,São Paulo,D,3,F,3,Sim,1,619,7,Privada,-23.5505,-46.6333
+3526757929,Fortaleza,D,3,F,3,Sim,1,706,7,Privada,-3.7319,-38.5267
+1997345944,Fortaleza,C,2,D,2,Sim,1,577,5,Pública,-3.7319,-38.5267
+5581094196,São Paulo,E,4,G,4,Sim,1,748,9,Privada,-23.5505,-46.6333
+5893136319,Fortaleza,C,2,D,2,Sim,1,671,5,Pública,-3.7319,-38.5267
+8526514104,Belo Horizonte,C,2,D,2,Sim,1,522,5,Privada,-19.9167,-43.9345
+1442020981,São Paulo,B,1,B,1,Sim,1,394,3,Privada,-23.5505,-46.6333
+3318683783,Manaus,B,1,A,0,Não,0,425,1,Pública,-3.119,-60.0217
+6376436010,Belo Horizonte,C,2,D,2,Sim,1,565,5,Pública,-19.9167,-43.9345
+6271432325,Fortaleza,A,0,B,1,Sim,1,388,2,Pública,-3.7319,-38.5267
+2099578336,Fortaleza,A,0,B,1,Sim,1,274,2,Pública,-3.7319,-38.5267
+4962104695,Belo Horizonte,D,3,F,3,Sim,1,561,7,Privada,-19.9167,-43.9345
+9206334730,São Paulo,C,2,F,3,Sim,1,714,6,Privada,-23.5505,-46.6333
+8891962838,São Paulo,A,0,B,1,Sim,1,663,2,Pública,-23.5505,-46.6333
+1019894388,Manaus,A,0,A,0,Não,0,501,0,Pública,-3.119,-60.0217
+7295134086,Rio de Janeiro,A,0,B,1,Sim,1,561,2,Pública,-22.9068,-43.1729
+6052543639,São Paulo,C,2,F,3,Sim,1,544,6,Pública,-23.5505,-46.6333
+4352203548,São Paulo,D,3,D,2,Sim,1,757,6,Pública,-23.5505,-46.6333
+1638501552,Belo Horizonte,A,0,A,0,Sim,1,550,1,Pública,-19.9167,-43.9345
+1792261991,Belo Horizonte,D,3,D,2,Sim,1,815,6,Privada,-19.9167,-43.9345
+6176035359,Manaus,A,0,A,0,Sim,1,464,1,Pública,-3.119,-60.0217
+9872151057,Manaus,C,2,F,3,Sim,1,693,6,Pública,-3.119,-60.0217
+7429617373,Rio de Janeiro,D,3,D,2,Sim,1,529,6,Pública,-22.9068,-43.1729
+9149401554,Fortaleza,A,0,B,1,Sim,1,371,2,Pública,-3.7319,-38.5267
+1953363190,Belo Horizonte,E,4,F,3,Sim,1,870,8,Privada,-19.9167,-43.9345
+6752126200,Fortaleza,A,0,A,0,Não,0,418,0,Privada,-3.7319,-38.5267
+8860734442,São Paulo,D,3,F,3,Sim,1,649,7,Pública,-23.5505,-46.6333
+6554027230,Belo Horizonte,Q,5,F,3,Sim,1,681,9,Pública,-19.9167,-43.9345
+4764298642,Rio de Janeiro,A,0,A,0,Não,0,439,0,Pública,-22.9068,-43.1729
+4510893358,Belo Horizonte,D,3,F,3,Sim,1,490,7,Pública,-19.9167,-43.9345
+2758409637,Rio de Janeiro,A,0,B,1,Sim,1,551,2,Pública,-22.9068,-43.1729
+8644005739,São Paulo,D,3,D,2,Sim,1,687,6,Pública,-23.5505,-46.6333
+3326301223,São Paulo,C,2,F,3,Sim,1,607,6,Pública,-23.5505,-46.6333
+8065453845,Rio de Janeiro,C,2,D,2,Sim,1,506,5,Pública,-22.9068,-43.1729
+5583483425,Manaus,B,1,B,1,Não,0,468,2,Pública,-3.119,-60.0217
+1047226729,São Paulo,D,3,F,3,Sim,1,576,7,Privada,-23.5505,-46.6333
+3122890036,Fortaleza,D,3,D,2,Sim,1,558,6,Pública,-3.7319,-38.5267
+7107598381,Rio de Janeiro,Q,5,F,3,Sim,1,702,9,Pública,-22.9068,-43.1729
+7339588193,Belo Horizonte,C,2,D,2,Sim,1,625,5,Pública,-19.9167,-43.9345
+3131876797,Manaus,D,3,F,3,Sim,1,571,7,Privada,-3.119,-60.0217
+7269284376,São Paulo,A,0,A,0,Sim,1,643,1,Pública,-23.5505,-46.6333
+5317532261,Fortaleza,E,4,G,4,Sim,1,588,9,Pública,-3.7319,-38.5267
+5081238345,Belo Horizonte,E,4,F,3,Sim,1,821,8,Pública,-19.9167,-43.9345
+9410279503,São Paulo,C,2,F,3,Sim,1,640,6,Pública,-23.5505,-46.6333
+7397031512,Manaus,C,2,F,3,Sim,1,658,6,Pública,-3.119,-60.0217
+9779623711,Belo Horizonte,B,1,A,0,Sim,1,494,2,Pública,-19.9167,-43.9345
+5812607822,Rio de Janeiro,D,3,D,2,Sim,1,626,6,Pública,-22.9068,-43.1729
+3036734545,Manaus,C,2,F,3,Sim,1,718,6,Pública,-3.119,-60.0217
+1330511457,São Paulo,D,3,D,2,Sim,1,393,6,Pública,-23.5505,-46.6333
+3312416771,Fortaleza,D,3,F,3,Sim,1,557,7,Pública,-3.7319,-38.5267
+5399767862,Rio de Janeiro,C,2,F,3,Sim,1,693,6,Privada,-22.9068,-43.1729
+2649112337,Fortaleza,Q,5,F,3,Sim,1,688,9,Pública,-3.7319,-38.5267
+4299709193,Manaus,D,3,F,3,Sim,1,722,7,Pública,-3.119,-60.0217
+1474482690,São Paulo,B,1,A,0,Sim,1,311,2,Pública,-23.5505,-46.6333
+4909876660,Rio de Janeiro,B,1,A,0,Não,0,436,1,Pública,-22.9068,-43.1729
+4377326140,São Paulo,A,0,B,1,Não,0,505,1,Pública,-23.5505,-46.6333
+3790211134,Fortaleza,Q,5,F,3,Sim,1,607,9,Pública,-3.7319,-38.5267
+1946981081,Manaus,Q,5,G,4,Sim,1,767,10,Pública,-3.119,-60.0217
+1746874428,São Paulo,D,3,F,3,Sim,1,650,7,Pública,-23.5505,-46.6333
+7970462988,Fortaleza,B,1,B,1,Sim,1,476,3,Pública,-3.7319,-38.5267
+4817143944,São Paulo,E,4,G,4,Sim,1,608,9,Pública,-23.5505,-46.6333
+2413264846,Fortaleza,Q,5,G,4,Sim,1,782,10,Pública,-3.7319,-38.5267
+5643058117,Fortaleza,B,1,A,0,Não,0,620,1,Pública,-3.7319,-38.5267
+1264213617,Manaus,A,0,B,1,Não,0,181,1,Privada,-3.119,-60.0217
+2146877676,Manaus,E,4,G,4,Sim,1,660,9,Pública,-3.119,-60.0217
+1675772986,São Paulo,E,4,G,4,Sim,1,762,9,Pública,-23.5505,-46.6333
+4783311082,Fortaleza,A,0,B,1,Não,0,517,1,Pública,-3.7319,-38.5267
+9612032937,Manaus,E,4,F,3,Sim,1,700,8,Privada,-3.119,-60.0217
+2111057931,Rio de Janeiro,Q,5,F,3,Sim,1,663,9,Privada,-22.9068,-43.1729
+1497545575,Rio de Janeiro,B,1,A,0,Sim,1,520,2,Pública,-22.9068,-43.1729
+5374113734,Manaus,D,3,D,2,Sim,1,501,6,Pública,-3.119,-60.0217
+1440275932,Rio de Janeiro,D,3,D,2,Sim,1,565,6,Privada,-22.9068,-43.1729
+8338260880,Belo Horizonte,A,0,B,1,Sim,1,499,2,Pública,-19.9167,-43.9345
+9038189361,Rio de Janeiro,D,3,F,3,Sim,1,771,7,Pública,-22.9068,-43.1729
+6891980142,Belo Horizonte,C,2,D,2,Sim,1,550,5,Pública,-19.9167,-43.9345
+9577584412,Fortaleza,A,0,B,1,Não,0,467,1,Pública,-3.7319,-38.5267
+8614215854,Manaus,D,3,F,3,Sim,1,703,7,Privada,-3.119,-60.0217
+5137069949,Belo Horizonte,C,2,D,2,Sim,1,592,5,Privada,-19.9167,-43.9345
+5226151810,Manaus,E,4,F,3,Sim,1,638,8,Pública,-3.119,-60.0217
+1860535970,Fortaleza,D,3,F,3,Sim,1,615,7,Pública,-3.7319,-38.5267
+4730708112,Belo Horizonte,D,3,F,3,Sim,1,591,7,Pública,-19.9167,-43.9345
+7572822065,Manaus,C,2,D,2,Sim,1,661,5,Pública,-3.119,-60.0217
+7279660046,Belo Horizonte,B,1,B,1,Sim,1,566,3,Privada,-19.9167,-43.9345
+1861247141,São Paulo,A,0,A,0,Sim,1,414,1,Privada,-23.5505,-46.6333
+1642443984,Manaus,B,1,B,1,Não,0,422,2,Pública,-3.119,-60.0217
+4251544792,Manaus,B,1,B,1,Sim,1,489,3,Pública,-3.119,-60.0217
+1441489995,Fortaleza,D,3,D,2,Sim,1,648,6,Pública,-3.7319,-38.5267
+7949925973,São Paulo,C,2,F,3,Sim,1,561,6,Pública,-23.5505,-46.6333
+1354371485,Rio de Janeiro,B,1,A,0,Não,0,368,1,Privada,-22.9068,-43.1729
+7732536678,São Paulo,Q,5,G,4,Sim,1,780,10,Pública,-23.5505,-46.6333
+4034290114,Rio de Janeiro,B,1,A,0,Sim,1,381,2,Pública,-22.9068,-43.1729
+9311628491,Fortaleza,B,1,A,0,Não,0,491,1,Pública,-3.7319,-38.5267
+8661502485,Belo Horizonte,A,0,A,0,Não,0,514,0,Pública,-19.9167,-43.9345
+5645565386,Rio de Janeiro,C,2,D,2,Sim,1,662,5,Pública,-22.9068,-43.1729
+9777459999,Belo Horizonte,A,0,A,0,Não,0,585,0,Pública,-19.9167,-43.9345
+5279221599,Fortaleza,B,1,B,1,Sim,1,420,3,Pública,-3.7319,-38.5267
+4609715590,Belo Horizonte,A,0,A,0,Não,0,707,0,Pública,-19.9167,-43.9345
+2485779459,Belo Horizonte,A,0,A,0,Sim,1,529,1,Pública,-19.9167,-43.9345
+2698724705,Belo Horizonte,A,0,A,0,Sim,1,521,1,Pública,-19.9167,-43.9345
+8108210982,Belo Horizonte,Q,5,G,4,Sim,1,782,10,Pública,-19.9167,-43.9345
+7496632833,Manaus,A,0,B,1,Sim,1,333,2,Pública,-3.119,-60.0217
+5713268725,Manaus,E,4,F,3,Sim,1,717,8,Pública,-3.119,-60.0217
+2679682426,São Paulo,C,2,F,3,Sim,1,694,6,Pública,-23.5505,-46.6333
+1038785284,São Paulo,Q,5,F,3,Sim,1,818,9,Pública,-23.5505,-46.6333
+6716126287,Belo Horizonte,E,4,F,3,Sim,1,673,8,Privada,-19.9167,-43.9345
+2850647808,Rio de Janeiro,D,3,F,3,Sim,1,785,7,Pública,-22.9068,-43.1729
+3600766570,Belo Horizonte,D,3,F,3,Sim,1,509,7,Pública,-19.9167,-43.9345
+6179048555,Manaus,B,1,A,0,Sim,1,418,2,Pública,-3.119,-60.0217
+1524458102,Rio de Janeiro,A,0,B,1,Não,0,463,1,Pública,-22.9068,-43.1729
+1443708576,Fortaleza,C,2,D,2,Sim,1,562,5,Pública,-3.7319,-38.5267
+9382967777,Rio de Janeiro,B,1,B,1,Sim,1,460,3,Pública,-22.9068,-43.1729
+6766652822,São Paulo,C,2,D,2,Sim,1,540,5,Privada,-23.5505,-46.6333
+1403300480,Manaus,B,1,B,1,Sim,1,492,3,Pública,-3.119,-60.0217
+6391500462,Manaus,C,2,D,2,Sim,1,679,5,Privada,-3.119,-60.0217
+9026885767,Rio de Janeiro,B,1,B,1,Não,0,499,2,Pública,-22.9068,-43.1729
+3579598336,São Paulo,B,1,A,0,Sim,1,511,2,Pública,-23.5505,-46.6333
+8120391387,Manaus,C,2,F,3,Sim,1,518,6,Pública,-3.119,-60.0217
+4721325728,Rio de Janeiro,Q,5,F,3,Sim,1,810,9,Pública,-22.9068,-43.1729
+7030736764,São Paulo,A,0,A,0,Não,0,439,0,Pública,-23.5505,-46.6333
+9065481100,Belo Horizonte,D,3,F,3,Sim,1,586,7,Pública,-19.9167,-43.9345
+2394085518,Fortaleza,B,1,B,1,Sim,1,570,3,Pública,-3.7319,-38.5267
+3561885600,São Paulo,A,0,A,0,Sim,1,408,1,Pública,-23.5505,-46.6333
+7955658057,Belo Horizonte,A,0,A,0,Não,0,354,0,Pública,-19.9167,-43.9345
+9381536583,Rio de Janeiro,C,2,D,2,Sim,1,410,5,Pública,-22.9068,-43.1729
+2712930785,Manaus,E,4,G,4,Sim,1,913,9,Pública,-3.119,-60.0217
+8379282417,Manaus,B,1,A,0,Não,0,474,1,Privada,-3.119,-60.0217
+3811885347,Manaus,A,0,B,1,Sim,1,605,2,Privada,-3.119,-60.0217
+7381770620,Fortaleza,B,1,A,0,Sim,1,496,2,Privada,-3.7319,-38.5267
+7916330915,Fortaleza,Q,5,F,3,Sim,1,917,9,Pública,-3.7319,-38.5267
+6072997834,Rio de Janeiro,A,0,B,1,Sim,1,416,2,Pública,-22.9068,-43.1729
+2604211883,São Paulo,D,3,F,3,Sim,1,651,7,Privada,-23.5505,-46.6333
+7507627796,Manaus,C,2,D,2,Sim,1,587,5,Pública,-3.119,-60.0217
+4607176828,São Paulo,D,3,F,3,Sim,1,642,7,Privada,-23.5505,-46.6333
+6392954202,Rio de Janeiro,Q,5,F,3,Sim,1,672,9,Privada,-22.9068,-43.1729
+1410321041,Fortaleza,E,4,G,4,Sim,1,801,9,Privada,-3.7319,-38.5267
+5952027716,Fortaleza,C,2,D,2,Sim,1,651,5,Pública,-3.7319,-38.5267
+5396494255,Rio de Janeiro,C,2,D,2,Sim,1,551,5,Pública,-22.9068,-43.1729
+6398275016,Manaus,D,3,D,2,Sim,1,726,6,Privada,-3.119,-60.0217
+3902716049,São Paulo,E,4,F,3,Sim,1,595,8,Pública,-23.5505,-46.6333
+3973990640,Fortaleza,C,2,D,2,Sim,1,641,5,Pública,-3.7319,-38.5267
+4840520544,Rio de Janeiro,E,4,G,4,Sim,1,826,9,Pública,-22.9068,-43.1729
+3650663910,Belo Horizonte,B,1,A,0,Não,0,462,1,Privada,-19.9167,-43.9345
+6725199618,Rio de Janeiro,D,3,D,2,Sim,1,548,6,Pública,-22.9068,-43.1729
+5275556130,Rio de Janeiro,Q,5,G,4,Sim,1,709,10,Pública,-22.9068,-43.1729
+5710189501,Belo Horizonte,A,0,A,0,Sim,1,598,1,Pública,-19.9167,-43.9345
+6302747372,São Paulo,Q,5,F,3,Sim,1,669,9,Pública,-23.5505,-46.6333
+4547933455,Manaus,B,1,B,1,Sim,1,523,3,Privada,-3.119,-60.0217
+5800266019,Belo Horizonte,D,3,D,2,Sim,1,524,6,Pública,-19.9167,-43.9345
+2312216906,Rio de Janeiro,B,1,A,0,Não,0,388,1,Pública,-22.9068,-43.1729
+7728389947,Fortaleza,A,0,B,1,Sim,1,429,2,Privada,-3.7319,-38.5267
+8393451469,São Paulo,B,1,A,0,Não,0,497,1,Pública,-23.5505,-46.6333
+2385247118,Fortaleza,D,3,F,3,Sim,1,514,7,Pública,-3.7319,-38.5267
+8827494424,Rio de Janeiro,B,1,B,1,Sim,1,431,3,Pública,-22.9068,-43.1729
+5892818240,Rio de Janeiro,B,1,A,0,Sim,1,571,2,Pública,-22.9068,-43.1729
+2578548340,Manaus,A,0,A,0,Sim,1,504,1,Pública,-3.119,-60.0217
+5022018590,Rio de Janeiro,B,1,B,1,Não,0,228,2,Privada,-22.9068,-43.1729
+8087559739,Belo Horizonte,Q,5,F,3,Sim,1,753,9,Privada,-19.9167,-43.9345
+1249811585,Fortaleza,A,0,A,0,Não,0,591,0,Privada,-3.7319,-38.5267
+1521344328,São Paulo,C,2,D,2,Sim,1,602,5,Privada,-23.5505,-46.6333
+1999204964,Belo Horizonte,A,0,A,0,Sim,1,337,1,Pública,-19.9167,-43.9345
+5856364094,Belo Horizonte,D,3,D,2,Sim,1,682,6,Pública,-19.9167,-43.9345
+2521433058,Manaus,Q,5,G,4,Sim,1,636,10,Pública,-3.119,-60.0217
+7362324698,Manaus,A,0,B,1,Não,0,315,1,Pública,-3.119,-60.0217
+6109700471,Manaus,A,0,A,0,Sim,1,341,1,Pública,-3.119,-60.0217
+4442575697,Manaus,E,4,F,3,Sim,1,744,8,Pública,-3.119,-60.0217
+5841286141,Manaus,Q,5,F,3,Sim,1,694,9,Privada,-3.119,-60.0217
+2694262707,Belo Horizonte,C,2,D,2,Sim,1,539,5,Pública,-19.9167,-43.9345
+1571853424,Manaus,C,2,F,3,Sim,1,701,6,Pública,-3.119,-60.0217
+8029442759,Belo Horizonte,A,0,B,1,Sim,1,370,2,Pública,-19.9167,-43.9345
+2903843414,São Paulo,D,3,D,2,Sim,1,591,6,Pública,-23.5505,-46.6333
+9895979927,São Paulo,C,2,D,2,Sim,1,617,5,Pública,-23.5505,-46.6333
+7279014302,Fortaleza,A,0,B,1,Sim,1,381,2,Pública,-3.7319,-38.5267
+3360582916,Fortaleza,D,3,D,2,Sim,1,503,6,Pública,-3.7319,-38.5267
+5191848776,Rio de Janeiro,B,1,B,1,Sim,1,359,3,Pública,-22.9068,-43.1729
+3277630329,São Paulo,B,1,B,1,Não,0,419,2,Pública,-23.5505,-46.6333
+7880029045,Rio de Janeiro,B,1,B,1,Sim,1,526,3,Pública,-22.9068,-43.1729
+6259684022,Belo Horizonte,B,1,A,0,Não,0,457,1,Pública,-19.9167,-43.9345
+1703016561,São Paulo,A,0,B,1,Sim,1,442,2,Privada,-23.5505,-46.6333
+2109955339,São Paulo,C,2,F,3,Sim,1,587,6,Pública,-23.5505,-46.6333
+7272969364,São Paulo,C,2,D,2,Sim,1,506,5,Pública,-23.5505,-46.6333
+1707874257,Fortaleza,B,1,A,0,Não,0,478,1,Pública,-3.7319,-38.5267
+2775610133,Rio de Janeiro,A,0,B,1,Sim,1,644,2,Pública,-22.9068,-43.1729
+7691740857,Fortaleza,A,0,A,0,Sim,1,546,1,Pública,-3.7319,-38.5267
+6171293674,São Paulo,C,2,D,2,Sim,1,697,5,Pública,-23.5505,-46.6333
+8937304809,Fortaleza,A,0,B,1,Sim,1,391,2,Pública,-3.7319,-38.5267
+6164614669,Rio de Janeiro,Q,5,F,3,Sim,1,796,9,Pública,-22.9068,-43.1729
+1535642809,Belo Horizonte,A,0,A,0,Não,0,523,0,Pública,-19.9167,-43.9345
+7842073314,Belo Horizonte,B,1,B,1,Sim,1,491,3,Pública,-19.9167,-43.9345
+1399391763,Manaus,B,1,B,1,Não,0,389,2,Pública,-3.119,-60.0217
+8401967106,São Paulo,D,3,D,2,Sim,1,620,6,Pública,-23.5505,-46.6333
+7869237405,Belo Horizonte,D,3,F,3,Sim,1,554,7,Privada,-19.9167,-43.9345
+9920897389,Rio de Janeiro,D,3,F,3,Sim,1,646,7,Pública,-22.9068,-43.1729
+6890212670,Belo Horizonte,D,3,D,2,Sim,1,544,6,Pública,-19.9167,-43.9345
+5007691259,Belo Horizonte,B,1,A,0,Sim,1,389,2,Pública,-19.9167,-43.9345
+7819417487,Belo Horizonte,C,2,D,2,Sim,1,566,5,Pública,-19.9167,-43.9345
+4007559274,Manaus,A,0,B,1,Não,0,471,1,Pública,-3.119,-60.0217
+9043315186,Manaus,C,2,F,3,Sim,1,468,6,Pública,-3.119,-60.0217
+2869085588,Manaus,E,4,G,4,Sim,1,636,9,Pública,-3.119,-60.0217
+4350989591,Rio de Janeiro,A,0,A,0,Sim,1,230,1,Privada,-22.9068,-43.1729
+4227131422,São Paulo,A,0,B,1,Não,0,455,1,Privada,-23.5505,-46.6333
+7137022430,Manaus,B,1,B,1,Não,0,525,2,Pública,-3.119,-60.0217
+3094102316,Rio de Janeiro,Q,5,G,4,Sim,1,814,10,Pública,-22.9068,-43.1729
+9961125445,Manaus,C,2,D,2,Sim,1,772,5,Pública,-3.119,-60.0217
+1224445865,Rio de Janeiro,C,2,F,3,Sim,1,648,6,Pública,-22.9068,-43.1729
+3809658498,São Paulo,C,2,F,3,Sim,1,654,6,Pública,-23.5505,-46.6333
+3613604735,Rio de Janeiro,A,0,A,0,Não,0,394,0,Pública,-22.9068,-43.1729
+7030039067,São Paulo,C,2,D,2,Sim,1,596,5,Pública,-23.5505,-46.6333
+3334478864,Rio de Janeiro,C,2,F,3,Sim,1,502,6,Pública,-22.9068,-43.1729
+8147632661,Rio de Janeiro,C,2,D,2,Sim,1,654,5,Pública,-22.9068,-43.1729
+4218149030,São Paulo,D,3,F,3,Sim,1,553,7,Privada,-23.5505,-46.6333
+1864850879,Belo Horizonte,A,0,B,1,Sim,1,465,2,Pública,-19.9167,-43.9345
+5372043406,Manaus,A,0,B,1,Sim,1,485,2,Pública,-3.119,-60.0217
+3405964455,Belo Horizonte,E,4,F,3,Sim,1,709,8,Pública,-19.9167,-43.9345
+5575018904,Rio de Janeiro,C,2,D,2,Sim,1,588,5,Pública,-22.9068,-43.1729
+6892405926,Belo Horizonte,D,3,D,2,Sim,1,554,6,Pública,-19.9167,-43.9345
+5142395698,Belo Horizonte,C,2,F,3,Sim,1,567,6,Pública,-19.9167,-43.9345
+2341529159,Belo Horizonte,D,3,D,2,Sim,1,569,6,Pública,-19.9167,-43.9345
+7217407291,São Paulo,B,1,B,1,Sim,1,538,3,Pública,-23.5505,-46.6333
+5899318688,Fortaleza,A,0,B,1,Não,0,512,1,Pública,-3.7319,-38.5267
+9451447149,Belo Horizonte,B,1,B,1,Sim,1,461,3,Pública,-19.9167,-43.9345
+4114648221,São Paulo,C,2,D,2,Sim,1,722,5,Pública,-23.5505,-46.6333
+3404132376,Manaus,B,1,B,1,Sim,1,419,3,Privada,-3.119,-60.0217
+4517850995,Manaus,Q,5,F,3,Sim,1,774,9,Pública,-3.119,-60.0217
+8823870894,Rio de Janeiro,B,1,B,1,Sim,1,353,3,Pública,-22.9068,-43.1729
+6041267673,Rio de Janeiro,Q,5,G,4,Sim,1,816,10,Pública,-22.9068,-43.1729
+6789364264,Manaus,B,1,B,1,Sim,1,397,3,Pública,-3.119,-60.0217
+8464950032,Fortaleza,D,3,F,3,Sim,1,658,7,Pública,-3.7319,-38.5267
+1542302931,Manaus,Q,5,F,3,Sim,1,690,9,Pública,-3.119,-60.0217
+3814416531,Fortaleza,D,3,D,2,Sim,1,633,6,Pública,-3.7319,-38.5267
+7496802712,Belo Horizonte,E,4,F,3,Sim,1,682,8,Pública,-19.9167,-43.9345
+9175933411,Manaus,A,0,A,0,Sim,1,363,1,Pública,-3.119,-60.0217
+8175740666,Belo Horizonte,A,0,A,0,Não,0,335,0,Pública,-19.9167,-43.9345
+1180494616,Belo Horizonte,B,1,A,0,Sim,1,345,2,Pública,-19.9167,-43.9345
+2255067730,Rio de Janeiro,Q,5,G,4,Sim,1,797,10,Pública,-22.9068,-43.1729
+6233173623,Manaus,E,4,F,3,Sim,1,769,8,Pública,-3.119,-60.0217
+5493066504,Manaus,D,3,D,2,Sim,1,608,6,Pública,-3.119,-60.0217
+2288142778,São Paulo,E,4,F,3,Sim,1,705,8,Privada,-23.5505,-46.6333
+2419091580,São Paulo,B,1,B,1,Sim,1,532,3,Pública,-23.5505,-46.6333
+8970154033,Manaus,Q,5,G,4,Sim,1,747,10,Pública,-3.119,-60.0217
+4167820788,Manaus,C,2,F,3,Sim,1,688,6,Pública,-3.119,-60.0217
+7161542731,São Paulo,A,0,A,0,Não,0,500,0,Pública,-23.5505,-46.6333
+3711445298,São Paulo,B,1,A,0,Não,0,574,1,Pública,-23.5505,-46.6333
+8674034251,Fortaleza,A,0,B,1,Não,0,438,1,Pública,-3.7319,-38.5267
+3174396160,Manaus,Q,5,G,4,Sim,1,680,10,Privada,-3.119,-60.0217
+9467668416,São Paulo,A,0,B,1,Sim,1,336,2,Pública,-23.5505,-46.6333
+3037053267,São Paulo,A,0,A,0,Não,0,466,0,Pública,-23.5505,-46.6333
+7282901286,São Paulo,B,1,B,1,Não,0,343,2,Pública,-23.5505,-46.6333
+6555492202,Manaus,D,3,F,3,Sim,1,563,7,Pública,-3.119,-60.0217
+1127424038,São Paulo,A,0,A,0,Sim,1,528,1,Pública,-23.5505,-46.6333
+2694691328,Manaus,D,3,D,2,Sim,1,728,6,Privada,-3.119,-60.0217
+4085630041,Manaus,D,3,D,2,Sim,1,553,6,Pública,-3.119,-60.0217
+9598970541,Belo Horizonte,Q,5,F,3,Sim,1,741,9,Privada,-19.9167,-43.9345
+1519798418,Rio de Janeiro,B,1,B,1,Sim,1,410,3,Privada,-22.9068,-43.1729
+5044681126,Belo Horizonte,C,2,D,2,Sim,1,752,5,Pública,-19.9167,-43.9345
+5891415090,Rio de Janeiro,A,0,A,0,Não,0,374,0,Pública,-22.9068,-43.1729
+7571263580,São Paulo,D,3,D,2,Sim,1,614,6,Pública,-23.5505,-46.6333
+1362462518,Rio de Janeiro,B,1,B,1,Não,0,400,2,Pública,-22.9068,-43.1729
+4131776278,Manaus,A,0,A,0,Sim,1,543,1,Pública,-3.119,-60.0217
+4701155813,Belo Horizonte,C,2,D,2,Sim,1,583,5,Pública,-19.9167,-43.9345
+2851067454,Rio de Janeiro,D,3,F,3,Sim,1,603,7,Pública,-22.9068,-43.1729
+5065806894,Rio de Janeiro,A,0,A,0,Não,0,432,0,Pública,-22.9068,-43.1729
+9897934814,Belo Horizonte,B,1,B,1,Não,0,494,2,Privada,-19.9167,-43.9345
+8910141615,São Paulo,C,2,F,3,Sim,1,716,6,Pública,-23.5505,-46.6333
+1603670380,Belo Horizonte,D,3,D,2,Sim,1,612,6,Privada,-19.9167,-43.9345
+6993344562,Manaus,A,0,B,1,Não,0,493,1,Pública,-3.119,-60.0217
+9160795108,Rio de Janeiro,A,0,A,0,Sim,1,426,1,Pública,-22.9068,-43.1729
+1378823452,Belo Horizonte,A,0,B,1,Sim,1,545,2,Pública,-19.9167,-43.9345
+2655761004,Manaus,D,3,F,3,Sim,1,608,7,Pública,-3.119,-60.0217
+8846110561,Manaus,D,3,D,2,Sim,1,641,6,Privada,-3.119,-60.0217
+4154988130,Manaus,A,0,A,0,Não,0,483,0,Pública,-3.119,-60.0217
+3042454672,São Paulo,C,2,D,2,Sim,1,681,5,Privada,-23.5505,-46.6333
+3573203297,Manaus,C,2,D,2,Sim,1,631,5,Pública,-3.119,-60.0217
+4411108816,Belo Horizonte,B,1,A,0,Sim,1,601,2,Pública,-19.9167,-43.9345
+5934041104,Belo Horizonte,D,3,F,3,Sim,1,611,7,Pública,-19.9167,-43.9345
+7405592291,Belo Horizonte,D,3,F,3,Sim,1,662,7,Privada,-19.9167,-43.9345
+2555929586,Fortaleza,B,1,A,0,Não,0,544,1,Privada,-3.7319,-38.5267
+3046480546,Fortaleza,C,2,D,2,Sim,1,627,5,Pública,-3.7319,-38.5267
+4835793247,São Paulo,A,0,A,0,Sim,1,397,1,Pública,-23.5505,-46.6333
+6243061948,Fortaleza,C,2,D,2,Sim,1,523,5,Pública,-3.7319,-38.5267
+7559386505,Rio de Janeiro,C,2,F,3,Sim,1,577,6,Pública,-22.9068,-43.1729
+4407601373,Belo Horizonte,Q,5,F,3,Sim,1,670,9,Privada,-19.9167,-43.9345
+1385740263,Fortaleza,Q,5,G,4,Sim,1,788,10,Privada,-3.7319,-38.5267
+4290442878,São Paulo,A,0,B,1,Sim,1,501,2,Pública,-23.5505,-46.6333
+4105903393,São Paulo,Q,5,F,3,Sim,1,716,9,Pública,-23.5505,-46.6333
+3996840415,Fortaleza,A,0,B,1,Sim,1,400,2,Pública,-3.7319,-38.5267
+5625087399,Rio de Janeiro,A,0,A,0,Sim,1,449,1,Pública,-22.9068,-43.1729
+5949217911,Rio de Janeiro,A,0,B,1,Não,0,330,1,Privada,-22.9068,-43.1729
+3750823656,Fortaleza,A,0,A,0,Sim,1,427,1,Pública,-3.7319,-38.5267
+7244654153,São Paulo,A,0,A,0,Sim,1,349,1,Privada,-23.5505,-46.6333
+6334055949,Rio de Janeiro,Q,5,G,4,Sim,1,604,10,Pública,-22.9068,-43.1729
+4937590330,Manaus,Q,5,G,4,Sim,1,712,10,Privada,-3.119,-60.0217
+5869755729,Rio de Janeiro,C,2,F,3,Sim,1,654,6,Pública,-22.9068,-43.1729
+8657998172,São Paulo,C,2,D,2,Sim,1,674,5,Pública,-23.5505,-46.6333
+1269249878,Rio de Janeiro,D,3,F,3,Sim,1,532,7,Privada,-22.9068,-43.1729
+2547192896,Manaus,Q,5,F,3,Sim,1,925,9,Pública,-3.119,-60.0217
+2814127698,Fortaleza,A,0,B,1,Não,0,441,1,Pública,-3.7319,-38.5267
+2664938912,Belo Horizonte,C,2,F,3,Sim,1,670,6,Privada,-19.9167,-43.9345
+5892465326,Belo Horizonte,D,3,D,2,Sim,1,651,6,Privada,-19.9167,-43.9345
+2280124509,Manaus,B,1,B,1,Não,0,394,2,Pública,-3.119,-60.0217
+5745114512,São Paulo,A,0,A,0,Sim,1,492,1,Pública,-23.5505,-46.6333
+1224863099,Belo Horizonte,E,4,F,3,Sim,1,720,8,Pública,-19.9167,-43.9345
+6205474831,São Paulo,A,0,A,0,Sim,1,534,1,Pública,-23.5505,-46.6333
+2268310177,São Paulo,C,2,D,2,Sim,1,583,5,Pública,-23.5505,-46.6333
+3930000411,São Paulo,A,0,B,1,Sim,1,387,2,Pública,-23.5505,-46.6333
+1478941301,Belo Horizonte,A,0,A,0,Sim,1,511,1,Pública,-19.9167,-43.9345
+5358074925,Rio de Janeiro,C,2,D,2,Sim,1,633,5,Pública,-22.9068,-43.1729
+4161956738,Rio de Janeiro,B,1,B,1,Sim,1,445,3,Pública,-22.9068,-43.1729
+2993273514,São Paulo,Q,5,G,4,Sim,1,842,10,Pública,-23.5505,-46.6333
+5367756980,Belo Horizonte,A,0,B,1,Não,0,415,1,Pública,-19.9167,-43.9345
+6075531172,Rio de Janeiro,D,3,D,2,Sim,1,688,6,Pública,-22.9068,-43.1729
+3776519139,Rio de Janeiro,A,0,B,1,Sim,1,400,2,Pública,-22.9068,-43.1729
+3349189279,Manaus,E,4,F,3,Sim,1,743,8,Pública,-3.119,-60.0217
+1980263400,São Paulo,A,0,B,1,Não,0,479,1,Privada,-23.5505,-46.6333
+7795534851,Manaus,B,1,A,0,Sim,1,502,2,Pública,-3.119,-60.0217
+6136063979,Belo Horizonte,C,2,D,2,Sim,1,614,5,Pública,-19.9167,-43.9345
+4483750068,Rio de Janeiro,E,4,G,4,Sim,1,802,9,Pública,-22.9068,-43.1729
+6542674647,Belo Horizonte,C,2,D,2,Sim,1,614,5,Pública,-19.9167,-43.9345
+5562128113,Belo Horizonte,C,2,D,2,Sim,1,645,5,Pública,-19.9167,-43.9345
+7080136864,Belo Horizonte,C,2,F,3,Sim,1,625,6,Pública,-19.9167,-43.9345
+8213914388,Rio de Janeiro,B,1,A,0,Não,0,468,1,Pública,-22.9068,-43.1729
+9778483421,Rio de Janeiro,D,3,D,2,Sim,1,642,6,Pública,-22.9068,-43.1729
+1588406480,Fortaleza,A,0,B,1,Não,0,425,1,Pública,-3.7319,-38.5267
+7539258301,São Paulo,A,0,B,1,Sim,1,507,2,Privada,-23.5505,-46.6333
+9903817526,São Paulo,A,0,A,0,Sim,1,394,1,Pública,-23.5505,-46.6333
+9448426913,São Paulo,E,4,G,4,Sim,1,835,9,Pública,-23.5505,-46.6333
+8046388544,Manaus,Q,5,G,4,Sim,1,848,10,Pública,-3.119,-60.0217
+7885108779,Belo Horizonte,D,3,D,2,Sim,1,592,6,Privada,-19.9167,-43.9345
+1953808599,São Paulo,Q,5,F,3,Sim,1,690,9,Pública,-23.5505,-46.6333
+1508964873,Fortaleza,A,0,A,0,Sim,1,497,1,Pública,-3.7319,-38.5267
+3068238662,Belo Horizonte,B,1,A,0,Sim,1,352,2,Privada,-19.9167,-43.9345
+6828790989,Manaus,A,0,A,0,Sim,1,331,1,Privada,-3.119,-60.0217
+9170043136,São Paulo,D,3,D,2,Sim,1,611,6,Privada,-23.5505,-46.6333
+1752571792,Fortaleza,C,2,F,3,Sim,1,533,6,Pública,-3.7319,-38.5267
+3219202658,Rio de Janeiro,C,2,D,2,Sim,1,684,5,Pública,-22.9068,-43.1729
+4277525453,Manaus,A,0,A,0,Sim,1,422,1,Pública,-3.119,-60.0217
+6174061683,Belo Horizonte,Q,5,F,3,Sim,1,677,9,Pública,-19.9167,-43.9345
+5600589816,Fortaleza,D,3,F,3,Sim,1,546,7,Pública,-3.7319,-38.5267
+9998184302,Fortaleza,A,0,A,0,Sim,1,494,1,Pública,-3.7319,-38.5267
+9056856504,Manaus,C,2,F,3,Sim,1,642,6,Privada,-3.119,-60.0217
+2682871134,São Paulo,D,3,F,3,Sim,1,637,7,Pública,-23.5505,-46.6333
+5529620324,São Paulo,D,3,F,3,Sim,1,571,7,Pública,-23.5505,-46.6333
+5338306132,São Paulo,E,4,F,3,Sim,1,647,8,Pública,-23.5505,-46.6333
+4643959236,Fortaleza,B,1,B,1,Não,0,400,2,Pública,-3.7319,-38.5267
+8808365412,Manaus,D,3,F,3,Sim,1,679,7,Pública,-3.119,-60.0217
+3329895221,São Paulo,A,0,A,0,Sim,1,506,1,Pública,-23.5505,-46.6333
+8341477065,Manaus,B,1,A,0,Sim,1,320,2,Pública,-3.119,-60.0217
+1440302693,Rio de Janeiro,C,2,F,3,Sim,1,620,6,Pública,-22.9068,-43.1729
+2927639934,São Paulo,C,2,D,2,Sim,1,652,5,Pública,-23.5505,-46.6333
+8425917094,Fortaleza,E,4,F,3,Sim,1,801,8,Pública,-3.7319,-38.5267
+9812823208,Manaus,E,4,G,4,Sim,1,685,9,Privada,-3.119,-60.0217
+2339961168,Belo Horizonte,E,4,F,3,Sim,1,641,8,Pública,-19.9167,-43.9345
+1108204882,Fortaleza,D,3,F,3,Sim,1,578,7,Pública,-3.7319,-38.5267
+4509538642,Rio de Janeiro,D,3,D,2,Sim,1,633,6,Privada,-22.9068,-43.1729
+3168080576,São Paulo,D,3,D,2,Sim,1,595,6,Pública,-23.5505,-46.6333
+1675483283,Manaus,Q,5,F,3,Sim,1,574,9,Privada,-3.119,-60.0217
+8184204658,Belo Horizonte,D,3,F,3,Sim,1,547,7,Pública,-19.9167,-43.9345
+9642147537,Fortaleza,E,4,F,3,Sim,1,730,8,Privada,-3.7319,-38.5267
+1085021707,Belo Horizonte,D,3,D,2,Sim,1,529,6,Pública,-19.9167,-43.9345
+4146918456,Fortaleza,D,3,D,2,Sim,1,521,6,Privada,-3.7319,-38.5267
+5655398961,Belo Horizonte,D,3,F,3,Sim,1,755,7,Pública,-19.9167,-43.9345
+3756228236,Manaus,B,1,A,0,Não,0,407,1,Privada,-3.119,-60.0217
+8649319126,Belo Horizonte,C,2,D,2,Sim,1,731,5,Pública,-19.9167,-43.9345
+1049309063,Belo Horizonte,B,1,A,0,Sim,1,420,2,Pública,-19.9167,-43.9345
+9463991301,Rio de Janeiro,D,3,D,2,Sim,1,641,6,Privada,-22.9068,-43.1729
+1878065584,São Paulo,D,3,F,3,Sim,1,613,7,Pública,-23.5505,-46.6333
+7369607000,Fortaleza,C,2,D,2,Sim,1,669,5,Pública,-3.7319,-38.5267
+9920558886,Rio de Janeiro,D,3,D,2,Sim,1,719,6,Pública,-22.9068,-43.1729
+8283394707,Fortaleza,B,1,B,1,Não,0,593,2,Pública,-3.7319,-38.5267
+7230650952,Rio de Janeiro,B,1,B,1,Sim,1,567,3,Pública,-22.9068,-43.1729
+9014819740,São Paulo,D,3,D,2,Sim,1,782,6,Pública,-23.5505,-46.6333
+7980201315,Fortaleza,D,3,D,2,Sim,1,531,6,Privada,-3.7319,-38.5267
+3503648323,Rio de Janeiro,A,0,B,1,Sim,1,465,2,Pública,-22.9068,-43.1729
+3651064365,Fortaleza,Q,5,F,3,Sim,1,787,9,Pública,-3.7319,-38.5267
+5732594832,Rio de Janeiro,D,3,F,3,Sim,1,745,7,Privada,-22.9068,-43.1729
+3202143098,Rio de Janeiro,A,0,A,0,Sim,1,458,1,Privada,-22.9068,-43.1729
+2039476905,São Paulo,C,2,F,3,Sim,1,533,6,Pública,-23.5505,-46.6333
+1920868856,São Paulo,E,4,G,4,Sim,1,781,9,Pública,-23.5505,-46.6333
+8442033602,Manaus,B,1,B,1,Não,0,496,2,Pública,-3.119,-60.0217
+8485619008,Rio de Janeiro,A,0,B,1,Sim,1,352,2,Pública,-22.9068,-43.1729
+7131047120,Fortaleza,C,2,F,3,Sim,1,622,6,Pública,-3.7319,-38.5267
+3862437000,São Paulo,B,1,B,1,Sim,1,521,3,Pública,-23.5505,-46.6333
+4752611385,Rio de Janeiro,C,2,F,3,Sim,1,676,6,Pública,-22.9068,-43.1729
+9864839771,Rio de Janeiro,D,3,F,3,Sim,1,528,7,Pública,-22.9068,-43.1729
+1863712460,Rio de Janeiro,Q,5,G,4,Sim,1,732,10,Privada,-22.9068,-43.1729
+4283247926,Manaus,D,3,F,3,Sim,1,456,7,Privada,-3.119,-60.0217
+4968665189,Fortaleza,D,3,D,2,Sim,1,587,6,Pública,-3.7319,-38.5267
+9081799622,Manaus,D,3,D,2,Sim,1,587,6,Pública,-3.119,-60.0217
+1034206848,Fortaleza,Q,5,F,3,Sim,1,643,9,Pública,-3.7319,-38.5267
+9919082873,Rio de Janeiro,C,2,D,2,Sim,1,543,5,Privada,-22.9068,-43.1729
+9219658783,Belo Horizonte,E,4,F,3,Sim,1,774,8,Pública,-19.9167,-43.9345
+1440526036,Rio de Janeiro,B,1,A,0,Não,0,508,1,Pública,-22.9068,-43.1729
+7535219624,Manaus,A,0,A,0,Sim,1,493,1,Privada,-3.119,-60.0217
+1688764188,São Paulo,B,1,A,0,Sim,1,527,2,Privada,-23.5505,-46.6333
+1709891472,Manaus,D,3,F,3,Sim,1,659,7,Privada,-3.119,-60.0217
+7620132085,Manaus,D,3,F,3,Sim,1,642,7,Pública,-3.119,-60.0217
+6816551049,São Paulo,B,1,A,0,Sim,1,549,2,Pública,-23.5505,-46.6333
+6011930790,Rio de Janeiro,D,3,D,2,Sim,1,756,6,Pública,-22.9068,-43.1729
+2785740462,Fortaleza,B,1,B,1,Sim,1,502,3,Privada,-3.7319,-38.5267
+1874743708,Fortaleza,C,2,F,3,Sim,1,639,6,Privada,-3.7319,-38.5267
+3287087535,Rio de Janeiro,A,0,B,1,Sim,1,470,2,Pública,-22.9068,-43.1729
+7495213584,Manaus,A,0,A,0,Não,0,484,0,Pública,-3.119,-60.0217
+5086412390,Manaus,A,0,A,0,Não,0,436,0,Pública,-3.119,-60.0217
+3699071092,São Paulo,E,4,F,3,Sim,1,725,8,Privada,-23.5505,-46.6333
+4140980533,Fortaleza,D,3,F,3,Sim,1,632,7,Privada,-3.7319,-38.5267
+3083465714,São Paulo,D,3,F,3,Sim,1,750,7,Pública,-23.5505,-46.6333
+7032576424,Belo Horizonte,A,0,A,0,Sim,1,452,1,Pública,-19.9167,-43.9345
+9168057266,Manaus,C,2,F,3,Sim,1,691,6,Pública,-3.119,-60.0217
+4191510887,Rio de Janeiro,B,1,B,1,Não,0,411,2,Privada,-22.9068,-43.1729
+3401141370,Rio de Janeiro,D,3,D,2,Sim,1,626,6,Privada,-22.9068,-43.1729
+6903348355,Rio de Janeiro,A,0,A,0,Não,0,600,0,Privada,-22.9068,-43.1729
+8136879677,Rio de Janeiro,B,1,A,0,Não,0,437,1,Pública,-22.9068,-43.1729
+3507030777,São Paulo,A,0,B,1,Não,0,556,1,Pública,-23.5505,-46.6333
+8516097436,Rio de Janeiro,C,2,D,2,Sim,1,830,5,Pública,-22.9068,-43.1729
+3326353652,Rio de Janeiro,E,4,F,3,Sim,1,647,8,Pública,-22.9068,-43.1729
+2037237287,Rio de Janeiro,C,2,F,3,Sim,1,641,6,Privada,-22.9068,-43.1729
+3511130329,Manaus,B,1,B,1,Sim,1,387,3,Privada,-3.119,-60.0217
+2167999359,Rio de Janeiro,D,3,F,3,Sim,1,731,7,Privada,-22.9068,-43.1729
+3270854109,São Paulo,B,1,A,0,Sim,1,394,2,Privada,-23.5505,-46.6333
+8138102246,Rio de Janeiro,A,0,B,1,Sim,1,411,2,Pública,-22.9068,-43.1729
+8673853911,Manaus,Q,5,G,4,Sim,1,750,10,Pública,-3.119,-60.0217
+5439606341,Belo Horizonte,B,1,A,0,Sim,1,416,2,Privada,-19.9167,-43.9345
+3706000699,Manaus,E,4,F,3,Sim,1,737,8,Privada,-3.119,-60.0217
+2874407878,São Paulo,E,4,G,4,Sim,1,708,9,Pública,-23.5505,-46.6333
+8330812796,Manaus,Q,5,G,4,Sim,1,790,10,Pública,-3.119,-60.0217
+1558692208,Rio de Janeiro,A,0,A,0,Sim,1,508,1,Pública,-22.9068,-43.1729
+9648769437,Fortaleza,A,0,A,0,Sim,1,546,1,Privada,-3.7319,-38.5267
+4274064863,Fortaleza,A,0,B,1,Sim,1,355,2,Pública,-3.7319,-38.5267
+2728015484,Belo Horizonte,A,0,B,1,Sim,1,590,2,Pública,-19.9167,-43.9345
+8333214281,Manaus,C,2,D,2,Sim,1,750,5,Pública,-3.119,-60.0217
+6890487265,Manaus,B,1,B,1,Sim,1,489,3,Pública,-3.119,-60.0217
+8084586883,Fortaleza,C,2,F,3,Sim,1,441,6,Pública,-3.7319,-38.5267
+5524095178,São Paulo,D,3,D,2,Sim,1,685,6,Pública,-23.5505,-46.6333
+1299791541,Fortaleza,A,0,A,0,Sim,1,431,1,Pública,-3.7319,-38.5267
+1770328206,Rio de Janeiro,C,2,F,3,Sim,1,504,6,Pública,-22.9068,-43.1729
+8240028691,Rio de Janeiro,B,1,A,0,Sim,1,638,2,Pública,-22.9068,-43.1729
+1660097996,Fortaleza,D,3,F,3,Sim,1,704,7,Pública,-3.7319,-38.5267
+8312784019,Rio de Janeiro,Q,5,F,3,Sim,1,753,9,Privada,-22.9068,-43.1729
+7858102506,Manaus,D,3,D,2,Sim,1,644,6,Pública,-3.119,-60.0217
+8263699408,Fortaleza,D,3,F,3,Sim,1,582,7,Pública,-3.7319,-38.5267
+5844452205,São Paulo,C,2,D,2,Sim,1,568,5,Privada,-23.5505,-46.6333
+6609448348,Belo Horizonte,Q,5,G,4,Sim,1,714,10,Pública,-19.9167,-43.9345
+6280085793,Fortaleza,D,3,F,3,Sim,1,555,7,Pública,-3.7319,-38.5267
+4261136509,Rio de Janeiro,A,0,A,0,Sim,1,456,1,Pública,-22.9068,-43.1729
+8003291839,São Paulo,Q,5,G,4,Sim,1,648,10,Pública,-23.5505,-46.6333
+1268713951,Belo Horizonte,Q,5,F,3,Sim,1,669,9,Pública,-19.9167,-43.9345
+8856844830,Belo Horizonte,B,1,B,1,Não,0,505,2,Pública,-19.9167,-43.9345
+9943291536,Manaus,D,3,F,3,Sim,1,467,7,Pública,-3.119,-60.0217
+4071702454,São Paulo,C,2,F,3,Sim,1,600,6,Pública,-23.5505,-46.6333
+4703133582,São Paulo,A,0,B,1,Sim,1,409,2,Pública,-23.5505,-46.6333
+4286338591,Rio de Janeiro,A,0,A,0,Sim,1,437,1,Pública,-22.9068,-43.1729
+3115568062,Fortaleza,C,2,F,3,Sim,1,677,6,Pública,-3.7319,-38.5267
+5824247183,Belo Horizonte,C,2,F,3,Sim,1,567,6,Pública,-19.9167,-43.9345
+5086424400,São Paulo,D,3,D,2,Sim,1,452,6,Pública,-23.5505,-46.6333
+9029896973,São Paulo,A,0,A,0,Sim,1,361,1,Privada,-23.5505,-46.6333
+2196762845,São Paulo,C,2,F,3,Sim,1,662,6,Pública,-23.5505,-46.6333
+7888487519,Fortaleza,A,0,B,1,Sim,1,371,2,Pública,-3.7319,-38.5267
+4418477822,Fortaleza,Q,5,F,3,Sim,1,747,9,Pública,-3.7319,-38.5267
+7528668372,Manaus,A,0,A,0,Não,0,431,0,Pública,-3.119,-60.0217
+1996671824,Belo Horizonte,A,0,B,1,Sim,1,503,2,Pública,-19.9167,-43.9345
+2262501783,Belo Horizonte,C,2,D,2,Sim,1,676,5,Privada,-19.9167,-43.9345
+3010341286,Manaus,Q,5,G,4,Sim,1,727,10,Privada,-3.119,-60.0217
+8560964853,Manaus,C,2,D,2,Sim,1,765,5,Pública,-3.119,-60.0217
+7338030929,Manaus,C,2,F,3,Sim,1,497,6,Privada,-3.119,-60.0217
+3192927655,Manaus,D,3,D,2,Sim,1,666,6,Pública,-3.119,-60.0217
+4663529784,Belo Horizonte,C,2,D,2,Sim,1,519,5,Pública,-19.9167,-43.9345
+1479288269,Belo Horizonte,E,4,F,3,Sim,1,747,8,Pública,-19.9167,-43.9345
+1905299424,Fortaleza,Q,5,F,3,Sim,1,768,9,Privada,-3.7319,-38.5267
+6866434901,Rio de Janeiro,C,2,F,3,Sim,1,617,6,Pública,-22.9068,-43.1729
+5129578098,São Paulo,A,0,A,0,Não,0,563,0,Pública,-23.5505,-46.6333
+3806260741,Rio de Janeiro,C,2,D,2,Sim,1,516,5,Pública,-22.9068,-43.1729
+6486669017,Rio de Janeiro,C,2,D,2,Sim,1,701,5,Pública,-22.9068,-43.1729
+2489863907,São Paulo,B,1,A,0,Não,0,372,1,Pública,-23.5505,-46.6333
+5017875390,Fortaleza,Q,5,G,4,Sim,1,627,10,Pública,-3.7319,-38.5267
+2030746478,Belo Horizonte,B,1,B,1,Sim,1,485,3,Pública,-19.9167,-43.9345
+5316556183,Manaus,D,3,D,2,Sim,1,518,6,Pública,-3.119,-60.0217
+9828758479,Rio de Janeiro,Q,5,G,4,Sim,1,714,10,Pública,-22.9068,-43.1729
+8972028374,São Paulo,D,3,D,2,Sim,1,728,6,Pública,-23.5505,-46.6333
+2890034933,Rio de Janeiro,E,4,G,4,Sim,1,689,9,Pública,-22.9068,-43.1729
+4156482493,Rio de Janeiro,D,3,D,2,Sim,1,570,6,Pública,-22.9068,-43.1729
+5883762029,Manaus,D,3,D,2,Sim,1,500,6,Privada,-3.119,-60.0217
+9170801776,Manaus,D,3,D,2,Sim,1,768,6,Pública,-3.119,-60.0217
+5749603476,Fortaleza,A,0,A,0,Sim,1,481,1,Pública,-3.7319,-38.5267
+7772550892,Fortaleza,D,3,D,2,Sim,1,711,6,Pública,-3.7319,-38.5267
+3512892773,Manaus,D,3,D,2,Sim,1,731,6,Pública,-3.119,-60.0217
+3439431034,Belo Horizonte,C,2,F,3,Sim,1,658,6,Pública,-19.9167,-43.9345
+7147102676,Manaus,B,1,B,1,Sim,1,414,3,Pública,-3.119,-60.0217
+3636982382,Belo Horizonte,A,0,A,0,Não,0,426,0,Pública,-19.9167,-43.9345
+4200521550,São Paulo,A,0,B,1,Não,0,452,1,Pública,-23.5505,-46.6333
+2409520144,Manaus,D,3,D,2,Sim,1,716,6,Pública,-3.119,-60.0217
+4611675397,Rio de Janeiro,B,1,A,0,Não,0,356,1,Pública,-22.9068,-43.1729
+2971922672,Manaus,C,2,D,2,Sim,1,631,5,Pública,-3.119,-60.0217
+8232151344,Manaus,B,1,B,1,Sim,1,606,3,Pública,-3.119,-60.0217
+9466028689,Manaus,B,1,B,1,Sim,1,345,3,Pública,-3.119,-60.0217
+1961997702,Belo Horizonte,D,3,F,3,Sim,1,532,7,Pública,-19.9167,-43.9345
+9919801168,Fortaleza,C,2,F,3,Sim,1,593,6,Pública,-3.7319,-38.5267
+2881954684,Fortaleza,B,1,A,0,Sim,1,350,2,Pública,-3.7319,-38.5267
+8197604665,São Paulo,D,3,D,2,Sim,1,553,6,Pública,-23.5505,-46.6333
+9715155151,Manaus,A,0,B,1,Não,0,364,1,Pública,-3.119,-60.0217
+9101089031,Manaus,C,2,F,3,Sim,1,586,6,Pública,-3.119,-60.0217
+2227070415,Belo Horizonte,Q,5,F,3,Sim,1,847,9,Privada,-19.9167,-43.9345
+8836045482,Rio de Janeiro,A,0,A,0,Não,0,415,0,Privada,-22.9068,-43.1729
+2852426733,Manaus,D,3,F,3,Sim,1,630,7,Pública,-3.119,-60.0217
+4872269513,Rio de Janeiro,Q,5,G,4,Sim,1,700,10,Pública,-22.9068,-43.1729
+5322365066,Belo Horizonte,B,1,A,0,Sim,1,540,2,Privada,-19.9167,-43.9345
+2718898643,Belo Horizonte,A,0,A,0,Sim,1,546,1,Pública,-19.9167,-43.9345
+3592136507,Fortaleza,D,3,D,2,Sim,1,595,6,Pública,-3.7319,-38.5267
+8629109528,Rio de Janeiro,A,0,A,0,Não,0,350,0,Pública,-22.9068,-43.1729
+9151696077,Belo Horizonte,B,1,B,1,Sim,1,535,3,Pública,-19.9167,-43.9345
+6299185762,São Paulo,A,0,B,1,Não,0,548,1,Pública,-23.5505,-46.6333
+9276042705,Fortaleza,A,0,B,1,Sim,1,307,2,Pública,-3.7319,-38.5267
+4381736811,Manaus,D,3,F,3,Sim,1,715,7,Pública,-3.119,-60.0217
+3431874947,Fortaleza,B,1,B,1,Sim,1,463,3,Pública,-3.7319,-38.5267
+9807144423,Fortaleza,C,2,D,2,Sim,1,645,5,Pública,-3.7319,-38.5267
+1952546366,Belo Horizonte,D,3,D,2,Sim,1,553,6,Pública,-19.9167,-43.9345
+6744322396,Manaus,B,1,B,1,Não,0,403,2,Pública,-3.119,-60.0217
+9810239980,Belo Horizonte,A,0,B,1,Não,0,489,1,Pública,-19.9167,-43.9345
+6190847508,Manaus,B,1,A,0,Sim,1,501,2,Privada,-3.119,-60.0217
+6783425854,Manaus,D,3,D,2,Sim,1,517,6,Pública,-3.119,-60.0217
+2058794922,Rio de Janeiro,B,1,B,1,Não,0,319,2,Pública,-22.9068,-43.1729
+1987815654,Manaus,B,1,B,1,Não,0,484,2,Pública,-3.119,-60.0217
+3343257375,Belo Horizonte,C,2,F,3,Sim,1,545,6,Pública,-19.9167,-43.9345
+8178053561,Belo Horizonte,A,0,B,1,Sim,1,455,2,Pública,-19.9167,-43.9345
+3177902420,Belo Horizonte,Q,5,F,3,Sim,1,692,9,Pública,-19.9167,-43.9345
+7131007617,Manaus,C,2,D,2,Sim,1,733,5,Pública,-3.119,-60.0217
+4347998723,Manaus,D,3,D,2,Sim,1,698,6,Pública,-3.119,-60.0217
+4822148832,Rio de Janeiro,D,3,D,2,Sim,1,497,6,Pública,-22.9068,-43.1729
+9012529431,Belo Horizonte,C,2,F,3,Sim,1,607,6,Pública,-19.9167,-43.9345
+1580164802,Belo Horizonte,B,1,A,0,Sim,1,554,2,Pública,-19.9167,-43.9345
+7766116155,São Paulo,E,4,G,4,Sim,1,635,9,Pública,-23.5505,-46.6333
+3839577591,Belo Horizonte,A,0,B,1,Não,0,395,1,Pública,-19.9167,-43.9345
+4648344531,Manaus,C,2,F,3,Sim,1,666,6,Privada,-3.119,-60.0217
+7846787160,Rio de Janeiro,A,0,B,1,Não,0,443,1,Pública,-22.9068,-43.1729
+7126334272,Belo Horizonte,B,1,B,1,Sim,1,502,3,Pública,-19.9167,-43.9345
+7003866817,Fortaleza,D,3,F,3,Sim,1,739,7,Pública,-3.7319,-38.5267
+8731827361,Manaus,B,1,A,0,Sim,1,616,2,Pública,-3.119,-60.0217
+8665527422,Rio de Janeiro,D,3,F,3,Sim,1,658,7,Pública,-22.9068,-43.1729
+6565522114,São Paulo,A,0,B,1,Sim,1,483,2,Pública,-23.5505,-46.6333
+7194917094,Manaus,A,0,A,0,Sim,1,553,1,Pública,-3.119,-60.0217
+2978561845,Manaus,B,1,A,0,Não,0,360,1,Pública,-3.119,-60.0217
+1058557684,Belo Horizonte,C,2,D,2,Sim,1,536,5,Pública,-19.9167,-43.9345
+5112996602,Fortaleza,B,1,A,0,Sim,1,568,2,Pública,-3.7319,-38.5267
+8783589374,Belo Horizonte,C,2,D,2,Sim,1,437,5,Pública,-19.9167,-43.9345
+2352564435,Manaus,E,4,F,3,Sim,1,800,8,Pública,-3.119,-60.0217
+1376453173,Belo Horizonte,A,0,A,0,Sim,1,562,1,Pública,-19.9167,-43.9345
+8183363996,Rio de Janeiro,C,2,D,2,Sim,1,637,5,Pública,-22.9068,-43.1729
+2102704915,Belo Horizonte,C,2,F,3,Sim,1,652,6,Pública,-19.9167,-43.9345
+3893526924,Fortaleza,C,2,D,2,Sim,1,638,5,Privada,-3.7319,-38.5267
+4650547541,Belo Horizonte,D,3,F,3,Sim,1,550,7,Pública,-19.9167,-43.9345
+3325185435,Rio de Janeiro,C,2,F,3,Sim,1,552,6,Pública,-22.9068,-43.1729
+9876382646,São Paulo,A,0,B,1,Não,0,512,1,Pública,-23.5505,-46.6333
+6378638765,Fortaleza,Q,5,F,3,Sim,1,628,9,Pública,-3.7319,-38.5267
+9133101486,Belo Horizonte,B,1,B,1,Sim,1,571,3,Pública,-19.9167,-43.9345
+7684964717,Manaus,Q,5,G,4,Sim,1,622,10,Pública,-3.119,-60.0217
+5188366092,Belo Horizonte,A,0,A,0,Não,0,521,0,Pública,-19.9167,-43.9345
+7065695242,São Paulo,Q,5,F,3,Sim,1,810,9,Pública,-23.5505,-46.6333
+8798670232,Belo Horizonte,E,4,F,3,Sim,1,715,8,Pública,-19.9167,-43.9345
+6818514845,Belo Horizonte,A,0,B,1,Sim,1,420,2,Privada,-19.9167,-43.9345
+9590735717,Belo Horizonte,C,2,F,3,Sim,1,736,6,Pública,-19.9167,-43.9345
+5099829457,Belo Horizonte,B,1,A,0,Sim,1,370,2,Pública,-19.9167,-43.9345
+1477637937,São Paulo,B,1,A,0,Sim,1,325,2,Pública,-23.5505,-46.6333
+5546503385,São Paulo,B,1,B,1,Não,0,378,2,Privada,-23.5505,-46.6333
+1423459004,Belo Horizonte,D,3,F,3,Sim,1,462,7,Pública,-19.9167,-43.9345
+2702149777,Fortaleza,B,1,A,0,Sim,1,533,2,Pública,-3.7319,-38.5267
+3249117222,Belo Horizonte,B,1,A,0,Não,0,556,1,Privada,-19.9167,-43.9345
+6484970676,Fortaleza,D,3,F,3,Sim,1,635,7,Privada,-3.7319,-38.5267
+2692801413,Manaus,B,1,B,1,Sim,1,494,3,Privada,-3.119,-60.0217
+5389740698,Manaus,B,1,A,0,Não,0,257,1,Pública,-3.119,-60.0217
+2204028576,São Paulo,Q,5,F,3,Sim,1,575,9,Pública,-23.5505,-46.6333
+5840841489,Rio de Janeiro,C,2,F,3,Sim,1,679,6,Pública,-22.9068,-43.1729
+7195822496,Fortaleza,B,1,B,1,Sim,1,425,3,Privada,-3.7319,-38.5267
+3162717793,Fortaleza,Q,5,G,4,Sim,1,767,10,Pública,-3.7319,-38.5267
+8663963160,Manaus,B,1,B,1,Sim,1,435,3,Pública,-3.119,-60.0217
+1090284985,Fortaleza,Q,5,F,3,Sim,1,727,9,Pública,-3.7319,-38.5267
+4280033321,Manaus,E,4,F,3,Sim,1,793,8,Pública,-3.119,-60.0217
+1053004410,Fortaleza,C,2,D,2,Sim,1,569,5,Pública,-3.7319,-38.5267
+6948970379,Fortaleza,B,1,A,0,Não,0,482,1,Pública,-3.7319,-38.5267
+5919140691,Fortaleza,Q,5,F,3,Sim,1,530,9,Pública,-3.7319,-38.5267
+3396049211,Belo Horizonte,A,0,A,0,Sim,1,418,1,Pública,-19.9167,-43.9345
+2419020553,Rio de Janeiro,B,1,A,0,Sim,1,434,2,Pública,-22.9068,-43.1729
+1331517912,Fortaleza,D,3,F,3,Sim,1,661,7,Pública,-3.7319,-38.5267
+5075840938,São Paulo,A,0,A,0,Sim,1,519,1,Pública,-23.5505,-46.6333
+8182859578,São Paulo,A,0,A,0,Sim,1,370,1,Pública,-23.5505,-46.6333
+1095427651,São Paulo,D,3,F,3,Sim,1,751,7,Pública,-23.5505,-46.6333
+7401255852,São Paulo,A,0,B,1,Sim,1,433,2,Pública,-23.5505,-46.6333
+6720838318,Rio de Janeiro,D,3,F,3,Sim,1,592,7,Pública,-22.9068,-43.1729
+3951911961,Belo Horizonte,B,1,A,0,Não,0,463,1,Pública,-19.9167,-43.9345
+6071892118,Belo Horizonte,C,2,D,2,Sim,1,614,5,Pública,-19.9167,-43.9345
+9881877683,Fortaleza,A,0,B,1,Sim,1,396,2,Pública,-3.7319,-38.5267
+7526682454,Fortaleza,D,3,D,2,Sim,1,643,6,Pública,-3.7319,-38.5267
+5342549319,Belo Horizonte,Q,5,G,4,Sim,1,839,10,Pública,-19.9167,-43.9345
+3550268394,Fortaleza,D,3,F,3,Sim,1,516,7,Privada,-3.7319,-38.5267
+1853899878,Rio de Janeiro,C,2,D,2,Sim,1,777,5,Pública,-22.9068,-43.1729
+3436925548,Rio de Janeiro,A,0,B,1,Não,0,587,1,Privada,-22.9068,-43.1729
+2892101296,São Paulo,D,3,F,3,Sim,1,578,7,Pública,-23.5505,-46.6333
+5322731505,Manaus,B,1,A,0,Não,0,411,1,Pública,-3.119,-60.0217
+5687135621,São Paulo,C,2,D,2,Sim,1,615,5,Pública,-23.5505,-46.6333
+8363352511,Fortaleza,A,0,A,0,Não,0,431,0,Pública,-3.7319,-38.5267
+1843077603,São Paulo,B,1,A,0,Não,0,456,1,Pública,-23.5505,-46.6333
+4479615378,Fortaleza,D,3,F,3,Sim,1,466,7,Pública,-3.7319,-38.5267
+3457249408,Fortaleza,D,3,D,2,Sim,1,534,6,Pública,-3.7319,-38.5267
+3384281468,Belo Horizonte,D,3,F,3,Sim,1,571,7,Privada,-19.9167,-43.9345
+8613563913,Manaus,D,3,F,3,Sim,1,490,7,Privada,-3.119,-60.0217
+4430200456,Belo Horizonte,A,0,A,0,Sim,1,467,1,Privada,-19.9167,-43.9345
+9099938926,Rio de Janeiro,Q,5,F,3,Sim,1,768,9,Pública,-22.9068,-43.1729
+4778507783,Rio de Janeiro,C,2,D,2,Sim,1,625,5,Pública,-22.9068,-43.1729
+1003991818,Fortaleza,B,1,B,1,Sim,1,422,3,Privada,-3.7319,-38.5267
+4264198963,Manaus,A,0,B,1,Não,0,430,1,Pública,-3.119,-60.0217
+5013835414,Rio de Janeiro,D,3,D,2,Sim,1,486,6,Pública,-22.9068,-43.1729
+6706113811,Manaus,C,2,D,2,Sim,1,498,5,Pública,-3.119,-60.0217
+7764833638,Belo Horizonte,A,0,B,1,Sim,1,571,2,Pública,-19.9167,-43.9345
+9619203515,Fortaleza,B,1,A,0,Sim,1,524,2,Privada,-3.7319,-38.5267
+2590135107,Fortaleza,D,3,F,3,Sim,1,559,7,Pública,-3.7319,-38.5267
+8050483299,Fortaleza,E,4,F,3,Sim,1,814,8,Pública,-3.7319,-38.5267
+5763177191,Fortaleza,D,3,D,2,Sim,1,581,6,Pública,-3.7319,-38.5267
+6470493219,São Paulo,A,0,A,0,Sim,1,660,1,Pública,-23.5505,-46.6333
+8226456348,São Paulo,Q,5,F,3,Sim,1,698,9,Pública,-23.5505,-46.6333
+5568491291,Fortaleza,C,2,F,3,Sim,1,597,6,Privada,-3.7319,-38.5267
+8139583159,Fortaleza,A,0,B,1,Sim,1,428,2,Pública,-3.7319,-38.5267
+4186770110,Fortaleza,E,4,F,3,Sim,1,785,8,Pública,-3.7319,-38.5267
+1230359655,Belo Horizonte,C,2,F,3,Sim,1,605,6,Pública,-19.9167,-43.9345
+1812589745,São Paulo,Q,5,F,3,Sim,1,726,9,Privada,-23.5505,-46.6333
+2979543266,Belo Horizonte,C,2,D,2,Sim,1,548,5,Pública,-19.9167,-43.9345
+7046360625,Manaus,E,4,F,3,Sim,1,538,8,Privada,-3.119,-60.0217
+1568172385,Rio de Janeiro,B,1,A,0,Sim,1,418,2,Pública,-22.9068,-43.1729
+6392928846,Belo Horizonte,C,2,F,3,Sim,1,718,6,Pública,-19.9167,-43.9345
+7187608565,Belo Horizonte,C,2,F,3,Sim,1,569,6,Pública,-19.9167,-43.9345
+5610063568,Manaus,D,3,F,3,Sim,1,606,7,Pública,-3.119,-60.0217
+3009960787,Manaus,D,3,F,3,Sim,1,721,7,Pública,-3.119,-60.0217
+7854983045,Fortaleza,Q,5,G,4,Sim,1,699,10,Pública,-3.7319,-38.5267
+3451401892,São Paulo,E,4,F,3,Sim,1,700,8,Pública,-23.5505,-46.6333
+8483088149,São Paulo,A,0,B,1,Sim,1,352,2,Privada,-23.5505,-46.6333
+8399303494,Rio de Janeiro,B,1,A,0,Não,0,450,1,Pública,-22.9068,-43.1729
+4218558390,Belo Horizonte,D,3,D,2,Sim,1,669,6,Pública,-19.9167,-43.9345
+5526167638,Belo Horizonte,Q,5,G,4,Sim,1,662,10,Privada,-19.9167,-43.9345
+3948554922,São Paulo,B,1,B,1,Não,0,534,2,Pública,-23.5505,-46.6333
+9726181661,Manaus,C,2,F,3,Sim,1,593,6,Pública,-3.119,-60.0217
+6362717141,Fortaleza,Q,5,G,4,Sim,1,850,10,Privada,-3.7319,-38.5267
+3296351193,Rio de Janeiro,D,3,D,2,Sim,1,496,6,Pública,-22.9068,-43.1729
+6330764016,Fortaleza,B,1,B,1,Não,0,418,2,Pública,-3.7319,-38.5267
+9853753528,São Paulo,A,0,A,0,Não,0,407,0,Pública,-23.5505,-46.6333
+4167151602,Manaus,Q,5,G,4,Sim,1,596,10,Pública,-3.119,-60.0217
+5553640047,São Paulo,C,2,D,2,Sim,1,700,5,Pública,-23.5505,-46.6333
+1183565184,Fortaleza,C,2,D,2,Sim,1,514,5,Pública,-3.7319,-38.5267
+5103618738,Belo Horizonte,Q,5,F,3,Sim,1,866,9,Privada,-19.9167,-43.9345
+7493047631,Belo Horizonte,D,3,F,3,Sim,1,596,7,Pública,-19.9167,-43.9345
+9651701520,Belo Horizonte,D,3,F,3,Sim,1,558,7,Pública,-19.9167,-43.9345
+6129365937,Rio de Janeiro,B,1,B,1,Sim,1,388,3,Pública,-22.9068,-43.1729
+8470963487,Manaus,D,3,F,3,Sim,1,749,7,Pública,-3.119,-60.0217
+7071007276,Manaus,C,2,F,3,Sim,1,534,6,Pública,-3.119,-60.0217
+8450516576,São Paulo,B,1,A,0,Sim,1,504,2,Pública,-23.5505,-46.6333
+6933997686,Manaus,D,3,D,2,Sim,1,599,6,Pública,-3.119,-60.0217
+7228915808,Manaus,A,0,A,0,Não,0,482,0,Pública,-3.119,-60.0217
+2347344653,Rio de Janeiro,E,4,F,3,Sim,1,798,8,Privada,-22.9068,-43.1729
+8253385885,Belo Horizonte,C,2,F,3,Sim,1,574,6,Pública,-19.9167,-43.9345
+8834010266,São Paulo,C,2,D,2,Sim,1,704,5,Privada,-23.5505,-46.6333
+6919429246,Belo Horizonte,B,1,A,0,Sim,1,563,2,Pública,-19.9167,-43.9345
+9963902580,Rio de Janeiro,B,1,A,0,Sim,1,371,2,Privada,-22.9068,-43.1729
+1994710231,São Paulo,B,1,B,1,Não,0,375,2,Pública,-23.5505,-46.6333
+6178847399,São Paulo,A,0,A,0,Sim,1,456,1,Pública,-23.5505,-46.6333
+4765027728,Rio de Janeiro,C,2,F,3,Sim,1,572,6,Pública,-22.9068,-43.1729
+8558385072,Manaus,C,2,D,2,Sim,1,575,5,Pública,-3.119,-60.0217
+9824061547,Manaus,B,1,A,0,Sim,1,337,2,Pública,-3.119,-60.0217
+9424796251,Fortaleza,B,1,A,0,Sim,1,444,2,Pública,-3.7319,-38.5267
+9234399712,São Paulo,C,2,D,2,Sim,1,621,5,Pública,-23.5505,-46.6333
+4644158518,São Paulo,D,3,D,2,Sim,1,677,6,Pública,-23.5505,-46.6333
+7633986915,Rio de Janeiro,B,1,B,1,Sim,1,494,3,Pública,-22.9068,-43.1729
+7800743623,São Paulo,B,1,B,1,Sim,1,490,3,Pública,-23.5505,-46.6333
+7638713642,Manaus,D,3,F,3,Sim,1,628,7,Pública,-3.119,-60.0217
+2699852185,São Paulo,C,2,F,3,Sim,1,536,6,Pública,-23.5505,-46.6333
+4856688267,Fortaleza,D,3,F,3,Sim,1,613,7,Pública,-3.7319,-38.5267
+9492369352,Rio de Janeiro,C,2,F,3,Sim,1,653,6,Privada,-22.9068,-43.1729
+8969531391,Manaus,D,3,F,3,Sim,1,614,7,Pública,-3.119,-60.0217
+4854292159,Rio de Janeiro,Q,5,G,4,Sim,1,761,10,Pública,-22.9068,-43.1729
+6694373236,Belo Horizonte,B,1,B,1,Sim,1,412,3,Pública,-19.9167,-43.9345
+8472675396,Fortaleza,A,0,A,0,Não,0,268,0,Privada,-3.7319,-38.5267
+2230395333,Manaus,C,2,D,2,Sim,1,660,5,Pública,-3.119,-60.0217
+6433482742,Rio de Janeiro,C,2,D,2,Sim,1,459,5,Pública,-22.9068,-43.1729
+7580847137,Rio de Janeiro,Q,5,F,3,Sim,1,700,9,Pública,-22.9068,-43.1729
+6009028492,Fortaleza,C,2,F,3,Sim,1,553,6,Pública,-3.7319,-38.5267
+1533037074,Rio de Janeiro,B,1,A,0,Sim,1,466,2,Pública,-22.9068,-43.1729
+3587585406,Rio de Janeiro,A,0,A,0,Sim,1,469,1,Privada,-22.9068,-43.1729
+4126788835,Belo Horizonte,D,3,F,3,Sim,1,654,7,Privada,-19.9167,-43.9345
+8515993841,Belo Horizonte,B,1,A,0,Sim,1,416,2,Pública,-19.9167,-43.9345
+9301603494,Manaus,Q,5,G,4,Sim,1,710,10,Pública,-3.119,-60.0217
+9765744573,São Paulo,B,1,B,1,Não,0,528,2,Privada,-23.5505,-46.6333
+9956737801,Rio de Janeiro,A,0,B,1,Não,0,365,1,Pública,-22.9068,-43.1729
+5616642487,Manaus,A,0,B,1,Sim,1,560,2,Pública,-3.119,-60.0217
+8851099128,Belo Horizonte,B,1,B,1,Não,0,381,2,Pública,-19.9167,-43.9345
+9783858239,Rio de Janeiro,D,3,F,3,Sim,1,625,7,Pública,-22.9068,-43.1729
+2689045220,São Paulo,Q,5,F,3,Sim,1,725,9,Pública,-23.5505,-46.6333
+6870354091,Rio de Janeiro,B,1,B,1,Não,0,415,2,Pública,-22.9068,-43.1729
+7720077017,Manaus,B,1,A,0,Sim,1,482,2,Privada,-3.119,-60.0217
+6024077519,São Paulo,A,0,B,1,Sim,1,541,2,Privada,-23.5505,-46.6333
+9215416888,São Paulo,B,1,A,0,Não,0,361,1,Pública,-23.5505,-46.6333
+7505768185,Manaus,A,0,B,1,Sim,1,473,2,Pública,-3.119,-60.0217
+6914110540,Belo Horizonte,Q,5,G,4,Sim,1,763,10,Privada,-19.9167,-43.9345
+8586403515,Manaus,B,1,B,1,Não,0,522,2,Privada,-3.119,-60.0217
+1824442314,São Paulo,C,2,D,2,Sim,1,630,5,Pública,-23.5505,-46.6333
+7331460160,Manaus,A,0,B,1,Sim,1,524,2,Privada,-3.119,-60.0217
+2933924180,Belo Horizonte,B,1,A,0,Não,0,366,1,Privada,-19.9167,-43.9345
+8598059708,Fortaleza,E,4,F,3,Sim,1,721,8,Pública,-3.7319,-38.5267
+5442848664,Belo Horizonte,E,4,F,3,Sim,1,525,8,Pública,-19.9167,-43.9345
+6097831649,Belo Horizonte,B,1,A,0,Não,0,471,1,Pública,-19.9167,-43.9345
+6855775309,Manaus,C,2,F,3,Sim,1,597,6,Pública,-3.119,-60.0217
+5434343594,Manaus,B,1,A,0,Sim,1,388,2,Pública,-3.119,-60.0217
+6509435698,São Paulo,A,0,A,0,Não,0,379,0,Privada,-23.5505,-46.6333
+4652887860,Rio de Janeiro,E,4,F,3,Sim,1,593,8,Pública,-22.9068,-43.1729
+2401106422,Rio de Janeiro,D,3,D,2,Sim,1,661,6,Pública,-22.9068,-43.1729
+9264846671,Manaus,C,2,F,3,Sim,1,484,6,Pública,-3.119,-60.0217
+2717913967,Belo Horizonte,B,1,B,1,Não,0,603,2,Pública,-19.9167,-43.9345
+5627754115,Rio de Janeiro,D,3,D,2,Sim,1,673,6,Privada,-22.9068,-43.1729
+3970915287,São Paulo,B,1,A,0,Não,0,483,1,Pública,-23.5505,-46.6333
+4080616315,Fortaleza,C,2,F,3,Sim,1,581,6,Pública,-3.7319,-38.5267
+8254719856,Rio de Janeiro,C,2,D,2,Sim,1,548,5,Pública,-22.9068,-43.1729
+1267168851,Manaus,C,2,F,3,Sim,1,607,6,Pública,-3.119,-60.0217
+4684471116,Belo Horizonte,A,0,A,0,Sim,1,555,1,Pública,-19.9167,-43.9345
+9630923000,Belo Horizonte,B,1,A,0,Sim,1,585,2,Pública,-19.9167,-43.9345
+1769503180,Belo Horizonte,A,0,B,1,Sim,1,454,2,Pública,-19.9167,-43.9345
+4289379869,Rio de Janeiro,D,3,F,3,Sim,1,558,7,Pública,-22.9068,-43.1729
+7303812062,Manaus,A,0,A,0,Não,0,514,0,Pública,-3.119,-60.0217
+7912775159,Fortaleza,B,1,B,1,Não,0,449,2,Pública,-3.7319,-38.5267
+4839415168,São Paulo,C,2,D,2,Sim,1,604,5,Privada,-23.5505,-46.6333
+9806862195,Belo Horizonte,Q,5,G,4,Sim,1,849,10,Pública,-19.9167,-43.9345
+1613382775,Belo Horizonte,C,2,F,3,Sim,1,449,6,Pública,-19.9167,-43.9345
+2684774114,São Paulo,B,1,A,0,Sim,1,434,2,Pública,-23.5505,-46.6333
+3192409573,São Paulo,C,2,D,2,Sim,1,755,5,Pública,-23.5505,-46.6333
+4481859393,Fortaleza,A,0,A,0,Sim,1,440,1,Pública,-3.7319,-38.5267
+9342421818,Fortaleza,E,4,G,4,Sim,1,704,9,Pública,-3.7319,-38.5267
+1915438404,Rio de Janeiro,D,3,D,2,Sim,1,611,6,Privada,-22.9068,-43.1729
+1239259011,Rio de Janeiro,A,0,A,0,Sim,1,660,1,Pública,-22.9068,-43.1729
+9548209720,São Paulo,B,1,B,1,Não,0,456,2,Pública,-23.5505,-46.6333
+9648611094,Fortaleza,C,2,F,3,Sim,1,484,6,Pública,-3.7319,-38.5267
+4478832203,Belo Horizonte,B,1,B,1,Não,0,365,2,Privada,-19.9167,-43.9345
+6076922470,Belo Horizonte,A,0,A,0,Sim,1,227,1,Pública,-19.9167,-43.9345
+3444723164,Fortaleza,C,2,D,2,Sim,1,657,5,Pública,-3.7319,-38.5267
+8129617569,Rio de Janeiro,Q,5,F,3,Sim,1,669,9,Pública,-22.9068,-43.1729
+3207421837,Fortaleza,A,0,A,0,Não,0,440,0,Pública,-3.7319,-38.5267
+7554523882,Belo Horizonte,C,2,F,3,Sim,1,566,6,Pública,-19.9167,-43.9345
+2518155776,Belo Horizonte,A,0,B,1,Sim,1,399,2,Privada,-19.9167,-43.9345
+6624128869,São Paulo,B,1,A,0,Sim,1,466,2,Pública,-23.5505,-46.6333
+8672236048,Rio de Janeiro,D,3,F,3,Sim,1,737,7,Pública,-22.9068,-43.1729
+9970375670,Belo Horizonte,C,2,D,2,Sim,1,590,5,Pública,-19.9167,-43.9345
+6993275809,Rio de Janeiro,D,3,D,2,Sim,1,609,6,Pública,-22.9068,-43.1729
+2977098225,Belo Horizonte,D,3,F,3,Sim,1,641,7,Pública,-19.9167,-43.9345
+3663888390,Rio de Janeiro,A,0,B,1,Sim,1,446,2,Pública,-22.9068,-43.1729
+2164547123,Manaus,D,3,F,3,Sim,1,576,7,Pública,-3.119,-60.0217
+9488816131,Rio de Janeiro,A,0,A,0,Não,0,350,0,Pública,-22.9068,-43.1729
+1292218023,Fortaleza,D,3,D,2,Sim,1,539,6,Pública,-3.7319,-38.5267
+8923630925,Belo Horizonte,C,2,F,3,Sim,1,718,6,Pública,-19.9167,-43.9345
+5264659713,Manaus,A,0,B,1,Não,0,458,1,Pública,-3.119,-60.0217
+3976069715,Belo Horizonte,A,0,B,1,Sim,1,451,2,Pública,-19.9167,-43.9345
+2704197176,Manaus,A,0,A,0,Sim,1,493,1,Pública,-3.119,-60.0217
+9113195846,Manaus,B,1,A,0,Sim,1,584,2,Pública,-3.119,-60.0217
+7204628546,Manaus,D,3,F,3,Sim,1,452,7,Privada,-3.119,-60.0217
+4726752138,São Paulo,B,1,A,0,Não,0,453,1,Privada,-23.5505,-46.6333
+4583397724,Manaus,B,1,B,1,Não,0,587,2,Pública,-3.119,-60.0217
+5661192053,São Paulo,C,2,D,2,Sim,1,609,5,Pública,-23.5505,-46.6333
+5919951522,Manaus,E,4,F,3,Sim,1,977,8,Pública,-3.119,-60.0217
+1554420966,Manaus,C,2,D,2,Sim,1,492,5,Pública,-3.119,-60.0217
+5777708857,Manaus,C,2,D,2,Sim,1,506,5,Pública,-3.119,-60.0217
+5050080214,Rio de Janeiro,E,4,G,4,Sim,1,774,9,Pública,-22.9068,-43.1729
+7472514095,Belo Horizonte,C,2,F,3,Sim,1,635,6,Pública,-19.9167,-43.9345
+6426912258,Manaus,Q,5,F,3,Sim,1,687,9,Pública,-3.119,-60.0217
+5616918218,Manaus,E,4,G,4,Sim,1,791,9,Pública,-3.119,-60.0217
+3208588222,Rio de Janeiro,A,0,A,0,Sim,1,500,1,Pública,-22.9068,-43.1729
+4916230936,Fortaleza,D,3,D,2,Sim,1,651,6,Pública,-3.7319,-38.5267
+5531626564,Fortaleza,B,1,B,1,Sim,1,579,3,Pública,-3.7319,-38.5267
+5066819486,São Paulo,D,3,F,3,Sim,1,498,7,Pública,-23.5505,-46.6333
+8137422724,Manaus,B,1,B,1,Não,0,543,2,Pública,-3.119,-60.0217
+6613226238,Rio de Janeiro,C,2,F,3,Sim,1,537,6,Pública,-22.9068,-43.1729
+2928602487,Fortaleza,B,1,A,0,Não,0,369,1,Pública,-3.7319,-38.5267
+7754955069,Fortaleza,B,1,A,0,Sim,1,553,2,Pública,-3.7319,-38.5267
+5732533268,Fortaleza,A,0,A,0,Sim,1,438,1,Pública,-3.7319,-38.5267
+7176352286,Fortaleza,C,2,F,3,Sim,1,646,6,Pública,-3.7319,-38.5267
+7017884708,São Paulo,B,1,B,1,Sim,1,639,3,Pública,-23.5505,-46.6333
+6166215326,São Paulo,Q,5,G,4,Sim,1,686,10,Pública,-23.5505,-46.6333
+4157782450,São Paulo,A,0,B,1,Sim,1,539,2,Privada,-23.5505,-46.6333
+4835894313,São Paulo,D,3,F,3,Sim,1,563,7,Privada,-23.5505,-46.6333
+4687659380,Fortaleza,D,3,D,2,Sim,1,517,6,Pública,-3.7319,-38.5267
+6706167420,Fortaleza,Q,5,G,4,Sim,1,755,10,Pública,-3.7319,-38.5267
+3135583123,Manaus,D,3,F,3,Sim,1,712,7,Pública,-3.119,-60.0217
+1141785204,Belo Horizonte,C,2,D,2,Sim,1,616,5,Pública,-19.9167,-43.9345
+7963114943,Fortaleza,C,2,F,3,Sim,1,573,6,Privada,-3.7319,-38.5267
+8554747938,Belo Horizonte,A,0,A,0,Não,0,513,0,Pública,-19.9167,-43.9345
+5304946250,Fortaleza,B,1,A,0,Sim,1,398,2,Pública,-3.7319,-38.5267
+7719880406,Rio de Janeiro,E,4,G,4,Sim,1,717,9,Pública,-22.9068,-43.1729
+3635749246,Belo Horizonte,B,1,A,0,Não,0,560,1,Pública,-19.9167,-43.9345
+2295305728,Belo Horizonte,C,2,F,3,Sim,1,548,6,Pública,-19.9167,-43.9345
+1460516676,Belo Horizonte,A,0,B,1,Sim,1,455,2,Pública,-19.9167,-43.9345
+3340681059,Fortaleza,A,0,A,0,Não,0,420,0,Pública,-3.7319,-38.5267
+1167531317,São Paulo,B,1,A,0,Não,0,545,1,Privada,-23.5505,-46.6333
+2824430558,Rio de Janeiro,D,3,F,3,Sim,1,697,7,Privada,-22.9068,-43.1729
+6341284846,Fortaleza,D,3,D,2,Sim,1,705,6,Pública,-3.7319,-38.5267
+4509448273,Fortaleza,C,2,D,2,Sim,1,731,5,Pública,-3.7319,-38.5267
+9334372010,Belo Horizonte,A,0,B,1,Sim,1,350,2,Pública,-19.9167,-43.9345
+2085928352,São Paulo,Q,5,F,3,Sim,1,814,9,Pública,-23.5505,-46.6333
+8384715895,São Paulo,B,1,B,1,Não,0,454,2,Pública,-23.5505,-46.6333
+1410423216,Rio de Janeiro,A,0,B,1,Sim,1,416,2,Pública,-22.9068,-43.1729
+3489348969,Fortaleza,D,3,F,3,Sim,1,662,7,Pública,-3.7319,-38.5267
+1908090341,Rio de Janeiro,Q,5,G,4,Sim,1,717,10,Pública,-22.9068,-43.1729
+9540501572,São Paulo,E,4,G,4,Sim,1,670,9,Pública,-23.5505,-46.6333
+7535795266,Manaus,Q,5,F,3,Sim,1,707,9,Pública,-3.119,-60.0217
+9509976637,Fortaleza,A,0,B,1,Não,0,420,1,Privada,-3.7319,-38.5267
+4891673830,Fortaleza,C,2,D,2,Sim,1,582,5,Pública,-3.7319,-38.5267
+4620423277,São Paulo,C,2,F,3,Sim,1,596,6,Pública,-23.5505,-46.6333
+4233455265,Manaus,D,3,F,3,Sim,1,560,7,Privada,-3.119,-60.0217
+8984053655,Fortaleza,Q,5,F,3,Sim,1,745,9,Pública,-3.7319,-38.5267
+7087613401,Manaus,B,1,B,1,Sim,1,490,3,Privada,-3.119,-60.0217
+6777867242,Belo Horizonte,B,1,A,0,Não,0,376,1,Pública,-19.9167,-43.9345
+1826121330,Manaus,B,1,B,1,Não,0,575,2,Pública,-3.119,-60.0217
+7550486098,Fortaleza,B,1,B,1,Sim,1,419,3,Pública,-3.7319,-38.5267
+6058973535,Rio de Janeiro,A,0,B,1,Sim,1,406,2,Pública,-22.9068,-43.1729
+3095515370,Belo Horizonte,A,0,B,1,Sim,1,401,2,Pública,-19.9167,-43.9345
+7191212207,Rio de Janeiro,B,1,B,1,Não,0,681,2,Pública,-22.9068,-43.1729
+8381757143,São Paulo,Q,5,G,4,Sim,1,682,10,Pública,-23.5505,-46.6333
+5645779216,Rio de Janeiro,D,3,F,3,Sim,1,480,7,Pública,-22.9068,-43.1729
+9154715698,Rio de Janeiro,C,2,F,3,Sim,1,591,6,Privada,-22.9068,-43.1729
+8636387316,Rio de Janeiro,E,4,F,3,Sim,1,709,8,Privada,-22.9068,-43.1729
+5832826146,Belo Horizonte,C,2,F,3,Sim,1,601,6,Pública,-19.9167,-43.9345
+4070465426,Fortaleza,B,1,A,0,Sim,1,498,2,Pública,-3.7319,-38.5267
+4833125585,Fortaleza,B,1,A,0,Sim,1,375,2,Pública,-3.7319,-38.5267
+8926972444,Belo Horizonte,B,1,A,0,Não,0,396,1,Pública,-19.9167,-43.9345
+5147262655,Belo Horizonte,A,0,A,0,Não,0,383,0,Privada,-19.9167,-43.9345
+9505157148,Fortaleza,A,0,B,1,Sim,1,494,2,Pública,-3.7319,-38.5267
+6878629768,São Paulo,A,0,A,0,Sim,1,419,1,Pública,-23.5505,-46.6333
+5893266298,Manaus,E,4,F,3,Sim,1,842,8,Pública,-3.119,-60.0217
+9317175539,Belo Horizonte,A,0,A,0,Sim,1,421,1,Pública,-19.9167,-43.9345
+9453392598,Fortaleza,Q,5,G,4,Sim,1,692,10,Pública,-3.7319,-38.5267
+5367849124,Fortaleza,A,0,A,0,Não,0,521,0,Privada,-3.7319,-38.5267
+8307300839,Fortaleza,E,4,F,3,Sim,1,787,8,Pública,-3.7319,-38.5267
+4879174484,Manaus,E,4,G,4,Sim,1,738,9,Pública,-3.119,-60.0217
+3161315201,Manaus,C,2,F,3,Sim,1,552,6,Pública,-3.119,-60.0217
+1914979730,São Paulo,A,0,A,0,Não,0,513,0,Privada,-23.5505,-46.6333
+5608063748,Belo Horizonte,C,2,D,2,Sim,1,484,5,Privada,-19.9167,-43.9345
+5013304275,São Paulo,E,4,G,4,Sim,1,775,9,Pública,-23.5505,-46.6333
+8169442003,Manaus,D,3,D,2,Sim,1,540,6,Pública,-3.119,-60.0217
+6423235799,Belo Horizonte,B,1,A,0,Sim,1,467,2,Pública,-19.9167,-43.9345
+5126730939,Belo Horizonte,B,1,A,0,Não,0,554,1,Pública,-19.9167,-43.9345
+9047385879,Belo Horizonte,A,0,B,1,Não,0,412,1,Privada,-19.9167,-43.9345
+7241736220,Rio de Janeiro,A,0,B,1,Sim,1,427,2,Pública,-22.9068,-43.1729
+7595733901,São Paulo,A,0,A,0,Sim,1,481,1,Pública,-23.5505,-46.6333
+4459451345,Manaus,A,0,A,0,Sim,1,556,1,Pública,-3.119,-60.0217
+7755006480,Rio de Janeiro,D,3,D,2,Sim,1,607,6,Pública,-22.9068,-43.1729
+8615697239,Fortaleza,A,0,B,1,Sim,1,450,2,Pública,-3.7319,-38.5267
+6826376203,Rio de Janeiro,B,1,A,0,Não,0,481,1,Pública,-22.9068,-43.1729
+1792143135,Fortaleza,D,3,D,2,Sim,1,588,6,Pública,-3.7319,-38.5267
+1090837820,Belo Horizonte,C,2,F,3,Sim,1,482,6,Pública,-19.9167,-43.9345
+1880379077,Fortaleza,C,2,D,2,Sim,1,622,5,Pública,-3.7319,-38.5267
+6083369158,Manaus,Q,5,G,4,Sim,1,793,10,Pública,-3.119,-60.0217
+1543902313,Rio de Janeiro,C,2,D,2,Sim,1,621,5,Pública,-22.9068,-43.1729
+8450734426,Belo Horizonte,B,1,B,1,Sim,1,320,3,Pública,-19.9167,-43.9345
+4016779545,São Paulo,B,1,B,1,Não,0,216,2,Pública,-23.5505,-46.6333
+5783073332,Belo Horizonte,D,3,D,2,Sim,1,576,6,Pública,-19.9167,-43.9345
+1862055076,Belo Horizonte,A,0,A,0,Sim,1,479,1,Pública,-19.9167,-43.9345
+9303000369,Rio de Janeiro,B,1,A,0,Sim,1,588,2,Pública,-22.9068,-43.1729
+1506832010,Fortaleza,E,4,G,4,Sim,1,685,9,Pública,-3.7319,-38.5267
+9806069940,Rio de Janeiro,B,1,A,0,Sim,1,498,2,Privada,-22.9068,-43.1729
+8401647274,Belo Horizonte,C,2,D,2,Sim,1,675,5,Pública,-19.9167,-43.9345
+5237283698,Rio de Janeiro,C,2,F,3,Sim,1,608,6,Pública,-22.9068,-43.1729
+9098416133,Fortaleza,B,1,B,1,Não,0,667,2,Pública,-3.7319,-38.5267
+1902448976,Belo Horizonte,D,3,F,3,Sim,1,701,7,Pública,-19.9167,-43.9345
+6571492210,Belo Horizonte,B,1,A,0,Não,0,442,1,Pública,-19.9167,-43.9345
+5964344565,Manaus,B,1,B,1,Sim,1,430,3,Pública,-3.119,-60.0217
+9901415579,São Paulo,Q,5,F,3,Sim,1,734,9,Pública,-23.5505,-46.6333
+6650259149,Rio de Janeiro,A,0,B,1,Não,0,537,1,Pública,-22.9068,-43.1729
+5824616172,Rio de Janeiro,D,3,F,3,Sim,1,524,7,Pública,-22.9068,-43.1729
+7529186119,Belo Horizonte,C,2,F,3,Sim,1,674,6,Pública,-19.9167,-43.9345
+6923977062,Rio de Janeiro,B,1,A,0,Sim,1,481,2,Pública,-22.9068,-43.1729
+3484913158,Rio de Janeiro,Q,5,G,4,Sim,1,664,10,Pública,-22.9068,-43.1729
+8916246931,Belo Horizonte,B,1,A,0,Não,0,425,1,Pública,-19.9167,-43.9345
+7631970665,Fortaleza,A,0,A,0,Não,0,379,0,Pública,-3.7319,-38.5267
+6021688872,Fortaleza,D,3,D,2,Sim,1,645,6,Pública,-3.7319,-38.5267
+9667592295,Belo Horizonte,A,0,A,0,Sim,1,419,1,Pública,-19.9167,-43.9345
+3890991226,Rio de Janeiro,C,2,D,2,Sim,1,573,5,Pública,-22.9068,-43.1729
+5186562664,Rio de Janeiro,D,3,D,2,Sim,1,653,6,Privada,-22.9068,-43.1729
+9003915525,Rio de Janeiro,Q,5,G,4,Sim,1,706,10,Pública,-22.9068,-43.1729
+9871796481,Manaus,Q,5,F,3,Sim,1,682,9,Pública,-3.119,-60.0217
+3671197941,Manaus,D,3,F,3,Sim,1,691,7,Pública,-3.119,-60.0217
+4064920298,Belo Horizonte,C,2,D,2,Sim,1,577,5,Pública,-19.9167,-43.9345
+7594771719,Belo Horizonte,B,1,B,1,Sim,1,455,3,Pública,-19.9167,-43.9345
+9023420499,Fortaleza,E,4,F,3,Sim,1,770,8,Pública,-3.7319,-38.5267
+5371047701,Rio de Janeiro,Q,5,G,4,Sim,1,706,10,Privada,-22.9068,-43.1729
+2615725786,Fortaleza,D,3,F,3,Sim,1,726,7,Pública,-3.7319,-38.5267
+4816688800,Belo Horizonte,B,1,A,0,Sim,1,623,2,Privada,-19.9167,-43.9345
+2351042745,Manaus,B,1,A,0,Sim,1,483,2,Pública,-3.119,-60.0217
+3343977024,Manaus,B,1,B,1,Sim,1,449,3,Pública,-3.119,-60.0217
+5521354136,Rio de Janeiro,C,2,D,2,Sim,1,548,5,Pública,-22.9068,-43.1729
+5700401357,São Paulo,A,0,B,1,Sim,1,403,2,Privada,-23.5505,-46.6333
+8836241130,Belo Horizonte,Q,5,G,4,Sim,1,771,10,Pública,-19.9167,-43.9345
+5209091402,Belo Horizonte,E,4,G,4,Sim,1,644,9,Privada,-19.9167,-43.9345
+9454295791,Fortaleza,A,0,B,1,Não,0,533,1,Pública,-3.7319,-38.5267
+2336571212,Rio de Janeiro,C,2,F,3,Sim,1,572,6,Pública,-22.9068,-43.1729
+9848098848,Belo Horizonte,A,0,A,0,Sim,1,475,1,Privada,-19.9167,-43.9345
+6194111834,Belo Horizonte,E,4,F,3,Sim,1,874,8,Pública,-19.9167,-43.9345
+1745913996,Manaus,Q,5,G,4,Sim,1,747,10,Pública,-3.119,-60.0217
+8484564588,Belo Horizonte,C,2,D,2,Sim,1,669,5,Pública,-19.9167,-43.9345
+5254778153,São Paulo,C,2,F,3,Sim,1,568,6,Privada,-23.5505,-46.6333
+7186360188,Belo Horizonte,B,1,A,0,Não,0,518,1,Privada,-19.9167,-43.9345
+7494370996,Manaus,D,3,D,2,Sim,1,638,6,Pública,-3.119,-60.0217
+1539514958,Manaus,Q,5,F,3,Sim,1,703,9,Pública,-3.119,-60.0217
+9539986553,Belo Horizonte,C,2,F,3,Sim,1,502,6,Privada,-19.9167,-43.9345
+7815031287,Belo Horizonte,C,2,F,3,Sim,1,515,6,Pública,-19.9167,-43.9345
+9081562295,Rio de Janeiro,A,0,B,1,Sim,1,442,2,Pública,-22.9068,-43.1729
+2626393366,São Paulo,D,3,F,3,Sim,1,471,7,Privada,-23.5505,-46.6333
+3315819697,Fortaleza,D,3,D,2,Sim,1,627,6,Pública,-3.7319,-38.5267
+7888785835,Rio de Janeiro,Q,5,F,3,Sim,1,584,9,Pública,-22.9068,-43.1729
+2139147819,São Paulo,C,2,F,3,Sim,1,553,6,Pública,-23.5505,-46.6333
+3311212139,Belo Horizonte,E,4,G,4,Sim,1,625,9,Privada,-19.9167,-43.9345
+7223765770,São Paulo,C,2,F,3,Sim,1,546,6,Privada,-23.5505,-46.6333
+1502787815,Fortaleza,C,2,F,3,Sim,1,740,6,Privada,-3.7319,-38.5267
+3593270155,Fortaleza,C,2,D,2,Sim,1,630,5,Pública,-3.7319,-38.5267
+4828164211,Manaus,B,1,A,0,Não,0,439,1,Privada,-3.119,-60.0217
+5223615942,Rio de Janeiro,D,3,D,2,Sim,1,604,6,Privada,-22.9068,-43.1729
+4670115862,Rio de Janeiro,E,4,G,4,Sim,1,779,9,Pública,-22.9068,-43.1729
+4209354782,São Paulo,E,4,F,3,Sim,1,712,8,Privada,-23.5505,-46.6333
+4403932353,Rio de Janeiro,A,0,A,0,Sim,1,467,1,Pública,-22.9068,-43.1729
+9933610438,Manaus,Q,5,G,4,Sim,1,748,10,Pública,-3.119,-60.0217
+5334043708,Manaus,E,4,G,4,Sim,1,729,9,Pública,-3.119,-60.0217
+9463467845,Fortaleza,C,2,F,3,Sim,1,698,6,Pública,-3.7319,-38.5267
+7420228550,São Paulo,C,2,F,3,Sim,1,518,6,Pública,-23.5505,-46.6333
+3077535076,Rio de Janeiro,C,2,D,2,Sim,1,670,5,Pública,-22.9068,-43.1729
+1227358134,Belo Horizonte,A,0,B,1,Não,0,478,1,Pública,-19.9167,-43.9345
+3817504373,Manaus,A,0,B,1,Não,0,536,1,Pública,-3.119,-60.0217
+1337197325,Manaus,B,1,A,0,Sim,1,495,2,Pública,-3.119,-60.0217
+8471367246,Belo Horizonte,B,1,B,1,Sim,1,374,3,Pública,-19.9167,-43.9345
+3021645402,Belo Horizonte,D,3,F,3,Sim,1,531,7,Pública,-19.9167,-43.9345
+6971403746,Manaus,D,3,F,3,Sim,1,690,7,Pública,-3.119,-60.0217
+3365197652,Belo Horizonte,A,0,A,0,Sim,1,323,1,Pública,-19.9167,-43.9345
+5849297770,Fortaleza,D,3,F,3,Sim,1,708,7,Pública,-3.7319,-38.5267
+9962517146,Belo Horizonte,D,3,F,3,Sim,1,548,7,Privada,-19.9167,-43.9345
+2815493710,São Paulo,B,1,A,0,Não,0,524,1,Pública,-23.5505,-46.6333
+7378339573,Rio de Janeiro,B,1,B,1,Sim,1,516,3,Pública,-22.9068,-43.1729
+8299416614,Belo Horizonte,B,1,A,0,Não,0,518,1,Pública,-19.9167,-43.9345
+3253450385,Fortaleza,E,4,F,3,Sim,1,908,8,Privada,-3.7319,-38.5267
+9978613303,Manaus,B,1,B,1,Sim,1,389,3,Pública,-3.119,-60.0217
+6109101989,Fortaleza,D,3,F,3,Sim,1,675,7,Privada,-3.7319,-38.5267
+6323052903,Rio de Janeiro,C,2,F,3,Sim,1,643,6,Pública,-22.9068,-43.1729
+5576627293,Belo Horizonte,D,3,D,2,Sim,1,577,6,Privada,-19.9167,-43.9345
+4837596118,Rio de Janeiro,A,0,B,1,Não,0,400,1,Pública,-22.9068,-43.1729
+6989551507,Manaus,C,2,F,3,Sim,1,697,6,Privada,-3.119,-60.0217
+2087490711,Manaus,B,1,A,0,Sim,1,416,2,Pública,-3.119,-60.0217
+3981272740,Rio de Janeiro,B,1,B,1,Sim,1,267,3,Pública,-22.9068,-43.1729
+7078501579,Rio de Janeiro,A,0,A,0,Não,0,517,0,Pública,-22.9068,-43.1729
+6937725545,Rio de Janeiro,Q,5,G,4,Sim,1,777,10,Pública,-22.9068,-43.1729
+4993983560,Belo Horizonte,B,1,B,1,Sim,1,322,3,Pública,-19.9167,-43.9345
+2884063743,Belo Horizonte,D,3,F,3,Sim,1,678,7,Privada,-19.9167,-43.9345
+9914320932,Fortaleza,B,1,A,0,Sim,1,504,2,Privada,-3.7319,-38.5267
+6743913533,Fortaleza,C,2,D,2,Sim,1,612,5,Pública,-3.7319,-38.5267
+5342269290,Rio de Janeiro,Q,5,G,4,Sim,1,702,10,Pública,-22.9068,-43.1729
+3418772611,São Paulo,D,3,F,3,Sim,1,540,7,Pública,-23.5505,-46.6333
+4665606630,Manaus,B,1,B,1,Não,0,504,2,Pública,-3.119,-60.0217
+1318149307,Manaus,D,3,D,2,Sim,1,563,6,Pública,-3.119,-60.0217
+7753042294,São Paulo,D,3,D,2,Sim,1,637,6,Pública,-23.5505,-46.6333
+3569195744,Rio de Janeiro,Q,5,F,3,Sim,1,706,9,Pública,-22.9068,-43.1729
+7528845987,Rio de Janeiro,C,2,F,3,Sim,1,585,6,Pública,-22.9068,-43.1729
+4736728603,Belo Horizonte,D,3,F,3,Sim,1,709,7,Pública,-19.9167,-43.9345
+3069745446,Rio de Janeiro,A,0,B,1,Sim,1,493,2,Pública,-22.9068,-43.1729
+2718114195,Manaus,D,3,F,3,Sim,1,642,7,Pública,-3.119,-60.0217
+2361131008,Rio de Janeiro,D,3,F,3,Sim,1,638,7,Pública,-22.9068,-43.1729
+1423849825,Manaus,C,2,F,3,Sim,1,594,6,Privada,-3.119,-60.0217
+2831023113,Fortaleza,C,2,D,2,Sim,1,490,5,Pública,-3.7319,-38.5267
+5518616605,Manaus,D,3,D,2,Sim,1,622,6,Pública,-3.119,-60.0217
+8986504472,São Paulo,C,2,F,3,Sim,1,576,6,Pública,-23.5505,-46.6333
+9298431265,Fortaleza,C,2,F,3,Sim,1,658,6,Pública,-3.7319,-38.5267
+2739466484,Rio de Janeiro,D,3,F,3,Sim,1,565,7,Privada,-22.9068,-43.1729
+6855425860,Rio de Janeiro,A,0,B,1,Sim,1,428,2,Pública,-22.9068,-43.1729
+6012012856,Fortaleza,C,2,F,3,Sim,1,527,6,Pública,-3.7319,-38.5267
+6625830134,Rio de Janeiro,B,1,B,1,Sim,1,634,3,Pública,-22.9068,-43.1729
+3587464882,Belo Horizonte,B,1,A,0,Sim,1,370,2,Privada,-19.9167,-43.9345
+4906645095,São Paulo,A,0,A,0,Sim,1,346,1,Privada,-23.5505,-46.6333
+1861708259,São Paulo,Q,5,G,4,Sim,1,843,10,Pública,-23.5505,-46.6333
+3160680354,Manaus,B,1,B,1,Não,0,589,2,Pública,-3.119,-60.0217
+6070796005,Rio de Janeiro,E,4,G,4,Sim,1,689,9,Pública,-22.9068,-43.1729
+5315945902,Rio de Janeiro,A,0,A,0,Não,0,381,0,Privada,-22.9068,-43.1729
+4994342673,Rio de Janeiro,C,2,D,2,Sim,1,578,5,Pública,-22.9068,-43.1729
+5790619239,Belo Horizonte,B,1,A,0,Sim,1,343,2,Privada,-19.9167,-43.9345
+6287015888,Fortaleza,Q,5,F,3,Sim,1,696,9,Pública,-3.7319,-38.5267
+9174765917,Belo Horizonte,E,4,F,3,Sim,1,757,8,Pública,-19.9167,-43.9345
+6036954314,Fortaleza,E,4,F,3,Sim,1,725,8,Pública,-3.7319,-38.5267
+4652919731,Belo Horizonte,A,0,B,1,Sim,1,619,2,Pública,-19.9167,-43.9345
+3998190156,Manaus,D,3,F,3,Sim,1,701,7,Pública,-3.119,-60.0217
+9819538007,Rio de Janeiro,A,0,A,0,Sim,1,457,1,Pública,-22.9068,-43.1729
+6626553301,Rio de Janeiro,D,3,F,3,Sim,1,662,7,Pública,-22.9068,-43.1729
+1020239727,Manaus,E,4,G,4,Sim,1,736,9,Pública,-3.119,-60.0217
+9085254906,São Paulo,Q,5,F,3,Sim,1,683,9,Pública,-23.5505,-46.6333
+4519288587,Rio de Janeiro,A,0,B,1,Não,0,484,1,Pública,-22.9068,-43.1729
+5161685277,Fortaleza,C,2,F,3,Sim,1,675,6,Privada,-3.7319,-38.5267
+6850525408,Fortaleza,Q,5,F,3,Sim,1,708,9,Privada,-3.7319,-38.5267
+3347693301,Belo Horizonte,B,1,B,1,Sim,1,548,3,Privada,-19.9167,-43.9345
+2518593587,Belo Horizonte,C,2,F,3,Sim,1,623,6,Privada,-19.9167,-43.9345
+9762941500,São Paulo,Q,5,F,3,Sim,1,619,9,Pública,-23.5505,-46.6333
+5066916979,São Paulo,Q,5,G,4,Sim,1,685,10,Pública,-23.5505,-46.6333
+2956897105,Fortaleza,B,1,B,1,Sim,1,549,3,Pública,-3.7319,-38.5267
+1166642394,Fortaleza,C,2,D,2,Sim,1,523,5,Pública,-3.7319,-38.5267
+2486524686,Manaus,C,2,F,3,Sim,1,739,6,Pública,-3.119,-60.0217
+6189316115,Fortaleza,E,4,G,4,Sim,1,759,9,Privada,-3.7319,-38.5267
+8473319523,Fortaleza,E,4,F,3,Sim,1,638,8,Pública,-3.7319,-38.5267
+9762029994,São Paulo,A,0,A,0,Sim,1,518,1,Pública,-23.5505,-46.6333
+7815116264,Belo Horizonte,A,0,B,1,Não,0,575,1,Pública,-19.9167,-43.9345
+9576223837,Manaus,D,3,F,3,Sim,1,745,7,Pública,-3.119,-60.0217
+1646869117,Belo Horizonte,A,0,A,0,Sim,1,274,1,Pública,-19.9167,-43.9345
+4415735309,Rio de Janeiro,E,4,F,3,Sim,1,724,8,Pública,-22.9068,-43.1729
+7285905501,Manaus,C,2,D,2,Sim,1,493,5,Privada,-3.119,-60.0217
+9158773504,Rio de Janeiro,Q,5,G,4,Sim,1,653,10,Pública,-22.9068,-43.1729
+9737242962,Rio de Janeiro,B,1,B,1,Sim,1,274,3,Pública,-22.9068,-43.1729
+5614634942,Rio de Janeiro,B,1,A,0,Sim,1,511,2,Privada,-22.9068,-43.1729
+3452826457,Belo Horizonte,D,3,D,2,Sim,1,563,6,Privada,-19.9167,-43.9345
+3079556603,São Paulo,B,1,B,1,Sim,1,513,3,Privada,-23.5505,-46.6333
+1185415006,Rio de Janeiro,B,1,A,0,Sim,1,660,2,Privada,-22.9068,-43.1729
+5334333031,Belo Horizonte,A,0,B,1,Sim,1,448,2,Pública,-19.9167,-43.9345
+6205692964,São Paulo,B,1,A,0,Sim,1,302,2,Pública,-23.5505,-46.6333
+1046378726,Fortaleza,C,2,D,2,Sim,1,662,5,Pública,-3.7319,-38.5267
+5649015513,Manaus,B,1,B,1,Sim,1,601,3,Pública,-3.119,-60.0217
+7674921031,São Paulo,A,0,A,0,Não,0,384,0,Pública,-23.5505,-46.6333
+1542383372,Rio de Janeiro,E,4,F,3,Sim,1,768,8,Pública,-22.9068,-43.1729
+7466744829,Rio de Janeiro,E,4,F,3,Sim,1,896,8,Pública,-22.9068,-43.1729
+4823468661,Belo Horizonte,D,3,D,2,Sim,1,529,6,Pública,-19.9167,-43.9345
+4165663699,Rio de Janeiro,B,1,A,0,Sim,1,411,2,Pública,-22.9068,-43.1729
+4692588727,Belo Horizonte,C,2,D,2,Sim,1,735,5,Pública,-19.9167,-43.9345
+4512641834,Fortaleza,D,3,F,3,Sim,1,588,7,Pública,-3.7319,-38.5267
+8603972471,Fortaleza,B,1,B,1,Sim,1,529,3,Pública,-3.7319,-38.5267
+2352077434,Rio de Janeiro,B,1,A,0,Não,0,401,1,Privada,-22.9068,-43.1729
+2094218437,Fortaleza,C,2,D,2,Sim,1,668,5,Pública,-3.7319,-38.5267
+7463637173,Rio de Janeiro,E,4,F,3,Sim,1,787,8,Pública,-22.9068,-43.1729
+8448804690,Fortaleza,C,2,D,2,Sim,1,657,5,Pública,-3.7319,-38.5267
+5011445416,Rio de Janeiro,Q,5,G,4,Sim,1,723,10,Privada,-22.9068,-43.1729
+4745903638,Fortaleza,B,1,A,0,Sim,1,309,2,Pública,-3.7319,-38.5267
+1434495248,Manaus,D,3,D,2,Sim,1,578,6,Pública,-3.119,-60.0217
+6768887799,Belo Horizonte,E,4,G,4,Sim,1,670,9,Pública,-19.9167,-43.9345
+9787800187,Rio de Janeiro,C,2,D,2,Sim,1,658,5,Pública,-22.9068,-43.1729
+8532000472,Belo Horizonte,C,2,F,3,Sim,1,583,6,Privada,-19.9167,-43.9345
+8281733399,Rio de Janeiro,Q,5,G,4,Sim,1,798,10,Pública,-22.9068,-43.1729
+9177416149,Rio de Janeiro,B,1,A,0,Sim,1,491,2,Pública,-22.9068,-43.1729
+4374423304,Fortaleza,B,1,A,0,Não,0,398,1,Privada,-3.7319,-38.5267
+6672415556,Manaus,A,0,B,1,Não,0,411,1,Privada,-3.119,-60.0217
+9717650857,Rio de Janeiro,Q,5,G,4,Sim,1,811,10,Pública,-22.9068,-43.1729
+5511672344,Manaus,A,0,A,0,Sim,1,444,1,Privada,-3.119,-60.0217
+3164964509,Rio de Janeiro,B,1,A,0,Sim,1,466,2,Pública,-22.9068,-43.1729
+1275963328,Belo Horizonte,D,3,F,3,Sim,1,659,7,Pública,-19.9167,-43.9345
+8041111041,São Paulo,D,3,F,3,Sim,1,651,7,Pública,-23.5505,-46.6333
+8872649858,Belo Horizonte,A,0,B,1,Não,0,555,1,Pública,-19.9167,-43.9345
+7192694441,Fortaleza,B,1,A,0,Não,0,307,1,Pública,-3.7319,-38.5267
+5810027745,Belo Horizonte,A,0,B,1,Não,0,480,1,Privada,-19.9167,-43.9345
+7366671448,São Paulo,A,0,B,1,Não,0,354,1,Privada,-23.5505,-46.6333
+7769552798,Fortaleza,B,1,A,0,Sim,1,424,2,Pública,-3.7319,-38.5267
+2005270473,São Paulo,A,0,A,0,Não,0,462,0,Privada,-23.5505,-46.6333
+3661025253,São Paulo,D,3,D,2,Sim,1,517,6,Pública,-23.5505,-46.6333
+3773515053,Manaus,C,2,D,2,Sim,1,609,5,Pública,-3.119,-60.0217
+4078282905,Manaus,B,1,A,0,Sim,1,412,2,Pública,-3.119,-60.0217
+7357131152,Rio de Janeiro,B,1,A,0,Sim,1,403,2,Pública,-22.9068,-43.1729
+7524755561,São Paulo,C,2,F,3,Sim,1,648,6,Privada,-23.5505,-46.6333
+1338003942,Belo Horizonte,B,1,B,1,Não,0,425,2,Privada,-19.9167,-43.9345
+3155387445,Manaus,C,2,D,2,Sim,1,526,5,Pública,-3.119,-60.0217
+6692628170,Rio de Janeiro,Q,5,G,4,Sim,1,775,10,Pública,-22.9068,-43.1729
+1786707119,Fortaleza,B,1,A,0,Sim,1,435,2,Pública,-3.7319,-38.5267
+4844141178,Belo Horizonte,D,3,D,2,Sim,1,684,6,Pública,-19.9167,-43.9345
+3512890090,Belo Horizonte,D,3,F,3,Sim,1,492,7,Privada,-19.9167,-43.9345
+3564596368,Belo Horizonte,C,2,F,3,Sim,1,599,6,Pública,-19.9167,-43.9345
+9005625002,Manaus,A,0,A,0,Sim,1,392,1,Pública,-3.119,-60.0217
+2579296003,Belo Horizonte,A,0,B,1,Não,0,597,1,Pública,-19.9167,-43.9345
+6223221376,Rio de Janeiro,D,3,D,2,Sim,1,625,6,Pública,-22.9068,-43.1729
+4851497090,Fortaleza,B,1,A,0,Sim,1,551,2,Pública,-3.7319,-38.5267
+8531698161,São Paulo,A,0,A,0,Sim,1,465,1,Pública,-23.5505,-46.6333
+2099602582,Fortaleza,Q,5,F,3,Sim,1,757,9,Pública,-3.7319,-38.5267
+7889149015,Manaus,Q,5,F,3,Sim,1,702,9,Pública,-3.119,-60.0217
+5126238451,Fortaleza,E,4,F,3,Sim,1,671,8,Privada,-3.7319,-38.5267
+2647268172,São Paulo,E,4,F,3,Sim,1,663,8,Pública,-23.5505,-46.6333
+4512871708,São Paulo,E,4,G,4,Sim,1,629,9,Pública,-23.5505,-46.6333
+4743286750,São Paulo,C,2,D,2,Sim,1,523,5,Privada,-23.5505,-46.6333
+8410871728,Manaus,D,3,F,3,Sim,1,595,7,Pública,-3.119,-60.0217
+5113849463,Manaus,C,2,F,3,Sim,1,378,6,Privada,-3.119,-60.0217
+2446749884,Fortaleza,E,4,G,4,Sim,1,687,9,Pública,-3.7319,-38.5267
+9467598276,Manaus,A,0,A,0,Não,0,398,0,Pública,-3.119,-60.0217
+2782401795,São Paulo,B,1,B,1,Não,0,500,2,Pública,-23.5505,-46.6333
+3121066156,São Paulo,Q,5,G,4,Sim,1,703,10,Pública,-23.5505,-46.6333
+8661914952,Rio de Janeiro,D,3,D,2,Sim,1,597,6,Pública,-22.9068,-43.1729
+6819018061,São Paulo,D,3,F,3,Sim,1,567,7,Pública,-23.5505,-46.6333
+2836123009,Manaus,C,2,F,3,Sim,1,582,6,Pública,-3.119,-60.0217
+4609674143,Fortaleza,Q,5,F,3,Sim,1,713,9,Pública,-3.7319,-38.5267
+8863086052,Manaus,D,3,F,3,Sim,1,511,7,Pública,-3.119,-60.0217
+1716528105,Rio de Janeiro,D,3,F,3,Sim,1,575,7,Privada,-22.9068,-43.1729
+7888029267,Manaus,B,1,A,0,Não,0,480,1,Privada,-3.119,-60.0217
+3708357854,Rio de Janeiro,D,3,F,3,Sim,1,619,7,Privada,-22.9068,-43.1729
+2000919043,Manaus,C,2,D,2,Sim,1,719,5,Pública,-3.119,-60.0217
+4840128267,Fortaleza,C,2,D,2,Sim,1,620,5,Pública,-3.7319,-38.5267
+8443835579,Fortaleza,Q,5,F,3,Sim,1,721,9,Pública,-3.7319,-38.5267
+3885269999,Belo Horizonte,C,2,F,3,Sim,1,579,6,Pública,-19.9167,-43.9345
+3101226411,Fortaleza,A,0,A,0,Não,0,393,0,Pública,-3.7319,-38.5267
+4607764918,Rio de Janeiro,E,4,F,3,Sim,1,870,8,Pública,-22.9068,-43.1729
+9104354624,Manaus,D,3,D,2,Sim,1,685,6,Pública,-3.119,-60.0217
+3878718904,Rio de Janeiro,C,2,D,2,Sim,1,512,5,Pública,-22.9068,-43.1729
+4610365087,São Paulo,A,0,A,0,Não,0,345,0,Pública,-23.5505,-46.6333
+5171357759,Belo Horizonte,D,3,D,2,Sim,1,563,6,Pública,-19.9167,-43.9345
+1396292363,Fortaleza,D,3,F,3,Sim,1,648,7,Pública,-3.7319,-38.5267
+2891652072,São Paulo,D,3,F,3,Sim,1,541,7,Privada,-23.5505,-46.6333
+3264820791,Rio de Janeiro,E,4,F,3,Sim,1,704,8,Pública,-22.9068,-43.1729
+9134550665,Rio de Janeiro,C,2,D,2,Sim,1,619,5,Pública,-22.9068,-43.1729
+1707457340,São Paulo,E,4,G,4,Sim,1,786,9,Pública,-23.5505,-46.6333
+5928273140,Belo Horizonte,D,3,F,3,Sim,1,712,7,Pública,-19.9167,-43.9345
+1815410955,Fortaleza,A,0,B,1,Sim,1,536,2,Pública,-3.7319,-38.5267
+3149022800,Manaus,B,1,A,0,Sim,1,557,2,Pública,-3.119,-60.0217
+3975558465,São Paulo,C,2,F,3,Sim,1,586,6,Pública,-23.5505,-46.6333
+9479575239,Manaus,C,2,D,2,Sim,1,704,5,Pública,-3.119,-60.0217
+8513252254,Fortaleza,Q,5,G,4,Sim,1,581,10,Pública,-3.7319,-38.5267
+3144231965,São Paulo,A,0,A,0,Sim,1,476,1,Pública,-23.5505,-46.6333
+8383009063,Rio de Janeiro,C,2,F,3,Sim,1,582,6,Privada,-22.9068,-43.1729
+3961526873,Belo Horizonte,C,2,D,2,Sim,1,652,5,Pública,-19.9167,-43.9345
+8064018522,Belo Horizonte,A,0,A,0,Não,0,604,0,Pública,-19.9167,-43.9345
+1143565876,Belo Horizonte,B,1,B,1,Sim,1,504,3,Privada,-19.9167,-43.9345
+1620965142,Manaus,B,1,B,1,Sim,1,481,3,Pública,-3.119,-60.0217
+5895062567,Rio de Janeiro,C,2,F,3,Sim,1,606,6,Pública,-22.9068,-43.1729
+5901099331,Fortaleza,C,2,D,2,Sim,1,600,5,Pública,-3.7319,-38.5267
+5992966679,Rio de Janeiro,B,1,A,0,Sim,1,496,2,Pública,-22.9068,-43.1729
+2910212033,Belo Horizonte,B,1,A,0,Não,0,502,1,Privada,-19.9167,-43.9345
+6356709280,Rio de Janeiro,Q,5,F,3,Sim,1,671,9,Pública,-22.9068,-43.1729
+3588447761,Rio de Janeiro,D,3,D,2,Sim,1,600,6,Privada,-22.9068,-43.1729
+3267029937,Manaus,B,1,A,0,Sim,1,471,2,Pública,-3.119,-60.0217
+4684725781,Fortaleza,A,0,A,0,Sim,1,395,1,Pública,-3.7319,-38.5267
+9148834978,Rio de Janeiro,B,1,A,0,Sim,1,368,2,Pública,-22.9068,-43.1729
+3742143659,Manaus,D,3,F,3,Sim,1,438,7,Pública,-3.119,-60.0217
+8970698693,Manaus,A,0,A,0,Sim,1,448,1,Pública,-3.119,-60.0217
+3879949545,São Paulo,B,1,A,0,Não,0,402,1,Privada,-23.5505,-46.6333
+6398569003,Manaus,Q,5,G,4,Sim,1,702,10,Pública,-3.119,-60.0217
+2973547224,Fortaleza,A,0,A,0,Não,0,467,0,Privada,-3.7319,-38.5267
+6931980688,Belo Horizonte,C,2,D,2,Sim,1,484,5,Pública,-19.9167,-43.9345
+4671082978,Rio de Janeiro,D,3,F,3,Sim,1,666,7,Privada,-22.9068,-43.1729
+9059765925,São Paulo,D,3,F,3,Sim,1,456,7,Pública,-23.5505,-46.6333
+8896508735,Manaus,A,0,A,0,Sim,1,537,1,Pública,-3.119,-60.0217
+8216566199,Fortaleza,C,2,D,2,Sim,1,585,5,Privada,-3.7319,-38.5267
+8068481833,Manaus,C,2,F,3,Sim,1,688,6,Pública,-3.119,-60.0217
+3840896743,Fortaleza,D,3,F,3,Sim,1,663,7,Pública,-3.7319,-38.5267
+5334484860,São Paulo,E,4,G,4,Sim,1,579,9,Pública,-23.5505,-46.6333
+9523113283,Belo Horizonte,Q,5,G,4,Sim,1,845,10,Pública,-19.9167,-43.9345
+2412074791,São Paulo,B,1,B,1,Não,0,467,2,Privada,-23.5505,-46.6333
+8501894681,Manaus,D,3,F,3,Sim,1,687,7,Pública,-3.119,-60.0217
+4533245941,Fortaleza,B,1,B,1,Sim,1,401,3,Pública,-3.7319,-38.5267
+2182130074,Rio de Janeiro,B,1,B,1,Não,0,575,2,Pública,-22.9068,-43.1729
+5220578661,Fortaleza,D,3,D,2,Sim,1,473,6,Pública,-3.7319,-38.5267
+9779538347,Belo Horizonte,C,2,D,2,Sim,1,604,5,Pública,-19.9167,-43.9345
+4483593206,São Paulo,Q,5,G,4,Sim,1,715,10,Pública,-23.5505,-46.6333
+9801675008,Fortaleza,C,2,D,2,Sim,1,410,5,Pública,-3.7319,-38.5267
+5815796054,São Paulo,C,2,D,2,Sim,1,784,5,Pública,-23.5505,-46.6333
+5636795795,São Paulo,C,2,F,3,Sim,1,576,6,Pública,-23.5505,-46.6333
+4317959278,Fortaleza,A,0,A,0,Não,0,387,0,Pública,-3.7319,-38.5267
+5287332796,Belo Horizonte,B,1,A,0,Não,0,554,1,Pública,-19.9167,-43.9345
+2638138352,Rio de Janeiro,C,2,D,2,Sim,1,511,5,Pública,-22.9068,-43.1729
+9074235998,Fortaleza,A,0,A,0,Não,0,564,0,Pública,-3.7319,-38.5267
+9069733062,Belo Horizonte,E,4,G,4,Sim,1,606,9,Pública,-19.9167,-43.9345
+5435841693,Belo Horizonte,Q,5,F,3,Sim,1,774,9,Pública,-19.9167,-43.9345
+9952378077,Manaus,D,3,D,2,Sim,1,526,6,Pública,-3.119,-60.0217
+4253304820,Fortaleza,A,0,A,0,Não,0,493,0,Pública,-3.7319,-38.5267
+4237463010,São Paulo,C,2,F,3,Sim,1,526,6,Pública,-23.5505,-46.6333
+2946744482,Belo Horizonte,C,2,D,2,Sim,1,665,5,Pública,-19.9167,-43.9345
+3950069149,Manaus,C,2,D,2,Sim,1,549,5,Pública,-3.119,-60.0217
+5743706835,Rio de Janeiro,D,3,F,3,Sim,1,537,7,Pública,-22.9068,-43.1729
+5256555280,São Paulo,D,3,D,2,Sim,1,620,6,Pública,-23.5505,-46.6333
+9832529025,Belo Horizonte,C,2,F,3,Sim,1,672,6,Privada,-19.9167,-43.9345
+7948084254,São Paulo,C,2,D,2,Sim,1,685,5,Pública,-23.5505,-46.6333
+2951729000,Rio de Janeiro,C,2,F,3,Sim,1,533,6,Pública,-22.9068,-43.1729
+3252436935,Belo Horizonte,D,3,D,2,Sim,1,485,6,Pública,-19.9167,-43.9345
+6450537815,São Paulo,A,0,A,0,Não,0,573,0,Pública,-23.5505,-46.6333
+2152236735,Rio de Janeiro,C,2,D,2,Sim,1,631,5,Pública,-22.9068,-43.1729
+1484459090,Manaus,C,2,D,2,Sim,1,574,5,Privada,-3.119,-60.0217
+3064367576,São Paulo,C,2,F,3,Sim,1,678,6,Pública,-23.5505,-46.6333
+1657708983,Belo Horizonte,B,1,A,0,Não,0,427,1,Pública,-19.9167,-43.9345
+4147023129,São Paulo,A,0,A,0,Sim,1,443,1,Pública,-23.5505,-46.6333
+5086415032,São Paulo,B,1,B,1,Sim,1,418,3,Pública,-23.5505,-46.6333
+2785737078,Fortaleza,A,0,B,1,Não,0,627,1,Pública,-3.7319,-38.5267
+4213639355,Rio de Janeiro,C,2,D,2,Sim,1,499,5,Pública,-22.9068,-43.1729
+1203648583,São Paulo,B,1,B,1,Sim,1,453,3,Pública,-23.5505,-46.6333
+5833735673,Belo Horizonte,C,2,F,3,Sim,1,650,6,Pública,-19.9167,-43.9345
+8435030694,Fortaleza,B,1,B,1,Não,0,533,2,Pública,-3.7319,-38.5267
+1506542730,São Paulo,C,2,D,2,Sim,1,567,5,Pública,-23.5505,-46.6333
+4725259836,São Paulo,A,0,B,1,Não,0,461,1,Pública,-23.5505,-46.6333
+4395613875,Belo Horizonte,C,2,F,3,Sim,1,568,6,Pública,-19.9167,-43.9345
+4021631209,Manaus,A,0,A,0,Sim,1,423,1,Pública,-3.119,-60.0217
+8833168892,São Paulo,D,3,D,2,Sim,1,602,6,Pública,-23.5505,-46.6333
+9031286305,Belo Horizonte,B,1,B,1,Sim,1,346,3,Pública,-19.9167,-43.9345
+5027569744,Fortaleza,Q,5,F,3,Sim,1,596,9,Pública,-3.7319,-38.5267
+7384003431,Fortaleza,A,0,A,0,Sim,1,518,1,Privada,-3.7319,-38.5267
+1242242007,São Paulo,B,1,A,0,Sim,1,364,2,Pública,-23.5505,-46.6333
+9886244434,São Paulo,Q,5,F,3,Sim,1,676,9,Pública,-23.5505,-46.6333
+6713628027,Belo Horizonte,A,0,A,0,Sim,1,367,1,Pública,-19.9167,-43.9345
+6185238973,Rio de Janeiro,B,1,A,0,Sim,1,405,2,Pública,-22.9068,-43.1729
+5307174266,Manaus,B,1,B,1,Não,0,362,2,Pública,-3.119,-60.0217
+8147143908,Fortaleza,E,4,F,3,Sim,1,701,8,Pública,-3.7319,-38.5267
+4857412508,São Paulo,B,1,A,0,Não,0,578,1,Privada,-23.5505,-46.6333
+7712304751,Belo Horizonte,D,3,F,3,Sim,1,634,7,Pública,-19.9167,-43.9345
+1722673113,Manaus,A,0,A,0,Sim,1,473,1,Pública,-3.119,-60.0217
+3535860828,Fortaleza,C,2,D,2,Sim,1,598,5,Pública,-3.7319,-38.5267
+5317791458,Manaus,C,2,F,3,Sim,1,532,6,Privada,-3.119,-60.0217
+6724977717,São Paulo,B,1,B,1,Sim,1,375,3,Pública,-23.5505,-46.6333
+6172165497,Manaus,C,2,D,2,Sim,1,721,5,Privada,-3.119,-60.0217
+5213489575,Belo Horizonte,B,1,B,1,Não,0,429,2,Pública,-19.9167,-43.9345
+9859324275,Manaus,A,0,A,0,Sim,1,394,1,Privada,-3.119,-60.0217
+3788416355,Rio de Janeiro,A,0,A,0,Sim,1,465,1,Pública,-22.9068,-43.1729
+1107974278,São Paulo,A,0,B,1,Não,0,596,1,Privada,-23.5505,-46.6333
+8182382889,Fortaleza,B,1,A,0,Sim,1,461,2,Pública,-3.7319,-38.5267
+4312807676,Rio de Janeiro,D,3,F,3,Sim,1,545,7,Privada,-22.9068,-43.1729
+6187335345,Belo Horizonte,E,4,F,3,Sim,1,768,8,Pública,-19.9167,-43.9345
+1173216715,São Paulo,D,3,D,2,Sim,1,654,6,Pública,-23.5505,-46.6333
+9529472890,São Paulo,B,1,A,0,Não,0,335,1,Pública,-23.5505,-46.6333
+6759956247,Fortaleza,E,4,G,4,Sim,1,855,9,Pública,-3.7319,-38.5267
+6055698173,São Paulo,D,3,D,2,Sim,1,707,6,Pública,-23.5505,-46.6333
+2986934641,Manaus,C,2,D,2,Sim,1,648,5,Pública,-3.119,-60.0217
+9704510415,Manaus,C,2,F,3,Sim,1,650,6,Pública,-3.119,-60.0217
+4564963213,Belo Horizonte,Q,5,G,4,Sim,1,727,10,Pública,-19.9167,-43.9345
+1847457035,Fortaleza,Q,5,G,4,Sim,1,692,10,Privada,-3.7319,-38.5267
+5293711608,São Paulo,D,3,D,2,Sim,1,691,6,Pública,-23.5505,-46.6333
+4392442715,São Paulo,B,1,B,1,Sim,1,447,3,Privada,-23.5505,-46.6333
+6556664929,Fortaleza,B,1,A,0,Não,0,548,1,Pública,-3.7319,-38.5267
+1733053996,Rio de Janeiro,B,1,A,0,Não,0,404,1,Pública,-22.9068,-43.1729
+3020230507,São Paulo,B,1,B,1,Sim,1,471,3,Pública,-23.5505,-46.6333
+4686685591,Fortaleza,E,4,G,4,Sim,1,689,9,Pública,-3.7319,-38.5267
+7246955750,Rio de Janeiro,E,4,G,4,Sim,1,822,9,Pública,-22.9068,-43.1729
+9596740587,Manaus,A,0,A,0,Não,0,386,0,Pública,-3.119,-60.0217
+5500944179,Fortaleza,E,4,F,3,Sim,1,559,8,Pública,-3.7319,-38.5267
+5344471150,Belo Horizonte,A,0,B,1,Sim,1,571,2,Pública,-19.9167,-43.9345
+1855052030,Fortaleza,C,2,F,3,Sim,1,578,6,Privada,-3.7319,-38.5267
+2933144450,Fortaleza,A,0,B,1,Sim,1,557,2,Privada,-3.7319,-38.5267
+1227830316,Belo Horizonte,D,3,D,2,Sim,1,538,6,Pública,-19.9167,-43.9345
+3426966957,São Paulo,D,3,D,2,Sim,1,545,6,Pública,-23.5505,-46.6333
+4916462519,São Paulo,C,2,D,2,Sim,1,534,5,Pública,-23.5505,-46.6333
+5132557014,São Paulo,B,1,A,0,Não,0,547,1,Pública,-23.5505,-46.6333
+9655496581,Fortaleza,E,4,F,3,Sim,1,792,8,Pública,-3.7319,-38.5267
+5660900569,São Paulo,B,1,B,1,Não,0,580,2,Pública,-23.5505,-46.6333
+1152824154,Manaus,A,0,B,1,Sim,1,469,2,Pública,-3.119,-60.0217
+6073292875,Belo Horizonte,B,1,A,0,Não,0,427,1,Privada,-19.9167,-43.9345
+9685594048,Rio de Janeiro,E,4,F,3,Sim,1,786,8,Pública,-22.9068,-43.1729
+5953664220,São Paulo,E,4,F,3,Sim,1,811,8,Pública,-23.5505,-46.6333
+4963954512,São Paulo,D,3,F,3,Sim,1,664,7,Pública,-23.5505,-46.6333
+5105639992,Manaus,E,4,G,4,Sim,1,592,9,Pública,-3.119,-60.0217
+2831400069,Manaus,B,1,B,1,Sim,1,450,3,Pública,-3.119,-60.0217
+3920775582,Rio de Janeiro,D,3,D,2,Sim,1,637,6,Privada,-22.9068,-43.1729
+6686088110,Manaus,A,0,A,0,Sim,1,467,1,Pública,-3.119,-60.0217
+1547936741,Belo Horizonte,B,1,A,0,Sim,1,505,2,Privada,-19.9167,-43.9345
+8927258006,Belo Horizonte,D,3,D,2,Sim,1,696,6,Pública,-19.9167,-43.9345
+2774656788,Belo Horizonte,B,1,A,0,Sim,1,302,2,Pública,-19.9167,-43.9345
+2801257011,Belo Horizonte,C,2,D,2,Sim,1,679,5,Pública,-19.9167,-43.9345
+9930037620,São Paulo,D,3,F,3,Sim,1,473,7,Pública,-23.5505,-46.6333
+2151100613,São Paulo,B,1,A,0,Não,0,428,1,Privada,-23.5505,-46.6333
+8595310674,Fortaleza,B,1,A,0,Não,0,406,1,Privada,-3.7319,-38.5267
+8571164264,São Paulo,E,4,F,3,Sim,1,704,8,Pública,-23.5505,-46.6333
+9627168044,São Paulo,C,2,D,2,Sim,1,746,5,Pública,-23.5505,-46.6333
+4067264414,São Paulo,A,0,A,0,Não,0,657,0,Pública,-23.5505,-46.6333
+9931469178,Rio de Janeiro,Q,5,G,4,Sim,1,788,10,Privada,-22.9068,-43.1729
+5750629177,Belo Horizonte,A,0,A,0,Sim,1,355,1,Pública,-19.9167,-43.9345
+1439049468,Fortaleza,B,1,B,1,Sim,1,556,3,Pública,-3.7319,-38.5267
+4703700283,Belo Horizonte,Q,5,F,3,Sim,1,730,9,Pública,-19.9167,-43.9345
+9137235932,Rio de Janeiro,A,0,B,1,Sim,1,452,2,Pública,-22.9068,-43.1729
+7463388122,Fortaleza,E,4,F,3,Sim,1,693,8,Pública,-3.7319,-38.5267
+2795857631,Fortaleza,C,2,F,3,Sim,1,534,6,Pública,-3.7319,-38.5267
+4086379579,São Paulo,D,3,D,2,Sim,1,537,6,Privada,-23.5505,-46.6333
+5776426721,Rio de Janeiro,A,0,B,1,Sim,1,393,2,Pública,-22.9068,-43.1729
+5330178834,Belo Horizonte,B,1,B,1,Sim,1,291,3,Pública,-19.9167,-43.9345
+7695170569,Fortaleza,E,4,G,4,Sim,1,722,9,Privada,-3.7319,-38.5267
+5442117698,Fortaleza,Q,5,F,3,Sim,1,732,9,Pública,-3.7319,-38.5267
+9629626899,Rio de Janeiro,C,2,F,3,Sim,1,589,6,Privada,-22.9068,-43.1729
+6623969654,Rio de Janeiro,D,3,F,3,Sim,1,684,7,Pública,-22.9068,-43.1729
+8122274599,Manaus,C,2,F,3,Sim,1,562,6,Pública,-3.119,-60.0217
+4557857033,Belo Horizonte,C,2,F,3,Sim,1,596,6,Privada,-19.9167,-43.9345
+4195668058,São Paulo,D,3,D,2,Sim,1,642,6,Pública,-23.5505,-46.6333
+8872381487,Fortaleza,D,3,F,3,Sim,1,676,7,Pública,-3.7319,-38.5267
+6240144670,Manaus,C,2,F,3,Sim,1,620,6,Pública,-3.119,-60.0217
+1656966234,Belo Horizonte,C,2,D,2,Sim,1,615,5,Pública,-19.9167,-43.9345
+1518744106,Rio de Janeiro,B,1,B,1,Não,0,474,2,Pública,-22.9068,-43.1729
+3218550386,Belo Horizonte,B,1,B,1,Não,0,394,2,Pública,-19.9167,-43.9345
+8507274923,Belo Horizonte,D,3,F,3,Sim,1,560,7,Privada,-19.9167,-43.9345
+2793745877,Belo Horizonte,Q,5,F,3,Sim,1,669,9,Pública,-19.9167,-43.9345
+4401446656,Manaus,E,4,F,3,Sim,1,801,8,Pública,-3.119,-60.0217
+2456700559,Fortaleza,D,3,F,3,Sim,1,616,7,Pública,-3.7319,-38.5267
+8979573299,Rio de Janeiro,B,1,B,1,Sim,1,386,3,Pública,-22.9068,-43.1729
+1502704745,Manaus,D,3,D,2,Sim,1,570,6,Pública,-3.119,-60.0217
+8372878047,Fortaleza,A,0,B,1,Não,0,349,1,Privada,-3.7319,-38.5267
+7342036572,Rio de Janeiro,D,3,D,2,Sim,1,520,6,Pública,-22.9068,-43.1729
+7666479989,Manaus,D,3,F,3,Sim,1,680,7,Pública,-3.119,-60.0217
+6782168653,Manaus,D,3,F,3,Sim,1,648,7,Pública,-3.119,-60.0217
+4261721454,Belo Horizonte,D,3,F,3,Sim,1,690,7,Pública,-19.9167,-43.9345
+6591337289,Fortaleza,B,1,B,1,Não,0,310,2,Pública,-3.7319,-38.5267
+2473362815,Fortaleza,A,0,B,1,Sim,1,474,2,Pública,-3.7319,-38.5267
+4428556391,Rio de Janeiro,E,4,G,4,Sim,1,689,9,Privada,-22.9068,-43.1729
+5330897532,Manaus,B,1,A,0,Sim,1,478,2,Pública,-3.119,-60.0217
+9246826020,Rio de Janeiro,Q,5,F,3,Sim,1,739,9,Pública,-22.9068,-43.1729
+4952539735,São Paulo,C,2,D,2,Sim,1,524,5,Pública,-23.5505,-46.6333
+8883690777,Manaus,B,1,B,1,Sim,1,455,3,Pública,-3.119,-60.0217
+3971459740,Belo Horizonte,B,1,A,0,Sim,1,512,2,Pública,-19.9167,-43.9345
+5778168890,Manaus,B,1,A,0,Sim,1,441,2,Pública,-3.119,-60.0217
+4510759757,Fortaleza,B,1,A,0,Não,0,347,1,Pública,-3.7319,-38.5267
+8293356651,São Paulo,E,4,G,4,Sim,1,897,9,Pública,-23.5505,-46.6333
+6045083610,São Paulo,B,1,B,1,Não,0,459,2,Pública,-23.5505,-46.6333
+1679148417,Belo Horizonte,A,0,B,1,Sim,1,491,2,Pública,-19.9167,-43.9345
+8035170333,Manaus,B,1,B,1,Não,0,404,2,Privada,-3.119,-60.0217
+6221133033,Rio de Janeiro,C,2,F,3,Sim,1,636,6,Privada,-22.9068,-43.1729
+4156727820,São Paulo,D,3,F,3,Sim,1,688,7,Pública,-23.5505,-46.6333
+8393739690,Fortaleza,D,3,D,2,Sim,1,815,6,Privada,-3.7319,-38.5267
+9504258363,São Paulo,B,1,B,1,Sim,1,445,3,Pública,-23.5505,-46.6333
+2345911329,Rio de Janeiro,B,1,B,1,Não,0,385,2,Pública,-22.9068,-43.1729
+8774429526,Belo Horizonte,D,3,D,2,Sim,1,671,6,Pública,-19.9167,-43.9345
+1730704214,Manaus,Q,5,G,4,Sim,1,696,10,Pública,-3.119,-60.0217
+7708658773,Rio de Janeiro,C,2,D,2,Sim,1,636,5,Pública,-22.9068,-43.1729
+3391489944,Belo Horizonte,A,0,A,0,Sim,1,544,1,Privada,-19.9167,-43.9345
+7122748053,São Paulo,C,2,D,2,Sim,1,485,5,Pública,-23.5505,-46.6333
+8247209548,Manaus,C,2,F,3,Sim,1,663,6,Pública,-3.119,-60.0217
+7671921162,Belo Horizonte,A,0,A,0,Sim,1,335,1,Pública,-19.9167,-43.9345
+2969920930,Fortaleza,Q,5,F,3,Sim,1,840,9,Privada,-3.7319,-38.5267
+1710260564,São Paulo,D,3,D,2,Sim,1,567,6,Pública,-23.5505,-46.6333
+3962246000,Belo Horizonte,E,4,G,4,Sim,1,829,9,Pública,-19.9167,-43.9345
+3483478035,São Paulo,Q,5,F,3,Sim,1,893,9,Pública,-23.5505,-46.6333
+3571127133,São Paulo,A,0,B,1,Não,0,417,1,Pública,-23.5505,-46.6333
+9042644186,Fortaleza,C,2,D,2,Sim,1,697,5,Privada,-3.7319,-38.5267
+2951077907,Manaus,B,1,B,1,Não,0,298,2,Privada,-3.119,-60.0217
+4016860309,Rio de Janeiro,D,3,F,3,Sim,1,542,7,Pública,-22.9068,-43.1729
+7517323220,Manaus,Q,5,G,4,Sim,1,784,10,Privada,-3.119,-60.0217
+6616632623,Belo Horizonte,Q,5,G,4,Sim,1,685,10,Pública,-19.9167,-43.9345
+6158998614,São Paulo,B,1,B,1,Sim,1,464,3,Privada,-23.5505,-46.6333
+6480887797,Fortaleza,E,4,G,4,Sim,1,689,9,Pública,-3.7319,-38.5267
+2816205988,São Paulo,E,4,F,3,Sim,1,730,8,Pública,-23.5505,-46.6333
+9783705806,Fortaleza,D,3,F,3,Sim,1,539,7,Pública,-3.7319,-38.5267
+3684469624,Manaus,A,0,A,0,Não,0,512,0,Pública,-3.119,-60.0217
+3095414069,Manaus,Q,5,G,4,Sim,1,808,10,Pública,-3.119,-60.0217
+6104002710,Manaus,Q,5,F,3,Sim,1,751,9,Pública,-3.119,-60.0217
+6251238468,Rio de Janeiro,E,4,F,3,Sim,1,590,8,Pública,-22.9068,-43.1729
+9769557103,Rio de Janeiro,C,2,D,2,Sim,1,605,5,Pública,-22.9068,-43.1729
+3009396957,São Paulo,D,3,F,3,Sim,1,689,7,Pública,-23.5505,-46.6333
+8343555319,São Paulo,E,4,G,4,Sim,1,714,9,Pública,-23.5505,-46.6333
+6448411443,Belo Horizonte,B,1,A,0,Sim,1,502,2,Privada,-19.9167,-43.9345
+2545683994,Fortaleza,D,3,F,3,Sim,1,488,7,Pública,-3.7319,-38.5267
+9425181764,Rio de Janeiro,Q,5,G,4,Sim,1,640,10,Pública,-22.9068,-43.1729
+7430226667,São Paulo,B,1,B,1,Sim,1,608,3,Pública,-23.5505,-46.6333
+6198893614,Rio de Janeiro,A,0,B,1,Não,0,591,1,Privada,-22.9068,-43.1729
+8598526738,Manaus,D,3,F,3,Sim,1,696,7,Pública,-3.119,-60.0217
+3297395578,São Paulo,E,4,G,4,Sim,1,686,9,Pública,-23.5505,-46.6333
+5621814250,Manaus,B,1,A,0,Não,0,398,1,Privada,-3.119,-60.0217
+1822457928,São Paulo,A,0,A,0,Não,0,385,0,Privada,-23.5505,-46.6333
+1000226884,São Paulo,C,2,F,3,Sim,1,592,6,Pública,-23.5505,-46.6333
+6179832453,São Paulo,E,4,G,4,Sim,1,749,9,Pública,-23.5505,-46.6333
+9301511298,Belo Horizonte,B,1,A,0,Sim,1,426,2,Pública,-19.9167,-43.9345
+3383135241,São Paulo,B,1,A,0,Sim,1,434,2,Privada,-23.5505,-46.6333
+3725306795,Fortaleza,Q,5,G,4,Sim,1,724,10,Pública,-3.7319,-38.5267
+7233748458,Rio de Janeiro,C,2,D,2,Sim,1,597,5,Pública,-22.9068,-43.1729
+8282067468,Belo Horizonte,A,0,B,1,Não,0,516,1,Privada,-19.9167,-43.9345
+9224373393,Fortaleza,D,3,D,2,Sim,1,502,6,Pública,-3.7319,-38.5267
+2127739751,Manaus,A,0,A,0,Não,0,442,0,Pública,-3.119,-60.0217
+5111630660,Belo Horizonte,C,2,D,2,Sim,1,573,5,Pública,-19.9167,-43.9345
+8385068388,Rio de Janeiro,C,2,D,2,Sim,1,549,5,Pública,-22.9068,-43.1729
+1101860974,São Paulo,Q,5,G,4,Sim,1,834,10,Pública,-23.5505,-46.6333
+3623995341,São Paulo,E,4,G,4,Sim,1,734,9,Pública,-23.5505,-46.6333
+5161984908,Belo Horizonte,Q,5,F,3,Sim,1,872,9,Pública,-19.9167,-43.9345
+4761176060,Manaus,D,3,D,2,Sim,1,791,6,Pública,-3.119,-60.0217
+1770947773,Fortaleza,Q,5,F,3,Sim,1,697,9,Privada,-3.7319,-38.5267
+2502644517,Belo Horizonte,E,4,F,3,Sim,1,681,8,Pública,-19.9167,-43.9345
+4115524634,Fortaleza,D,3,F,3,Sim,1,662,7,Privada,-3.7319,-38.5267
+9342118992,Rio de Janeiro,E,4,F,3,Sim,1,618,8,Pública,-22.9068,-43.1729
+1591687295,Fortaleza,B,1,B,1,Sim,1,357,3,Privada,-3.7319,-38.5267
+6771807146,Belo Horizonte,Q,5,G,4,Sim,1,689,10,Pública,-19.9167,-43.9345
+4271660023,Belo Horizonte,C,2,D,2,Sim,1,498,5,Pública,-19.9167,-43.9345
+2701818613,Fortaleza,C,2,D,2,Sim,1,557,5,Pública,-3.7319,-38.5267
+2269602137,Fortaleza,B,1,B,1,Sim,1,434,3,Privada,-3.7319,-38.5267
+8341375316,Rio de Janeiro,C,2,D,2,Sim,1,635,5,Pública,-22.9068,-43.1729
+4398834079,Belo Horizonte,B,1,A,0,Sim,1,377,2,Pública,-19.9167,-43.9345
+7717874059,Rio de Janeiro,A,0,B,1,Não,0,627,1,Pública,-22.9068,-43.1729
+2279813475,Fortaleza,C,2,F,3,Sim,1,569,6,Privada,-3.7319,-38.5267
+5076406964,Fortaleza,D,3,D,2,Sim,1,620,6,Pública,-3.7319,-38.5267
+9624759032,Manaus,C,2,D,2,Sim,1,628,5,Pública,-3.119,-60.0217
+6069590274,Belo Horizonte,D,3,D,2,Sim,1,735,6,Pública,-19.9167,-43.9345
+2748797909,Fortaleza,E,4,F,3,Sim,1,707,8,Privada,-3.7319,-38.5267
+1226096147,Belo Horizonte,B,1,B,1,Não,0,414,2,Pública,-19.9167,-43.9345
+3569174018,São Paulo,A,0,A,0,Sim,1,418,1,Pública,-23.5505,-46.6333
+5076265885,Manaus,B,1,A,0,Sim,1,491,2,Pública,-3.119,-60.0217
+5550571283,São Paulo,C,2,D,2,Sim,1,642,5,Pública,-23.5505,-46.6333
+2129875823,Fortaleza,C,2,F,3,Sim,1,642,6,Pública,-3.7319,-38.5267
+8366886191,Manaus,D,3,F,3,Sim,1,432,7,Pública,-3.119,-60.0217
+6683075252,Belo Horizonte,B,1,A,0,Sim,1,392,2,Pública,-19.9167,-43.9345
+5923634837,Belo Horizonte,D,3,F,3,Sim,1,451,7,Pública,-19.9167,-43.9345
+5252772640,Manaus,A,0,A,0,Sim,1,392,1,Pública,-3.119,-60.0217
+2918140547,Rio de Janeiro,C,2,F,3,Sim,1,719,6,Pública,-22.9068,-43.1729
+3199753212,São Paulo,C,2,F,3,Sim,1,605,6,Pública,-23.5505,-46.6333
+6019535328,Manaus,B,1,A,0,Sim,1,431,2,Pública,-3.119,-60.0217
+4454529484,Manaus,C,2,F,3,Sim,1,659,6,Pública,-3.119,-60.0217
+2560466727,Fortaleza,A,0,A,0,Não,0,348,0,Pública,-3.7319,-38.5267
+3127373094,Manaus,B,1,A,0,Sim,1,535,2,Pública,-3.119,-60.0217
+7686595823,Rio de Janeiro,B,1,A,0,Sim,1,462,2,Pública,-22.9068,-43.1729
+8293779838,Rio de Janeiro,A,0,A,0,Não,0,490,0,Pública,-22.9068,-43.1729
+8053663260,São Paulo,C,2,F,3,Sim,1,629,6,Pública,-23.5505,-46.6333
+2560676057,Belo Horizonte,B,1,A,0,Sim,1,602,2,Privada,-19.9167,-43.9345
+9542156132,Belo Horizonte,D,3,F,3,Sim,1,716,7,Pública,-19.9167,-43.9345
+3880647757,Rio de Janeiro,E,4,F,3,Sim,1,663,8,Pública,-22.9068,-43.1729
+5484341947,São Paulo,A,0,A,0,Não,0,457,0,Pública,-23.5505,-46.6333
+9300209533,Fortaleza,A,0,A,0,Sim,1,418,1,Pública,-3.7319,-38.5267
+8288950916,Rio de Janeiro,A,0,B,1,Não,0,487,1,Pública,-22.9068,-43.1729
+8343986266,Belo Horizonte,A,0,B,1,Sim,1,480,2,Pública,-19.9167,-43.9345
+4542159034,Belo Horizonte,B,1,B,1,Sim,1,520,3,Pública,-19.9167,-43.9345
+8378483345,Rio de Janeiro,B,1,B,1,Não,0,429,2,Pública,-22.9068,-43.1729
+5053542417,São Paulo,A,0,B,1,Sim,1,403,2,Pública,-23.5505,-46.6333
+7210296385,Fortaleza,D,3,F,3,Sim,1,599,7,Pública,-3.7319,-38.5267
+5571585172,Rio de Janeiro,A,0,A,0,Não,0,362,0,Privada,-22.9068,-43.1729
+5483536161,Manaus,Q,5,F,3,Sim,1,670,9,Pública,-3.119,-60.0217
+2057724759,Manaus,A,0,B,1,Não,0,367,1,Privada,-3.119,-60.0217
+6542564925,Fortaleza,E,4,F,3,Sim,1,554,8,Pública,-3.7319,-38.5267
+2197247069,Rio de Janeiro,C,2,F,3,Sim,1,596,6,Pública,-22.9068,-43.1729
+1204368250,Manaus,B,1,A,0,Sim,1,405,2,Pública,-3.119,-60.0217
+3589881769,Belo Horizonte,A,0,B,1,Sim,1,429,2,Pública,-19.9167,-43.9345
+8182314644,São Paulo,D,3,F,3,Sim,1,606,7,Privada,-23.5505,-46.6333
+3284732324,Fortaleza,C,2,D,2,Sim,1,545,5,Pública,-3.7319,-38.5267
+1839969531,Rio de Janeiro,D,3,F,3,Sim,1,569,7,Privada,-22.9068,-43.1729
+2095232329,Rio de Janeiro,Q,5,F,3,Sim,1,702,9,Pública,-22.9068,-43.1729
+3481356242,São Paulo,C,2,F,3,Sim,1,682,6,Privada,-23.5505,-46.6333
+7005006356,Fortaleza,C,2,D,2,Sim,1,522,5,Pública,-3.7319,-38.5267
+1320669315,Belo Horizonte,A,0,B,1,Não,0,441,1,Pública,-19.9167,-43.9345
+6521288145,São Paulo,Q,5,F,3,Sim,1,607,9,Pública,-23.5505,-46.6333
+8128876226,São Paulo,E,4,F,3,Sim,1,686,8,Pública,-23.5505,-46.6333
+4474776935,Manaus,B,1,A,0,Não,0,412,1,Pública,-3.119,-60.0217
+3156769421,Belo Horizonte,C,2,D,2,Sim,1,563,5,Pública,-19.9167,-43.9345
+1605177837,Belo Horizonte,D,3,F,3,Sim,1,636,7,Privada,-19.9167,-43.9345
+4152056626,Rio de Janeiro,C,2,F,3,Sim,1,586,6,Pública,-22.9068,-43.1729
+2985685788,Belo Horizonte,A,0,A,0,Sim,1,581,1,Pública,-19.9167,-43.9345
+3470807065,Manaus,Q,5,G,4,Sim,1,738,10,Pública,-3.119,-60.0217
+4205140357,Belo Horizonte,C,2,D,2,Sim,1,741,5,Pública,-19.9167,-43.9345
+4572657396,Fortaleza,A,0,A,0,Sim,1,418,1,Pública,-3.7319,-38.5267
+5006255814,Rio de Janeiro,B,1,A,0,Sim,1,494,2,Pública,-22.9068,-43.1729
+5637086525,Rio de Janeiro,D,3,D,2,Sim,1,689,6,Pública,-22.9068,-43.1729
+5169787019,São Paulo,A,0,A,0,Sim,1,560,1,Pública,-23.5505,-46.6333
+8828163184,Fortaleza,A,0,B,1,Sim,1,528,2,Pública,-3.7319,-38.5267
+7603611431,Fortaleza,A,0,A,0,Sim,1,387,1,Pública,-3.7319,-38.5267
+9731892679,Manaus,B,1,B,1,Sim,1,443,3,Pública,-3.119,-60.0217
+5458683935,São Paulo,A,0,B,1,Sim,1,468,2,Pública,-23.5505,-46.6333
+8628598472,Belo Horizonte,E,4,F,3,Sim,1,591,8,Pública,-19.9167,-43.9345
+4391622345,Belo Horizonte,C,2,F,3,Sim,1,524,6,Pública,-19.9167,-43.9345
+5432675537,Manaus,E,4,F,3,Sim,1,661,8,Pública,-3.119,-60.0217
+2977343554,Fortaleza,A,0,A,0,Sim,1,317,1,Privada,-3.7319,-38.5267
+7764012985,Manaus,D,3,F,3,Sim,1,611,7,Pública,-3.119,-60.0217
+5275710569,Belo Horizonte,A,0,B,1,Não,0,493,1,Privada,-19.9167,-43.9345
+7050496685,São Paulo,D,3,F,3,Sim,1,570,7,Pública,-23.5505,-46.6333
+4642010704,Belo Horizonte,E,4,G,4,Sim,1,747,9,Pública,-19.9167,-43.9345
+7560836249,São Paulo,C,2,D,2,Sim,1,551,5,Pública,-23.5505,-46.6333
+1337271693,Manaus,D,3,D,2,Sim,1,442,6,Privada,-3.119,-60.0217
+3858341125,Manaus,E,4,G,4,Sim,1,712,9,Pública,-3.119,-60.0217
+2837487757,Belo Horizonte,E,4,F,3,Sim,1,713,8,Privada,-19.9167,-43.9345
+6418637307,Manaus,B,1,B,1,Sim,1,454,3,Privada,-3.119,-60.0217
+7111207888,Manaus,D,3,F,3,Sim,1,629,7,Pública,-3.119,-60.0217
+8428603983,Manaus,A,0,B,1,Não,0,561,1,Pública,-3.119,-60.0217
+4190004220,Belo Horizonte,B,1,A,0,Sim,1,455,2,Pública,-19.9167,-43.9345
+1001034549,Fortaleza,D,3,D,2,Sim,1,592,6,Pública,-3.7319,-38.5267
+1548137423,Belo Horizonte,B,1,B,1,Não,0,477,2,Privada,-19.9167,-43.9345
+4736217556,São Paulo,B,1,B,1,Sim,1,394,3,Privada,-23.5505,-46.6333
+6301300058,São Paulo,C,2,D,2,Sim,1,600,5,Pública,-23.5505,-46.6333
+5215849830,São Paulo,E,4,G,4,Sim,1,660,9,Pública,-23.5505,-46.6333
+7957408728,Rio de Janeiro,A,0,A,0,Não,0,522,0,Pública,-22.9068,-43.1729
+2242759159,Manaus,D,3,D,2,Sim,1,639,6,Pública,-3.119,-60.0217
+7739452152,Belo Horizonte,A,0,B,1,Não,0,624,1,Privada,-19.9167,-43.9345
+8401214153,Rio de Janeiro,B,1,B,1,Não,0,471,2,Pública,-22.9068,-43.1729
+7746060720,Manaus,E,4,G,4,Sim,1,772,9,Pública,-3.119,-60.0217
+2304523693,Belo Horizonte,C,2,F,3,Sim,1,641,6,Pública,-19.9167,-43.9345
+9849507558,Manaus,B,1,A,0,Sim,1,512,2,Pública,-3.119,-60.0217
+8195807278,Rio de Janeiro,C,2,F,3,Sim,1,648,6,Pública,-22.9068,-43.1729
+5830181243,São Paulo,C,2,F,3,Sim,1,590,6,Pública,-23.5505,-46.6333
+4927509999,São Paulo,E,4,F,3,Sim,1,748,8,Pública,-23.5505,-46.6333
+5034413157,Fortaleza,C,2,F,3,Sim,1,710,6,Pública,-3.7319,-38.5267
+9728083361,São Paulo,Q,5,F,3,Sim,1,784,9,Privada,-23.5505,-46.6333
+1432963604,Fortaleza,D,3,F,3,Sim,1,617,7,Pública,-3.7319,-38.5267
+5442248954,Fortaleza,B,1,B,1,Não,0,493,2,Pública,-3.7319,-38.5267
+5229991152,São Paulo,B,1,A,0,Não,0,465,1,Pública,-23.5505,-46.6333
+2252055648,São Paulo,E,4,F,3,Sim,1,752,8,Pública,-23.5505,-46.6333
+5265873488,Belo Horizonte,D,3,F,3,Sim,1,579,7,Pública,-19.9167,-43.9345
+6291974855,Rio de Janeiro,C,2,D,2,Sim,1,569,5,Pública,-22.9068,-43.1729
+3000467766,Manaus,B,1,A,0,Sim,1,515,2,Pública,-3.119,-60.0217
+2108780888,Rio de Janeiro,B,1,B,1,Sim,1,260,3,Pública,-22.9068,-43.1729
+2044849935,Rio de Janeiro,A,0,B,1,Não,0,549,1,Pública,-22.9068,-43.1729
+4467631780,Rio de Janeiro,E,4,F,3,Sim,1,794,8,Pública,-22.9068,-43.1729
+5849036018,Rio de Janeiro,D,3,F,3,Sim,1,541,7,Privada,-22.9068,-43.1729
+7822270185,Fortaleza,C,2,D,2,Sim,1,557,5,Pública,-3.7319,-38.5267
+7924824269,São Paulo,B,1,A,0,Sim,1,462,2,Pública,-23.5505,-46.6333
+5202962202,Belo Horizonte,C,2,F,3,Sim,1,598,6,Pública,-19.9167,-43.9345
+2154406883,Belo Horizonte,B,1,A,0,Sim,1,474,2,Pública,-19.9167,-43.9345
+6014896416,São Paulo,B,1,B,1,Não,0,463,2,Pública,-23.5505,-46.6333
+1404770893,São Paulo,D,3,D,2,Sim,1,674,6,Pública,-23.5505,-46.6333
+3933541327,Fortaleza,B,1,B,1,Não,0,365,2,Privada,-3.7319,-38.5267
+5361807927,Fortaleza,A,0,B,1,Sim,1,591,2,Pública,-3.7319,-38.5267
+8848555351,Rio de Janeiro,A,0,A,0,Sim,1,532,1,Pública,-22.9068,-43.1729
+9726758361,Belo Horizonte,C,2,F,3,Sim,1,647,6,Pública,-19.9167,-43.9345
+4629598003,Manaus,A,0,B,1,Sim,1,440,2,Pública,-3.119,-60.0217
+2203520293,Belo Horizonte,C,2,D,2,Sim,1,335,5,Pública,-19.9167,-43.9345
+1563161288,Belo Horizonte,D,3,F,3,Sim,1,462,7,Pública,-19.9167,-43.9345
+7332180107,São Paulo,C,2,D,2,Sim,1,653,5,Pública,-23.5505,-46.6333
+7278531096,São Paulo,C,2,F,3,Sim,1,405,6,Privada,-23.5505,-46.6333
+6086664398,Rio de Janeiro,A,0,A,0,Sim,1,470,1,Pública,-22.9068,-43.1729
+8212610162,Rio de Janeiro,D,3,F,3,Sim,1,699,7,Pública,-22.9068,-43.1729
+1805783052,Rio de Janeiro,A,0,B,1,Sim,1,344,2,Pública,-22.9068,-43.1729
+4991229994,Belo Horizonte,D,3,F,3,Sim,1,685,7,Pública,-19.9167,-43.9345
+7130655343,Belo Horizonte,C,2,D,2,Sim,1,576,5,Pública,-19.9167,-43.9345
+3703058900,Fortaleza,C,2,F,3,Sim,1,570,6,Pública,-3.7319,-38.5267
+9121039069,Belo Horizonte,Q,5,F,3,Sim,1,738,9,Pública,-19.9167,-43.9345
+4727878919,Manaus,A,0,A,0,Não,0,472,0,Privada,-3.119,-60.0217
+2785564992,Manaus,C,2,D,2,Sim,1,617,5,Pública,-3.119,-60.0217
+2428819601,Manaus,C,2,D,2,Sim,1,472,5,Pública,-3.119,-60.0217
+5153169054,São Paulo,A,0,B,1,Não,0,490,1,Privada,-23.5505,-46.6333
+6679859284,Fortaleza,Q,5,G,4,Sim,1,685,10,Pública,-3.7319,-38.5267
+9311697211,São Paulo,Q,5,G,4,Sim,1,637,10,Pública,-23.5505,-46.6333
+5047295808,Fortaleza,A,0,B,1,Não,0,518,1,Pública,-3.7319,-38.5267
+1231925209,Fortaleza,E,4,G,4,Sim,1,691,9,Pública,-3.7319,-38.5267
+5675643012,Belo Horizonte,C,2,D,2,Sim,1,460,5,Pública,-19.9167,-43.9345
+7887953812,São Paulo,Q,5,F,3,Sim,1,652,9,Privada,-23.5505,-46.6333
+8855194067,Rio de Janeiro,E,4,F,3,Sim,1,575,8,Pública,-22.9068,-43.1729
+8163048653,São Paulo,A,0,B,1,Sim,1,465,2,Pública,-23.5505,-46.6333
+6372946021,Fortaleza,B,1,B,1,Sim,1,367,3,Pública,-3.7319,-38.5267
+5628393721,Fortaleza,E,4,G,4,Sim,1,800,9,Pública,-3.7319,-38.5267
+6502969864,Rio de Janeiro,A,0,A,0,Sim,1,384,1,Pública,-22.9068,-43.1729
+7677358535,São Paulo,E,4,F,3,Sim,1,788,8,Pública,-23.5505,-46.6333
+7109499727,Manaus,C,2,F,3,Sim,1,531,6,Privada,-3.119,-60.0217
+7073375065,São Paulo,D,3,D,2,Sim,1,562,6,Pública,-23.5505,-46.6333
+6814538892,Belo Horizonte,Q,5,G,4,Sim,1,803,10,Pública,-19.9167,-43.9345
+7086177925,Rio de Janeiro,B,1,A,0,Sim,1,402,2,Pública,-22.9068,-43.1729
+8857738915,Rio de Janeiro,D,3,D,2,Sim,1,685,6,Pública,-22.9068,-43.1729
+5329463879,São Paulo,D,3,F,3,Sim,1,468,7,Pública,-23.5505,-46.6333
+2870479867,Belo Horizonte,B,1,A,0,Sim,1,699,2,Pública,-19.9167,-43.9345
+5968028581,São Paulo,B,1,B,1,Não,0,530,2,Pública,-23.5505,-46.6333
+2418975309,Fortaleza,Q,5,F,3,Sim,1,754,9,Pública,-3.7319,-38.5267
+8765634447,Rio de Janeiro,Q,5,G,4,Sim,1,600,10,Pública,-22.9068,-43.1729
+7498583708,São Paulo,C,2,D,2,Sim,1,712,5,Pública,-23.5505,-46.6333
+4672577826,Belo Horizonte,Q,5,G,4,Sim,1,648,10,Privada,-19.9167,-43.9345
+5190191444,São Paulo,A,0,A,0,Sim,1,528,1,Pública,-23.5505,-46.6333
+3135202022,Manaus,Q,5,F,3,Sim,1,897,9,Pública,-3.119,-60.0217
+5162893349,Belo Horizonte,B,1,A,0,Sim,1,507,2,Pública,-19.9167,-43.9345
+5178906017,Belo Horizonte,C,2,D,2,Sim,1,706,5,Privada,-19.9167,-43.9345
+1311051456,Belo Horizonte,D,3,F,3,Sim,1,578,7,Privada,-19.9167,-43.9345
+6099892642,Belo Horizonte,B,1,B,1,Sim,1,447,3,Pública,-19.9167,-43.9345
+6911543555,Rio de Janeiro,A,0,B,1,Sim,1,318,2,Privada,-22.9068,-43.1729
+7321922826,Manaus,A,0,A,0,Sim,1,404,1,Pública,-3.119,-60.0217
+7972613690,Rio de Janeiro,C,2,D,2,Sim,1,727,5,Pública,-22.9068,-43.1729
+3908044919,Rio de Janeiro,B,1,A,0,Não,0,510,1,Pública,-22.9068,-43.1729
+1622138165,Rio de Janeiro,Q,5,G,4,Sim,1,701,10,Pública,-22.9068,-43.1729
+3255933581,Manaus,C,2,D,2,Sim,1,763,5,Pública,-3.119,-60.0217
+8958632622,São Paulo,A,0,B,1,Sim,1,475,2,Privada,-23.5505,-46.6333
+2403342197,São Paulo,A,0,B,1,Sim,1,458,2,Pública,-23.5505,-46.6333
+1212375133,Belo Horizonte,C,2,D,2,Sim,1,558,5,Pública,-19.9167,-43.9345
+8793449163,São Paulo,Q,5,G,4,Sim,1,611,10,Pública,-23.5505,-46.6333
+7565415167,Rio de Janeiro,A,0,B,1,Sim,1,544,2,Pública,-22.9068,-43.1729
+1924365635,Rio de Janeiro,D,3,D,2,Sim,1,692,6,Pública,-22.9068,-43.1729
+6012795568,Manaus,C,2,D,2,Sim,1,559,5,Pública,-3.119,-60.0217
+2384257092,Manaus,C,2,D,2,Sim,1,674,5,Pública,-3.119,-60.0217
+2772803903,Belo Horizonte,B,1,B,1,Sim,1,635,3,Privada,-19.9167,-43.9345
+5427179732,Rio de Janeiro,Q,5,G,4,Sim,1,737,10,Pública,-22.9068,-43.1729
+1013633512,Rio de Janeiro,B,1,B,1,Sim,1,416,3,Pública,-22.9068,-43.1729
+4295435219,Fortaleza,E,4,F,3,Sim,1,641,8,Pública,-3.7319,-38.5267
+2640606518,Manaus,Q,5,F,3,Sim,1,636,9,Pública,-3.119,-60.0217
+8981300513,Belo Horizonte,C,2,D,2,Sim,1,614,5,Pública,-19.9167,-43.9345
+7533284821,Rio de Janeiro,A,0,A,0,Não,0,432,0,Pública,-22.9068,-43.1729
+4987971967,Manaus,Q,5,F,3,Sim,1,642,9,Privada,-3.119,-60.0217
+2166275895,Rio de Janeiro,Q,5,G,4,Sim,1,663,10,Pública,-22.9068,-43.1729
+2627137451,Fortaleza,Q,5,G,4,Sim,1,728,10,Privada,-3.7319,-38.5267
+4846792741,São Paulo,C,2,F,3,Sim,1,630,6,Privada,-23.5505,-46.6333
+7713438787,Fortaleza,E,4,G,4,Sim,1,628,9,Pública,-3.7319,-38.5267
+7647492315,São Paulo,C,2,D,2,Sim,1,750,5,Privada,-23.5505,-46.6333
+6189968369,Belo Horizonte,D,3,F,3,Sim,1,598,7,Pública,-19.9167,-43.9345
+5135462238,Rio de Janeiro,D,3,D,2,Sim,1,641,6,Privada,-22.9068,-43.1729
+2495828068,Manaus,E,4,F,3,Sim,1,833,8,Pública,-3.119,-60.0217
+3137068962,São Paulo,Q,5,G,4,Sim,1,762,10,Privada,-23.5505,-46.6333
+4599866367,Belo Horizonte,B,1,B,1,Sim,1,443,3,Privada,-19.9167,-43.9345
+2307249679,Belo Horizonte,D,3,D,2,Sim,1,618,6,Privada,-19.9167,-43.9345
+2906729064,Manaus,D,3,F,3,Sim,1,623,7,Pública,-3.119,-60.0217
+8247766293,Belo Horizonte,A,0,B,1,Sim,1,486,2,Pública,-19.9167,-43.9345
+8921750766,São Paulo,C,2,F,3,Sim,1,609,6,Pública,-23.5505,-46.6333
+3425876185,Belo Horizonte,A,0,B,1,Não,0,537,1,Pública,-19.9167,-43.9345
+7203624193,Rio de Janeiro,C,2,D,2,Sim,1,561,5,Pública,-22.9068,-43.1729
+1315896912,Rio de Janeiro,A,0,B,1,Não,0,594,1,Pública,-22.9068,-43.1729
+7339056920,Belo Horizonte,B,1,A,0,Sim,1,440,2,Pública,-19.9167,-43.9345
+9397084353,São Paulo,Q,5,G,4,Sim,1,662,10,Privada,-23.5505,-46.6333
+1571224579,Fortaleza,A,0,A,0,Sim,1,441,1,Pública,-3.7319,-38.5267
+7606001313,São Paulo,B,1,B,1,Não,0,355,2,Privada,-23.5505,-46.6333
+5880165233,Fortaleza,D,3,F,3,Sim,1,672,7,Pública,-3.7319,-38.5267
+2599741915,São Paulo,B,1,B,1,Não,0,370,2,Privada,-23.5505,-46.6333
+1107439247,Fortaleza,C,2,D,2,Sim,1,644,5,Privada,-3.7319,-38.5267
+4333546879,Fortaleza,C,2,D,2,Sim,1,657,5,Pública,-3.7319,-38.5267
+1983492457,Fortaleza,A,0,A,0,Não,0,441,0,Pública,-3.7319,-38.5267
+1065997560,Fortaleza,B,1,A,0,Não,0,471,1,Pública,-3.7319,-38.5267
+2223512527,Rio de Janeiro,D,3,F,3,Sim,1,643,7,Pública,-22.9068,-43.1729
+5500548455,Manaus,A,0,A,0,Não,0,381,0,Pública,-3.119,-60.0217
+2083190960,Manaus,D,3,F,3,Sim,1,652,7,Pública,-3.119,-60.0217
+2862714148,São Paulo,B,1,B,1,Não,0,556,2,Pública,-23.5505,-46.6333
+4216576783,Belo Horizonte,Q,5,G,4,Sim,1,713,10,Pública,-19.9167,-43.9345
+3874755541,Rio de Janeiro,C,2,D,2,Sim,1,512,5,Pública,-22.9068,-43.1729
+6774318485,Rio de Janeiro,C,2,F,3,Sim,1,385,6,Pública,-22.9068,-43.1729
+6759020864,Manaus,C,2,D,2,Sim,1,640,5,Pública,-3.119,-60.0217
+8298045700,Rio de Janeiro,C,2,F,3,Sim,1,588,6,Privada,-22.9068,-43.1729
+5569464350,Fortaleza,E,4,F,3,Sim,1,671,8,Pública,-3.7319,-38.5267
+1506715938,Belo Horizonte,B,1,B,1,Sim,1,391,3,Privada,-19.9167,-43.9345
+1866294727,Fortaleza,C,2,D,2,Sim,1,541,5,Pública,-3.7319,-38.5267
+3995573327,Belo Horizonte,D,3,F,3,Sim,1,618,7,Pública,-19.9167,-43.9345
+5162856722,São Paulo,E,4,G,4,Sim,1,902,9,Pública,-23.5505,-46.6333
+3469406446,Manaus,A,0,A,0,Sim,1,301,1,Pública,-3.119,-60.0217
+2252312690,Belo Horizonte,B,1,A,0,Sim,1,564,2,Pública,-19.9167,-43.9345
+8194270449,Manaus,B,1,B,1,Sim,1,271,3,Pública,-3.119,-60.0217
+4043966064,Manaus,A,0,B,1,Não,0,461,1,Pública,-3.119,-60.0217
+7272100663,Belo Horizonte,Q,5,G,4,Sim,1,669,10,Pública,-19.9167,-43.9345
+5461117938,São Paulo,C,2,D,2,Sim,1,585,5,Pública,-23.5505,-46.6333
+8417210385,Rio de Janeiro,D,3,F,3,Sim,1,710,7,Pública,-22.9068,-43.1729
+3335441963,Belo Horizonte,C,2,D,2,Sim,1,754,5,Pública,-19.9167,-43.9345
+3387316706,Fortaleza,B,1,A,0,Não,0,576,1,Pública,-3.7319,-38.5267
+8437199500,Fortaleza,C,2,F,3,Sim,1,479,6,Pública,-3.7319,-38.5267
+8914710962,Rio de Janeiro,Q,5,G,4,Sim,1,831,10,Pública,-22.9068,-43.1729
+8687424982,São Paulo,B,1,B,1,Não,0,333,2,Privada,-23.5505,-46.6333
+1688802088,Belo Horizonte,D,3,F,3,Sim,1,409,7,Pública,-19.9167,-43.9345
+4823015422,Manaus,A,0,A,0,Sim,1,398,1,Pública,-3.119,-60.0217
+7421713094,Rio de Janeiro,D,3,F,3,Sim,1,628,7,Privada,-22.9068,-43.1729
+2780040339,Rio de Janeiro,D,3,D,2,Sim,1,556,6,Pública,-22.9068,-43.1729
+1824814086,São Paulo,A,0,B,1,Sim,1,470,2,Pública,-23.5505,-46.6333
+3841872749,Rio de Janeiro,C,2,F,3,Sim,1,560,6,Pública,-22.9068,-43.1729
+6805282810,São Paulo,B,1,A,0,Não,0,402,1,Pública,-23.5505,-46.6333
+4016768457,Belo Horizonte,A,0,B,1,Sim,1,516,2,Pública,-19.9167,-43.9345
+6990566732,Rio de Janeiro,D,3,F,3,Sim,1,467,7,Pública,-22.9068,-43.1729
+9215580337,Fortaleza,Q,5,G,4,Sim,1,961,10,Pública,-3.7319,-38.5267
+9090985338,Belo Horizonte,A,0,A,0,Sim,1,436,1,Pública,-19.9167,-43.9345
+6582966749,Rio de Janeiro,B,1,A,0,Sim,1,594,2,Privada,-22.9068,-43.1729
+8131932420,Belo Horizonte,B,1,A,0,Não,0,476,1,Privada,-19.9167,-43.9345
+2104567378,Belo Horizonte,C,2,F,3,Sim,1,573,6,Pública,-19.9167,-43.9345
+7468072850,Fortaleza,D,3,D,2,Sim,1,583,6,Pública,-3.7319,-38.5267
+1395555434,Rio de Janeiro,C,2,F,3,Sim,1,599,6,Pública,-22.9068,-43.1729
+4968883958,Belo Horizonte,B,1,B,1,Não,0,348,2,Pública,-19.9167,-43.9345
+3080794875,Rio de Janeiro,A,0,B,1,Não,0,467,1,Pública,-22.9068,-43.1729
+3001214030,Fortaleza,D,3,F,3,Sim,1,711,7,Pública,-3.7319,-38.5267
+8423058603,Fortaleza,C,2,D,2,Sim,1,600,5,Privada,-3.7319,-38.5267
+8002765085,Belo Horizonte,D,3,F,3,Sim,1,629,7,Pública,-19.9167,-43.9345
+4059709047,Fortaleza,Q,5,G,4,Sim,1,718,10,Pública,-3.7319,-38.5267
+4318910837,São Paulo,A,0,A,0,Não,0,366,0,Pública,-23.5505,-46.6333
+4445804241,Rio de Janeiro,D,3,D,2,Sim,1,583,6,Pública,-22.9068,-43.1729
+2598928929,Rio de Janeiro,B,1,A,0,Sim,1,536,2,Privada,-22.9068,-43.1729
+9981139185,São Paulo,A,0,B,1,Não,0,525,1,Pública,-23.5505,-46.6333
+7200709857,Rio de Janeiro,A,0,A,0,Sim,1,483,1,Pública,-22.9068,-43.1729
+4518284762,Belo Horizonte,C,2,F,3,Sim,1,459,6,Pública,-19.9167,-43.9345
+4085682646,Belo Horizonte,A,0,B,1,Sim,1,359,2,Pública,-19.9167,-43.9345
+4185408902,Fortaleza,D,3,D,2,Sim,1,406,6,Pública,-3.7319,-38.5267
+8843766279,São Paulo,D,3,F,3,Sim,1,599,7,Pública,-23.5505,-46.6333
+9150832497,Fortaleza,A,0,A,0,Sim,1,427,1,Pública,-3.7319,-38.5267
+1130555875,São Paulo,C,2,F,3,Sim,1,602,6,Pública,-23.5505,-46.6333
+1493186935,Belo Horizonte,Q,5,F,3,Sim,1,775,9,Pública,-19.9167,-43.9345
+3723988539,Belo Horizonte,Q,5,F,3,Sim,1,838,9,Pública,-19.9167,-43.9345
+9014961953,Belo Horizonte,D,3,D,2,Sim,1,717,6,Pública,-19.9167,-43.9345
+6394414297,Fortaleza,B,1,B,1,Sim,1,483,3,Pública,-3.7319,-38.5267
+8608469631,Rio de Janeiro,D,3,D,2,Sim,1,660,6,Pública,-22.9068,-43.1729
+2489323179,Manaus,C,2,F,3,Sim,1,576,6,Privada,-3.119,-60.0217
+1204505841,Fortaleza,B,1,A,0,Sim,1,491,2,Privada,-3.7319,-38.5267
+8880399531,Manaus,Q,5,G,4,Sim,1,729,10,Privada,-3.119,-60.0217
+7707370477,São Paulo,B,1,A,0,Não,0,435,1,Pública,-23.5505,-46.6333
+1132227310,Rio de Janeiro,C,2,D,2,Sim,1,526,5,Pública,-22.9068,-43.1729
+9241624633,Belo Horizonte,D,3,F,3,Sim,1,561,7,Pública,-19.9167,-43.9345
+2404847306,São Paulo,D,3,F,3,Sim,1,554,7,Pública,-23.5505,-46.6333
+9538288977,Rio de Janeiro,A,0,A,0,Sim,1,539,1,Privada,-22.9068,-43.1729
+1514938204,Manaus,E,4,G,4,Sim,1,724,9,Pública,-3.119,-60.0217
+2068344218,Manaus,B,1,B,1,Não,0,437,2,Pública,-3.119,-60.0217
+2834628284,São Paulo,C,2,F,3,Sim,1,723,6,Pública,-23.5505,-46.6333
+4616255175,Belo Horizonte,D,3,F,3,Sim,1,567,7,Pública,-19.9167,-43.9345
+1474964710,Fortaleza,A,0,A,0,Não,0,477,0,Pública,-3.7319,-38.5267
+8176713855,Fortaleza,C,2,F,3,Sim,1,707,6,Pública,-3.7319,-38.5267
+4321315580,Fortaleza,B,1,A,0,Sim,1,470,2,Pública,-3.7319,-38.5267
+3489611984,Fortaleza,B,1,B,1,Sim,1,455,3,Pública,-3.7319,-38.5267
+1146220061,Manaus,B,1,A,0,Sim,1,385,2,Pública,-3.119,-60.0217
+1878177869,Belo Horizonte,B,1,A,0,Sim,1,373,2,Pública,-19.9167,-43.9345
+8572287631,Manaus,Q,5,F,3,Sim,1,651,9,Privada,-3.119,-60.0217
+5591892721,Fortaleza,A,0,A,0,Sim,1,472,1,Privada,-3.7319,-38.5267
+5524377657,Rio de Janeiro,B,1,B,1,Não,0,447,2,Pública,-22.9068,-43.1729
+3040507457,Belo Horizonte,D,3,D,2,Sim,1,644,6,Pública,-19.9167,-43.9345
+4583196296,Manaus,C,2,D,2,Sim,1,640,5,Pública,-3.119,-60.0217
+9689177791,São Paulo,B,1,B,1,Não,0,392,2,Pública,-23.5505,-46.6333
+5586708116,Belo Horizonte,A,0,B,1,Sim,1,510,2,Pública,-19.9167,-43.9345
+8435506722,Manaus,D,3,D,2,Sim,1,674,6,Privada,-3.119,-60.0217
+3487097585,São Paulo,C,2,D,2,Sim,1,530,5,Pública,-23.5505,-46.6333
+8253563503,São Paulo,Q,5,G,4,Sim,1,760,10,Privada,-23.5505,-46.6333
+6637815943,Manaus,E,4,F,3,Sim,1,753,8,Pública,-3.119,-60.0217
+8383122447,Fortaleza,D,3,F,3,Sim,1,519,7,Pública,-3.7319,-38.5267
+1761546036,Belo Horizonte,E,4,F,3,Sim,1,854,8,Pública,-19.9167,-43.9345
+5454657337,Rio de Janeiro,B,1,A,0,Sim,1,513,2,Privada,-22.9068,-43.1729
+8526809986,Rio de Janeiro,C,2,D,2,Sim,1,675,5,Pública,-22.9068,-43.1729
+4958789145,São Paulo,C,2,D,2,Sim,1,536,5,Pública,-23.5505,-46.6333
+2860040857,Rio de Janeiro,D,3,F,3,Sim,1,577,7,Pública,-22.9068,-43.1729
+6641067450,Fortaleza,D,3,F,3,Sim,1,557,7,Pública,-3.7319,-38.5267
+3067749079,São Paulo,B,1,A,0,Sim,1,529,2,Pública,-23.5505,-46.6333
+2911737341,Rio de Janeiro,B,1,B,1,Sim,1,328,3,Pública,-22.9068,-43.1729
+3342853740,Belo Horizonte,B,1,A,0,Não,0,555,1,Pública,-19.9167,-43.9345
+3098976998,Fortaleza,E,4,G,4,Sim,1,708,9,Pública,-3.7319,-38.5267
+8694384025,São Paulo,D,3,F,3,Sim,1,551,7,Pública,-23.5505,-46.6333
+2613644138,São Paulo,C,2,F,3,Sim,1,598,6,Pública,-23.5505,-46.6333
+6397972768,Fortaleza,C,2,D,2,Sim,1,613,5,Pública,-3.7319,-38.5267
+9623262019,Rio de Janeiro,B,1,A,0,Sim,1,515,2,Pública,-22.9068,-43.1729
+9430823024,Manaus,D,3,F,3,Sim,1,612,7,Pública,-3.119,-60.0217
+7635760626,Rio de Janeiro,B,1,A,0,Não,0,567,1,Pública,-22.9068,-43.1729
+2793039558,Manaus,A,0,A,0,Sim,1,437,1,Privada,-3.119,-60.0217
+9697183782,Manaus,Q,5,G,4,Sim,1,725,10,Pública,-3.119,-60.0217
+7312779691,São Paulo,B,1,B,1,Não,0,445,2,Pública,-23.5505,-46.6333
+1572945366,São Paulo,B,1,B,1,Sim,1,450,3,Pública,-23.5505,-46.6333
+8859607667,Manaus,D,3,F,3,Sim,1,750,7,Pública,-3.119,-60.0217
+4560086011,Belo Horizonte,C,2,D,2,Sim,1,563,5,Pública,-19.9167,-43.9345
+5599914612,São Paulo,D,3,D,2,Sim,1,514,6,Pública,-23.5505,-46.6333
+8563912364,Fortaleza,C,2,F,3,Sim,1,631,6,Pública,-3.7319,-38.5267
+8726102036,Belo Horizonte,C,2,D,2,Sim,1,628,5,Pública,-19.9167,-43.9345
+6457759821,Belo Horizonte,E,4,F,3,Sim,1,846,8,Pública,-19.9167,-43.9345
+6820828373,Manaus,A,0,B,1,Sim,1,423,2,Pública,-3.119,-60.0217
+4178430195,Fortaleza,B,1,B,1,Não,0,382,2,Pública,-3.7319,-38.5267
+4670329456,Belo Horizonte,A,0,B,1,Sim,1,587,2,Pública,-19.9167,-43.9345
+5769901287,Rio de Janeiro,D,3,F,3,Sim,1,550,7,Pública,-22.9068,-43.1729
+1859280080,Fortaleza,E,4,G,4,Sim,1,814,9,Pública,-3.7319,-38.5267
+1521886499,Belo Horizonte,C,2,F,3,Sim,1,584,6,Privada,-19.9167,-43.9345
+3187047119,Rio de Janeiro,B,1,A,0,Não,0,475,1,Pública,-22.9068,-43.1729
+6745189502,São Paulo,Q,5,G,4,Sim,1,815,10,Pública,-23.5505,-46.6333
+2778411192,Manaus,D,3,D,2,Sim,1,544,6,Pública,-3.119,-60.0217
+6480700985,Belo Horizonte,B,1,A,0,Sim,1,431,2,Pública,-19.9167,-43.9345
+5071359900,São Paulo,A,0,B,1,Sim,1,479,2,Pública,-23.5505,-46.6333
+5129471284,Fortaleza,B,1,B,1,Sim,1,505,3,Pública,-3.7319,-38.5267
+5856468720,Manaus,A,0,A,0,Sim,1,376,1,Pública,-3.119,-60.0217
+8315640602,Manaus,B,1,A,0,Sim,1,529,2,Pública,-3.119,-60.0217
+9733357314,Manaus,E,4,F,3,Sim,1,748,8,Pública,-3.119,-60.0217
+5455976861,São Paulo,B,1,B,1,Sim,1,479,3,Pública,-23.5505,-46.6333
+2177053886,Rio de Janeiro,C,2,F,3,Sim,1,719,6,Pública,-22.9068,-43.1729
+6504319623,Rio de Janeiro,D,3,D,2,Sim,1,762,6,Privada,-22.9068,-43.1729
+6931819388,Rio de Janeiro,B,1,A,0,Sim,1,494,2,Pública,-22.9068,-43.1729
+7462390055,Belo Horizonte,C,2,D,2,Sim,1,674,5,Pública,-19.9167,-43.9345
+7025722275,Fortaleza,Q,5,F,3,Sim,1,635,9,Privada,-3.7319,-38.5267
+8568198236,São Paulo,B,1,A,0,Não,0,538,1,Pública,-23.5505,-46.6333
+5289598729,Belo Horizonte,C,2,D,2,Sim,1,716,5,Pública,-19.9167,-43.9345
+1926746541,Belo Horizonte,E,4,G,4,Sim,1,714,9,Pública,-19.9167,-43.9345
+3955426610,Manaus,B,1,A,0,Sim,1,485,2,Privada,-3.119,-60.0217
+6035041013,São Paulo,Q,5,G,4,Sim,1,770,10,Pública,-23.5505,-46.6333
+1344956540,Fortaleza,D,3,F,3,Sim,1,570,7,Pública,-3.7319,-38.5267
+5547494265,São Paulo,C,2,D,2,Sim,1,559,5,Pública,-23.5505,-46.6333
+1743967268,Belo Horizonte,C,2,F,3,Sim,1,727,6,Privada,-19.9167,-43.9345
+2994009118,Rio de Janeiro,E,4,F,3,Sim,1,760,8,Pública,-22.9068,-43.1729
+7664308564,Fortaleza,E,4,F,3,Sim,1,728,8,Pública,-3.7319,-38.5267
+5594694967,Rio de Janeiro,A,0,B,1,Sim,1,371,2,Pública,-22.9068,-43.1729
+3305973403,São Paulo,D,3,D,2,Sim,1,545,6,Pública,-23.5505,-46.6333
+2085521500,São Paulo,A,0,A,0,Não,0,594,0,Pública,-23.5505,-46.6333
+9847317587,Manaus,B,1,B,1,Sim,1,600,3,Privada,-3.119,-60.0217
+5853186058,Manaus,A,0,A,0,Não,0,606,0,Pública,-3.119,-60.0217
+3041086420,Rio de Janeiro,C,2,D,2,Sim,1,658,5,Pública,-22.9068,-43.1729
+2333599141,São Paulo,D,3,D,2,Sim,1,580,6,Pública,-23.5505,-46.6333
+1024026709,Fortaleza,Q,5,F,3,Sim,1,757,9,Privada,-3.7319,-38.5267
+3504396640,Belo Horizonte,Q,5,F,3,Sim,1,778,9,Pública,-19.9167,-43.9345
+9953405614,São Paulo,D,3,F,3,Sim,1,611,7,Pública,-23.5505,-46.6333
+3723226191,Manaus,A,0,A,0,Sim,1,531,1,Privada,-3.119,-60.0217
+3208991594,Fortaleza,B,1,A,0,Não,0,399,1,Privada,-3.7319,-38.5267
+8207214443,Rio de Janeiro,B,1,B,1,Não,0,403,2,Privada,-22.9068,-43.1729
+1406670564,Manaus,D,3,F,3,Sim,1,477,7,Privada,-3.119,-60.0217
+4745339179,Belo Horizonte,C,2,D,2,Sim,1,759,5,Pública,-19.9167,-43.9345
+2247960795,Fortaleza,D,3,D,2,Sim,1,501,6,Pública,-3.7319,-38.5267
+4072864247,Manaus,E,4,F,3,Sim,1,613,8,Pública,-3.119,-60.0217
+6127880958,Belo Horizonte,D,3,D,2,Sim,1,749,6,Privada,-19.9167,-43.9345
+4960523887,Rio de Janeiro,A,0,A,0,Sim,1,302,1,Pública,-22.9068,-43.1729
+4461541644,Belo Horizonte,D,3,F,3,Sim,1,532,7,Pública,-19.9167,-43.9345
+9244321261,Rio de Janeiro,D,3,F,3,Sim,1,508,7,Pública,-22.9068,-43.1729
+4623458861,Rio de Janeiro,D,3,D,2,Sim,1,612,6,Pública,-22.9068,-43.1729
+9266562168,São Paulo,Q,5,F,3,Sim,1,717,9,Pública,-23.5505,-46.6333
+2749475863,Manaus,C,2,F,3,Sim,1,437,6,Privada,-3.119,-60.0217
+7354320927,São Paulo,E,4,G,4,Sim,1,768,9,Privada,-23.5505,-46.6333
+9939025667,Manaus,D,3,F,3,Sim,1,665,7,Pública,-3.119,-60.0217
+3009455161,Manaus,D,3,F,3,Sim,1,680,7,Pública,-3.119,-60.0217
+4807252320,Belo Horizonte,Q,5,F,3,Sim,1,882,9,Pública,-19.9167,-43.9345
+8379775994,São Paulo,A,0,B,1,Não,0,376,1,Pública,-23.5505,-46.6333
+8063137385,São Paulo,A,0,B,1,Não,0,591,1,Privada,-23.5505,-46.6333
+8266573770,Fortaleza,A,0,A,0,Não,0,383,0,Pública,-3.7319,-38.5267
+6272136622,Fortaleza,E,4,F,3,Sim,1,712,8,Pública,-3.7319,-38.5267
+4949666607,Belo Horizonte,E,4,G,4,Sim,1,727,9,Privada,-19.9167,-43.9345
+8829846972,Rio de Janeiro,A,0,A,0,Não,0,369,0,Pública,-22.9068,-43.1729
+5385268151,Belo Horizonte,A,0,B,1,Sim,1,552,2,Pública,-19.9167,-43.9345
+6924043226,Rio de Janeiro,C,2,F,3,Sim,1,652,6,Pública,-22.9068,-43.1729
+5685114325,Rio de Janeiro,D,3,F,3,Sim,1,564,7,Pública,-22.9068,-43.1729
+2405799437,Belo Horizonte,A,0,A,0,Sim,1,598,1,Pública,-19.9167,-43.9345
+8277203106,Rio de Janeiro,C,2,F,3,Sim,1,640,6,Pública,-22.9068,-43.1729
+1377755273,Manaus,Q,5,G,4,Sim,1,731,10,Pública,-3.119,-60.0217
+1842739779,Rio de Janeiro,A,0,A,0,Não,0,509,0,Privada,-22.9068,-43.1729
+2906161204,Fortaleza,D,3,F,3,Sim,1,580,7,Pública,-3.7319,-38.5267
+4696268139,Rio de Janeiro,E,4,G,4,Sim,1,748,9,Pública,-22.9068,-43.1729
+4468196948,Rio de Janeiro,C,2,F,3,Sim,1,554,6,Pública,-22.9068,-43.1729
+3530902939,Belo Horizonte,D,3,D,2,Sim,1,575,6,Pública,-19.9167,-43.9345
+3941209482,Fortaleza,A,0,B,1,Sim,1,490,2,Pública,-3.7319,-38.5267
+4322927502,São Paulo,D,3,D,2,Sim,1,596,6,Pública,-23.5505,-46.6333
+7553474291,Rio de Janeiro,C,2,D,2,Sim,1,640,5,Pública,-22.9068,-43.1729
+8935430417,Fortaleza,Q,5,F,3,Sim,1,726,9,Privada,-3.7319,-38.5267
+1749668857,São Paulo,A,0,B,1,Não,0,440,1,Pública,-23.5505,-46.6333
+5554584834,Rio de Janeiro,C,2,D,2,Sim,1,658,5,Pública,-22.9068,-43.1729
+7452752542,Belo Horizonte,A,0,A,0,Sim,1,454,1,Privada,-19.9167,-43.9345
+6140174470,Belo Horizonte,Q,5,F,3,Sim,1,718,9,Pública,-19.9167,-43.9345
+8415009154,Rio de Janeiro,C,2,F,3,Sim,1,728,6,Pública,-22.9068,-43.1729
+1464656190,São Paulo,E,4,G,4,Sim,1,786,9,Pública,-23.5505,-46.6333
+7484859702,Rio de Janeiro,D,3,F,3,Sim,1,481,7,Pública,-22.9068,-43.1729
+1894757282,Belo Horizonte,B,1,B,1,Sim,1,330,3,Pública,-19.9167,-43.9345
+7286889809,Rio de Janeiro,A,0,A,0,Não,0,449,0,Pública,-22.9068,-43.1729
+7648054513,Fortaleza,C,2,F,3,Sim,1,553,6,Pública,-3.7319,-38.5267
+3686886790,São Paulo,D,3,F,3,Sim,1,449,7,Pública,-23.5505,-46.6333
+3431750292,Rio de Janeiro,Q,5,F,3,Sim,1,786,9,Pública,-22.9068,-43.1729
+3723825637,Manaus,D,3,D,2,Sim,1,564,6,Pública,-3.119,-60.0217
+2459841418,Fortaleza,C,2,D,2,Sim,1,578,5,Pública,-3.7319,-38.5267
+6420143803,Rio de Janeiro,Q,5,F,3,Sim,1,874,9,Pública,-22.9068,-43.1729
+5158507817,Rio de Janeiro,C,2,D,2,Sim,1,557,5,Pública,-22.9068,-43.1729
+8817095430,São Paulo,Q,5,F,3,Sim,1,710,9,Privada,-23.5505,-46.6333
+8891261229,Rio de Janeiro,C,2,F,3,Sim,1,639,6,Pública,-22.9068,-43.1729
+3555369661,Fortaleza,E,4,G,4,Sim,1,694,9,Pública,-3.7319,-38.5267
+3485476434,Rio de Janeiro,Q,5,F,3,Sim,1,655,9,Pública,-22.9068,-43.1729
+2177567753,Manaus,B,1,B,1,Sim,1,495,3,Pública,-3.119,-60.0217
+8955295298,Fortaleza,B,1,B,1,Sim,1,434,3,Privada,-3.7319,-38.5267
+8621635641,São Paulo,D,3,F,3,Sim,1,601,7,Privada,-23.5505,-46.6333
+2080890527,Manaus,B,1,A,0,Sim,1,355,2,Pública,-3.119,-60.0217
+7855360794,São Paulo,C,2,D,2,Sim,1,556,5,Pública,-23.5505,-46.6333
+7025991537,Rio de Janeiro,B,1,B,1,Não,0,373,2,Pública,-22.9068,-43.1729
+6771673660,São Paulo,Q,5,G,4,Sim,1,605,10,Privada,-23.5505,-46.6333
+6862850597,Manaus,D,3,F,3,Sim,1,722,7,Pública,-3.119,-60.0217
+7522130133,São Paulo,C,2,F,3,Sim,1,434,6,Pública,-23.5505,-46.6333
+2863089814,São Paulo,E,4,F,3,Sim,1,831,8,Pública,-23.5505,-46.6333
+1229050901,Manaus,D,3,F,3,Sim,1,474,7,Pública,-3.119,-60.0217
+1754302700,Manaus,B,1,A,0,Sim,1,523,2,Pública,-3.119,-60.0217
+1054084854,Manaus,C,2,F,3,Sim,1,627,6,Pública,-3.119,-60.0217
+3111889417,São Paulo,D,3,F,3,Sim,1,635,7,Pública,-23.5505,-46.6333
+6705228728,Manaus,B,1,A,0,Sim,1,382,2,Pública,-3.119,-60.0217
+2165089725,Rio de Janeiro,B,1,A,0,Não,0,420,1,Pública,-22.9068,-43.1729
+5585104728,São Paulo,C,2,D,2,Sim,1,650,5,Pública,-23.5505,-46.6333
+8189873999,Manaus,B,1,B,1,Não,0,457,2,Pública,-3.119,-60.0217
+1448856574,São Paulo,A,0,A,0,Sim,1,512,1,Pública,-23.5505,-46.6333
+7749922997,São Paulo,C,2,F,3,Sim,1,705,6,Pública,-23.5505,-46.6333
+2039762894,Belo Horizonte,D,3,D,2,Sim,1,582,6,Pública,-19.9167,-43.9345
+6855097745,Belo Horizonte,C,2,D,2,Sim,1,628,5,Pública,-19.9167,-43.9345
+5628567769,Rio de Janeiro,D,3,F,3,Sim,1,617,7,Pública,-22.9068,-43.1729
+9528708571,São Paulo,C,2,F,3,Sim,1,618,6,Pública,-23.5505,-46.6333
+2455921309,Belo Horizonte,D,3,F,3,Sim,1,459,7,Pública,-19.9167,-43.9345
+5055409815,Manaus,Q,5,F,3,Sim,1,608,9,Privada,-3.119,-60.0217
+9112277402,Fortaleza,C,2,D,2,Sim,1,656,5,Pública,-3.7319,-38.5267
+8214149737,Belo Horizonte,D,3,F,3,Sim,1,610,7,Privada,-19.9167,-43.9345
+5330636292,Manaus,C,2,D,2,Sim,1,598,5,Pública,-3.119,-60.0217
+5687589045,Fortaleza,B,1,B,1,Não,0,437,2,Pública,-3.7319,-38.5267
+8701862822,Belo Horizonte,A,0,B,1,Sim,1,538,2,Pública,-19.9167,-43.9345
+1222408203,São Paulo,C,2,F,3,Sim,1,576,6,Pública,-23.5505,-46.6333
+2405277225,São Paulo,E,4,F,3,Sim,1,729,8,Pública,-23.5505,-46.6333
+3049891839,Rio de Janeiro,Q,5,G,4,Sim,1,779,10,Pública,-22.9068,-43.1729
+9924183816,Rio de Janeiro,C,2,F,3,Sim,1,523,6,Pública,-22.9068,-43.1729
+4648480004,São Paulo,A,0,A,0,Sim,1,486,1,Pública,-23.5505,-46.6333
+4225212894,Manaus,Q,5,F,3,Sim,1,806,9,Pública,-3.119,-60.0217
+7663600065,Rio de Janeiro,D,3,D,2,Sim,1,728,6,Pública,-22.9068,-43.1729
+3932362457,São Paulo,A,0,B,1,Sim,1,412,2,Pública,-23.5505,-46.6333
+3300066174,Manaus,D,3,D,2,Sim,1,640,6,Pública,-3.119,-60.0217
+9584344611,Rio de Janeiro,C,2,D,2,Sim,1,569,5,Pública,-22.9068,-43.1729
+6061846000,Rio de Janeiro,A,0,A,0,Sim,1,420,1,Pública,-22.9068,-43.1729
+6869790844,Fortaleza,B,1,B,1,Sim,1,606,3,Pública,-3.7319,-38.5267
+2899768841,Manaus,A,0,B,1,Sim,1,493,2,Pública,-3.119,-60.0217
+8069157642,Manaus,C,2,F,3,Sim,1,522,6,Privada,-3.119,-60.0217
+6600211645,Manaus,Q,5,F,3,Sim,1,772,9,Privada,-3.119,-60.0217
+3646965662,Manaus,Q,5,G,4,Sim,1,739,10,Pública,-3.119,-60.0217
+5361174933,Rio de Janeiro,D,3,D,2,Sim,1,610,6,Pública,-22.9068,-43.1729
+5663657056,Belo Horizonte,Q,5,F,3,Sim,1,531,9,Pública,-19.9167,-43.9345
+6229835125,Fortaleza,E,4,F,3,Sim,1,646,8,Pública,-3.7319,-38.5267
+1911225693,São Paulo,B,1,B,1,Sim,1,366,3,Pública,-23.5505,-46.6333
+1913209640,Rio de Janeiro,D,3,F,3,Sim,1,691,7,Pública,-22.9068,-43.1729
+6961356518,Fortaleza,B,1,B,1,Não,0,427,2,Privada,-3.7319,-38.5267
+6984759862,Belo Horizonte,C,2,F,3,Sim,1,650,6,Pública,-19.9167,-43.9345
+5698538721,Rio de Janeiro,A,0,A,0,Sim,1,584,1,Pública,-22.9068,-43.1729
+3812796862,Belo Horizonte,D,3,D,2,Sim,1,629,6,Pública,-19.9167,-43.9345
+2075947173,Rio de Janeiro,A,0,B,1,Sim,1,490,2,Pública,-22.9068,-43.1729
+2547956926,Fortaleza,E,4,F,3,Sim,1,705,8,Pública,-3.7319,-38.5267
+9041953364,Fortaleza,C,2,F,3,Sim,1,761,6,Pública,-3.7319,-38.5267
+2170692707,Manaus,E,4,F,3,Sim,1,621,8,Pública,-3.119,-60.0217
+6687643028,Manaus,C,2,D,2,Sim,1,514,5,Pública,-3.119,-60.0217
+5936772428,Belo Horizonte,E,4,G,4,Sim,1,765,9,Privada,-19.9167,-43.9345
+9802471123,Belo Horizonte,C,2,F,3,Sim,1,660,6,Pública,-19.9167,-43.9345
+3256398740,Rio de Janeiro,A,0,A,0,Sim,1,451,1,Pública,-22.9068,-43.1729
+8228277130,Fortaleza,B,1,A,0,Não,0,571,1,Pública,-3.7319,-38.5267
+2765922902,Fortaleza,D,3,F,3,Sim,1,641,7,Privada,-3.7319,-38.5267
+8641194291,Manaus,C,2,F,3,Sim,1,586,6,Pública,-3.119,-60.0217
+3352055738,São Paulo,D,3,F,3,Sim,1,653,7,Pública,-23.5505,-46.6333
+2481287720,São Paulo,D,3,D,2,Sim,1,547,6,Privada,-23.5505,-46.6333
+6224787202,Fortaleza,A,0,A,0,Não,0,439,0,Privada,-3.7319,-38.5267
+6973766302,Fortaleza,B,1,B,1,Sim,1,358,3,Pública,-3.7319,-38.5267
+7178005039,Rio de Janeiro,C,2,F,3,Sim,1,457,6,Privada,-22.9068,-43.1729
+2937734631,Belo Horizonte,C,2,F,3,Sim,1,802,6,Pública,-19.9167,-43.9345
+4032772091,Belo Horizonte,Q,5,F,3,Sim,1,788,9,Pública,-19.9167,-43.9345
+1581446643,Rio de Janeiro,Q,5,G,4,Sim,1,811,10,Pública,-22.9068,-43.1729
+5709760547,Belo Horizonte,D,3,D,2,Sim,1,626,6,Pública,-19.9167,-43.9345
+4170510053,São Paulo,C,2,D,2,Sim,1,531,5,Pública,-23.5505,-46.6333
+8395545310,Manaus,A,0,B,1,Não,0,365,1,Pública,-3.119,-60.0217
+3438848840,São Paulo,E,4,F,3,Sim,1,863,8,Pública,-23.5505,-46.6333
+6171454417,Manaus,A,0,A,0,Sim,1,387,1,Pública,-3.119,-60.0217
+1204797558,Manaus,D,3,F,3,Sim,1,580,7,Pública,-3.119,-60.0217
+6357304558,Rio de Janeiro,A,0,A,0,Não,0,317,0,Pública,-22.9068,-43.1729
+3813309663,Belo Horizonte,C,2,F,3,Sim,1,670,6,Pública,-19.9167,-43.9345
+9898345652,Manaus,E,4,G,4,Sim,1,734,9,Pública,-3.119,-60.0217
+8128843905,Rio de Janeiro,B,1,A,0,Não,0,394,1,Pública,-22.9068,-43.1729
+7533808366,Manaus,B,1,A,0,Não,0,541,1,Pública,-3.119,-60.0217
+8523135130,São Paulo,Q,5,F,3,Sim,1,672,9,Privada,-23.5505,-46.6333
+4101634593,Fortaleza,B,1,B,1,Sim,1,603,3,Pública,-3.7319,-38.5267
+6515321563,Belo Horizonte,D,3,D,2,Sim,1,607,6,Pública,-19.9167,-43.9345
+5900064273,Fortaleza,C,2,F,3,Sim,1,519,6,Pública,-3.7319,-38.5267
+7041834047,Fortaleza,Q,5,F,3,Sim,1,705,9,Pública,-3.7319,-38.5267
+5779000912,Rio de Janeiro,C,2,F,3,Sim,1,584,6,Pública,-22.9068,-43.1729
+8891099851,Fortaleza,A,0,B,1,Sim,1,393,2,Privada,-3.7319,-38.5267
+4485164226,Belo Horizonte,A,0,A,0,Sim,1,469,1,Pública,-19.9167,-43.9345
+6231599959,Rio de Janeiro,Q,5,G,4,Sim,1,676,10,Pública,-22.9068,-43.1729
+4965010850,Rio de Janeiro,Q,5,G,4,Sim,1,642,10,Pública,-22.9068,-43.1729
+7714534381,Manaus,D,3,D,2,Sim,1,500,6,Pública,-3.119,-60.0217
+9711417438,São Paulo,D,3,F,3,Sim,1,605,7,Pública,-23.5505,-46.6333
+4407252707,São Paulo,B,1,A,0,Não,0,427,1,Pública,-23.5505,-46.6333
+1647410460,Rio de Janeiro,D,3,F,3,Sim,1,695,7,Pública,-22.9068,-43.1729
+2861248223,Belo Horizonte,C,2,D,2,Sim,1,631,5,Pública,-19.9167,-43.9345
+3625537210,Belo Horizonte,A,0,A,0,Não,0,585,0,Pública,-19.9167,-43.9345
+6147111857,Fortaleza,B,1,B,1,Sim,1,450,3,Privada,-3.7319,-38.5267
+3330884116,Rio de Janeiro,A,0,B,1,Não,0,587,1,Pública,-22.9068,-43.1729
+7142311226,São Paulo,C,2,D,2,Sim,1,441,5,Pública,-23.5505,-46.6333
+1835226572,Manaus,A,0,B,1,Sim,1,406,2,Pública,-3.119,-60.0217
+7694666072,Fortaleza,C,2,D,2,Sim,1,530,5,Pública,-3.7319,-38.5267
+2390121061,Manaus,D,3,D,2,Sim,1,403,6,Privada,-3.119,-60.0217
+5726979414,Fortaleza,D,3,D,2,Sim,1,587,6,Pública,-3.7319,-38.5267
+9424283342,Manaus,E,4,F,3,Sim,1,719,8,Pública,-3.119,-60.0217
+7932056287,Belo Horizonte,C,2,F,3,Sim,1,518,6,Privada,-19.9167,-43.9345
+8578743481,Belo Horizonte,E,4,G,4,Sim,1,743,9,Pública,-19.9167,-43.9345
+6808837782,Rio de Janeiro,D,3,D,2,Sim,1,518,6,Privada,-22.9068,-43.1729
+9416931994,Belo Horizonte,C,2,F,3,Sim,1,761,6,Pública,-19.9167,-43.9345
+3455173902,Fortaleza,D,3,F,3,Sim,1,627,7,Pública,-3.7319,-38.5267
+7603966219,Manaus,E,4,F,3,Sim,1,846,8,Pública,-3.119,-60.0217
+3265657602,São Paulo,E,4,G,4,Sim,1,625,9,Pública,-23.5505,-46.6333
+5122496119,Fortaleza,A,0,A,0,Sim,1,360,1,Privada,-3.7319,-38.5267
+4134945244,Manaus,C,2,D,2,Sim,1,636,5,Pública,-3.119,-60.0217
+1735687328,Fortaleza,C,2,D,2,Sim,1,511,5,Pública,-3.7319,-38.5267
+3676870592,Rio de Janeiro,E,4,F,3,Sim,1,748,8,Pública,-22.9068,-43.1729
+4413336526,Rio de Janeiro,B,1,B,1,Sim,1,521,3,Pública,-22.9068,-43.1729
+2335074078,Belo Horizonte,E,4,G,4,Sim,1,682,9,Pública,-19.9167,-43.9345
+7386682479,São Paulo,D,3,F,3,Sim,1,643,7,Privada,-23.5505,-46.6333
+4753792891,Belo Horizonte,D,3,F,3,Sim,1,479,7,Pública,-19.9167,-43.9345
+4863008792,Manaus,E,4,G,4,Sim,1,647,9,Pública,-3.119,-60.0217
+6694457011,Rio de Janeiro,Q,5,G,4,Sim,1,769,10,Pública,-22.9068,-43.1729
+7441687522,Rio de Janeiro,C,2,F,3,Sim,1,614,6,Pública,-22.9068,-43.1729
+8351299204,Fortaleza,A,0,A,0,Não,0,513,0,Pública,-3.7319,-38.5267
+4785905325,Belo Horizonte,A,0,B,1,Sim,1,451,2,Pública,-19.9167,-43.9345
+5573812139,Belo Horizonte,B,1,B,1,Sim,1,417,3,Privada,-19.9167,-43.9345
+4245628517,Belo Horizonte,D,3,D,2,Sim,1,544,6,Pública,-19.9167,-43.9345
+1812963719,Belo Horizonte,A,0,A,0,Sim,1,451,1,Pública,-19.9167,-43.9345
+4836001577,Manaus,A,0,A,0,Não,0,393,0,Pública,-3.119,-60.0217
+1118668903,Belo Horizonte,C,2,F,3,Sim,1,537,6,Privada,-19.9167,-43.9345
+3161530112,Fortaleza,E,4,F,3,Sim,1,759,8,Pública,-3.7319,-38.5267
+4092712159,São Paulo,Q,5,G,4,Sim,1,704,10,Pública,-23.5505,-46.6333
+9990483765,São Paulo,A,0,B,1,Sim,1,472,2,Pública,-23.5505,-46.6333
+6821980054,Fortaleza,E,4,F,3,Sim,1,695,8,Pública,-3.7319,-38.5267
+5768602210,Rio de Janeiro,D,3,F,3,Sim,1,607,7,Pública,-22.9068,-43.1729
+3071254841,São Paulo,B,1,A,0,Sim,1,481,2,Pública,-23.5505,-46.6333
+3743364216,Manaus,Q,5,F,3,Sim,1,627,9,Pública,-3.119,-60.0217
+3500192253,Fortaleza,Q,5,F,3,Sim,1,777,9,Pública,-3.7319,-38.5267
+5778385238,Belo Horizonte,D,3,D,2,Sim,1,670,6,Privada,-19.9167,-43.9345
+1181943134,São Paulo,C,2,D,2,Sim,1,679,5,Privada,-23.5505,-46.6333
+3350403843,Manaus,D,3,D,2,Sim,1,543,6,Pública,-3.119,-60.0217
+4916116555,Fortaleza,D,3,F,3,Sim,1,524,7,Pública,-3.7319,-38.5267
+2749490174,Rio de Janeiro,B,1,B,1,Não,0,498,2,Pública,-22.9068,-43.1729
+2184249768,Fortaleza,B,1,B,1,Não,0,365,2,Pública,-3.7319,-38.5267
+8615615246,Manaus,B,1,A,0,Não,0,436,1,Pública,-3.119,-60.0217
+1777659223,Fortaleza,B,1,A,0,Não,0,533,1,Pública,-3.7319,-38.5267
+8309443470,Belo Horizonte,B,1,A,0,Sim,1,372,2,Pública,-19.9167,-43.9345
+7856684421,Manaus,A,0,B,1,Sim,1,359,2,Privada,-3.119,-60.0217
+1921443244,Belo Horizonte,B,1,A,0,Sim,1,427,2,Pública,-19.9167,-43.9345
+8834891859,Manaus,D,3,F,3,Sim,1,659,7,Pública,-3.119,-60.0217
+1137716080,Manaus,C,2,F,3,Sim,1,556,6,Pública,-3.119,-60.0217
+3498774447,São Paulo,B,1,A,0,Não,0,498,1,Pública,-23.5505,-46.6333
+9776321961,Belo Horizonte,C,2,D,2,Sim,1,742,5,Pública,-19.9167,-43.9345
+9017788622,Fortaleza,A,0,A,0,Não,0,600,0,Pública,-3.7319,-38.5267
+5411678881,Manaus,D,3,F,3,Sim,1,654,7,Pública,-3.119,-60.0217
+9608324588,Rio de Janeiro,A,0,B,1,Sim,1,412,2,Pública,-22.9068,-43.1729
+7487612897,Manaus,A,0,B,1,Não,0,515,1,Pública,-3.119,-60.0217
+4970998871,Rio de Janeiro,C,2,F,3,Sim,1,596,6,Pública,-22.9068,-43.1729
+7842337975,Belo Horizonte,C,2,F,3,Sim,1,598,6,Privada,-19.9167,-43.9345
+9194637497,Fortaleza,A,0,B,1,Não,0,480,1,Privada,-3.7319,-38.5267
+2663584370,Manaus,C,2,D,2,Sim,1,504,5,Privada,-3.119,-60.0217
+3691986594,Manaus,Q,5,F,3,Sim,1,594,9,Pública,-3.119,-60.0217
+3165422972,Belo Horizonte,B,1,B,1,Sim,1,406,3,Pública,-19.9167,-43.9345
+9531896973,Manaus,Q,5,F,3,Sim,1,679,9,Privada,-3.119,-60.0217
+2482640002,Belo Horizonte,E,4,F,3,Sim,1,713,8,Pública,-19.9167,-43.9345
+6610995390,Fortaleza,A,0,A,0,Sim,1,461,1,Pública,-3.7319,-38.5267
+1367170899,Fortaleza,D,3,D,2,Sim,1,715,6,Pública,-3.7319,-38.5267
+5433331205,Rio de Janeiro,A,0,A,0,Sim,1,342,1,Pública,-22.9068,-43.1729
+3990287631,São Paulo,D,3,D,2,Sim,1,604,6,Privada,-23.5505,-46.6333
+2884469403,Belo Horizonte,B,1,B,1,Sim,1,340,3,Pública,-19.9167,-43.9345
+2856919393,Fortaleza,B,1,A,0,Sim,1,399,2,Pública,-3.7319,-38.5267
+7154709281,Rio de Janeiro,E,4,F,3,Sim,1,814,8,Pública,-22.9068,-43.1729
+7372359002,Fortaleza,C,2,F,3,Sim,1,685,6,Pública,-3.7319,-38.5267
+6203225381,Belo Horizonte,A,0,B,1,Sim,1,356,2,Privada,-19.9167,-43.9345
+3332675337,Rio de Janeiro,C,2,F,3,Sim,1,580,6,Pública,-22.9068,-43.1729
+6698649815,Belo Horizonte,Q,5,G,4,Sim,1,819,10,Pública,-19.9167,-43.9345
+4871790973,Fortaleza,D,3,F,3,Sim,1,589,7,Privada,-3.7319,-38.5267
+5109804557,Manaus,A,0,A,0,Não,0,586,0,Pública,-3.119,-60.0217
+5563081421,Rio de Janeiro,D,3,D,2,Sim,1,643,6,Pública,-22.9068,-43.1729
+5693733908,Rio de Janeiro,D,3,D,2,Sim,1,762,6,Pública,-22.9068,-43.1729
+8318800323,São Paulo,E,4,G,4,Sim,1,802,9,Pública,-23.5505,-46.6333
+2313227004,Belo Horizonte,A,0,A,0,Não,0,551,0,Pública,-19.9167,-43.9345
+5836631688,Manaus,D,3,F,3,Sim,1,675,7,Pública,-3.119,-60.0217
+2204568617,São Paulo,Q,5,G,4,Sim,1,796,10,Pública,-23.5505,-46.6333
+2336788166,Manaus,B,1,A,0,Sim,1,310,2,Pública,-3.119,-60.0217
+4837682140,Fortaleza,C,2,D,2,Sim,1,660,5,Privada,-3.7319,-38.5267
+8872055754,Manaus,Q,5,F,3,Sim,1,764,9,Pública,-3.119,-60.0217
+8834146151,São Paulo,A,0,A,0,Sim,1,576,1,Pública,-23.5505,-46.6333
+7215082049,São Paulo,D,3,F,3,Sim,1,423,7,Pública,-23.5505,-46.6333
+1087363230,Manaus,E,4,G,4,Sim,1,761,9,Pública,-3.119,-60.0217
+2744084396,Manaus,Q,5,F,3,Sim,1,665,9,Pública,-3.119,-60.0217
+8784209383,Belo Horizonte,Q,5,G,4,Sim,1,828,10,Privada,-19.9167,-43.9345
+1770142486,Rio de Janeiro,A,0,A,0,Sim,1,602,1,Privada,-22.9068,-43.1729
+1359954495,Rio de Janeiro,E,4,F,3,Sim,1,897,8,Pública,-22.9068,-43.1729
+4151167937,Rio de Janeiro,D,3,D,2,Sim,1,641,6,Privada,-22.9068,-43.1729
+3356732745,Rio de Janeiro,A,0,B,1,Sim,1,410,2,Pública,-22.9068,-43.1729
+7723774443,São Paulo,A,0,A,0,Sim,1,563,1,Pública,-23.5505,-46.6333
+6085799723,São Paulo,C,2,D,2,Sim,1,644,5,Pública,-23.5505,-46.6333
+5601792804,Rio de Janeiro,A,0,A,0,Não,0,448,0,Privada,-22.9068,-43.1729
+4775243225,Rio de Janeiro,C,2,D,2,Sim,1,453,5,Pública,-22.9068,-43.1729
+4310983433,Manaus,B,1,A,0,Sim,1,440,2,Pública,-3.119,-60.0217
+5758418837,Manaus,B,1,A,0,Sim,1,461,2,Pública,-3.119,-60.0217
+2439025242,Manaus,D,3,D,2,Sim,1,609,6,Pública,-3.119,-60.0217
+8506511145,Rio de Janeiro,B,1,A,0,Não,0,418,1,Pública,-22.9068,-43.1729
+6104116660,Manaus,E,4,G,4,Sim,1,630,9,Privada,-3.119,-60.0217
+9871645201,Belo Horizonte,D,3,F,3,Sim,1,571,7,Privada,-19.9167,-43.9345
+7208893579,Manaus,C,2,F,3,Sim,1,521,6,Pública,-3.119,-60.0217
+5293548446,Belo Horizonte,B,1,B,1,Não,0,396,2,Privada,-19.9167,-43.9345
+6120063297,São Paulo,A,0,B,1,Sim,1,364,2,Pública,-23.5505,-46.6333
+5697512525,Fortaleza,C,2,F,3,Sim,1,534,6,Privada,-3.7319,-38.5267
+3841398193,Fortaleza,A,0,A,0,Sim,1,475,1,Pública,-3.7319,-38.5267
+2736584368,São Paulo,C,2,F,3,Sim,1,724,6,Pública,-23.5505,-46.6333
+9289221532,Rio de Janeiro,A,0,B,1,Não,0,389,1,Pública,-22.9068,-43.1729
+6671289254,Rio de Janeiro,C,2,F,3,Sim,1,598,6,Privada,-22.9068,-43.1729
+3360813278,Fortaleza,B,1,A,0,Não,0,667,1,Pública,-3.7319,-38.5267
+9477414427,Fortaleza,C,2,D,2,Sim,1,561,5,Pública,-3.7319,-38.5267
+3397779400,Fortaleza,Q,5,G,4,Sim,1,604,10,Pública,-3.7319,-38.5267
+9947351883,Belo Horizonte,B,1,A,0,Não,0,458,1,Pública,-19.9167,-43.9345
+4714304080,São Paulo,B,1,A,0,Sim,1,471,2,Pública,-23.5505,-46.6333
+7309368952,Rio de Janeiro,A,0,B,1,Não,0,477,1,Pública,-22.9068,-43.1729
+4024321627,Rio de Janeiro,C,2,F,3,Sim,1,656,6,Privada,-22.9068,-43.1729
+1811378847,Rio de Janeiro,D,3,D,2,Sim,1,743,6,Pública,-22.9068,-43.1729
+4169305037,Belo Horizonte,D,3,D,2,Sim,1,720,6,Pública,-19.9167,-43.9345
+6284161286,Manaus,C,2,D,2,Sim,1,658,5,Pública,-3.119,-60.0217
+9455342843,Fortaleza,B,1,A,0,Sim,1,455,2,Privada,-3.7319,-38.5267
+9468921421,Belo Horizonte,A,0,B,1,Não,0,425,1,Privada,-19.9167,-43.9345
+9836566537,São Paulo,D,3,F,3,Sim,1,491,7,Pública,-23.5505,-46.6333
+7406430544,Fortaleza,C,2,F,3,Sim,1,660,6,Pública,-3.7319,-38.5267
+4804256698,Manaus,A,0,B,1,Não,0,397,1,Pública,-3.119,-60.0217
+4207144843,Manaus,D,3,D,2,Sim,1,500,6,Pública,-3.119,-60.0217
+7244594502,São Paulo,B,1,B,1,Sim,1,404,3,Privada,-23.5505,-46.6333
+1517040898,Rio de Janeiro,D,3,F,3,Sim,1,617,7,Pública,-22.9068,-43.1729
+6248087644,Manaus,D,3,D,2,Sim,1,683,6,Pública,-3.119,-60.0217
+8065639727,Manaus,C,2,D,2,Sim,1,418,5,Pública,-3.119,-60.0217
+8192699440,Belo Horizonte,D,3,F,3,Sim,1,598,7,Privada,-19.9167,-43.9345
+6161689903,Belo Horizonte,A,0,B,1,Não,0,528,1,Pública,-19.9167,-43.9345
+9058870970,São Paulo,B,1,B,1,Não,0,424,2,Pública,-23.5505,-46.6333
+4198207844,Belo Horizonte,C,2,D,2,Sim,1,597,5,Pública,-19.9167,-43.9345
+5847067993,São Paulo,A,0,B,1,Sim,1,473,2,Privada,-23.5505,-46.6333
+9337474378,Rio de Janeiro,D,3,D,2,Sim,1,588,6,Pública,-22.9068,-43.1729
+1170964123,Rio de Janeiro,B,1,A,0,Não,0,469,1,Pública,-22.9068,-43.1729
+7324825569,São Paulo,D,3,F,3,Sim,1,532,7,Pública,-23.5505,-46.6333
+7333907606,Belo Horizonte,B,1,A,0,Sim,1,400,2,Pública,-19.9167,-43.9345
+3122892206,Rio de Janeiro,C,2,F,3,Sim,1,578,6,Pública,-22.9068,-43.1729
+9953588689,Belo Horizonte,A,0,A,0,Não,0,566,0,Pública,-19.9167,-43.9345
+5098059053,Rio de Janeiro,A,0,B,1,Não,0,347,1,Pública,-22.9068,-43.1729
+5878859433,São Paulo,A,0,B,1,Sim,1,426,2,Pública,-23.5505,-46.6333
+9937267516,Manaus,C,2,D,2,Sim,1,763,5,Pública,-3.119,-60.0217
+9928301009,Rio de Janeiro,B,1,B,1,Sim,1,502,3,Privada,-22.9068,-43.1729
+5921427497,Rio de Janeiro,A,0,B,1,Não,0,314,1,Pública,-22.9068,-43.1729
+3068809814,São Paulo,B,1,A,0,Sim,1,523,2,Privada,-23.5505,-46.6333
+8992376350,Manaus,A,0,A,0,Sim,1,474,1,Pública,-3.119,-60.0217
+4497009155,Manaus,C,2,D,2,Sim,1,546,5,Pública,-3.119,-60.0217
+6747130060,Rio de Janeiro,D,3,D,2,Sim,1,723,6,Pública,-22.9068,-43.1729
+6501973041,Fortaleza,A,0,A,0,Não,0,304,0,Pública,-3.7319,-38.5267
+3978241338,São Paulo,E,4,F,3,Sim,1,752,8,Pública,-23.5505,-46.6333
+9494018161,Manaus,Q,5,G,4,Sim,1,654,10,Pública,-3.119,-60.0217
+1546337529,Rio de Janeiro,C,2,D,2,Sim,1,583,5,Pública,-22.9068,-43.1729
+6637168015,Fortaleza,D,3,F,3,Sim,1,662,7,Privada,-3.7319,-38.5267
+6080038066,Fortaleza,B,1,A,0,Não,0,393,1,Pública,-3.7319,-38.5267
+6099496674,Belo Horizonte,A,0,B,1,Não,0,486,1,Privada,-19.9167,-43.9345
+3220286678,Belo Horizonte,D,3,D,2,Sim,1,740,6,Pública,-19.9167,-43.9345
+1120695810,Fortaleza,E,4,G,4,Sim,1,621,9,Pública,-3.7319,-38.5267
+5987160095,Belo Horizonte,E,4,F,3,Sim,1,747,8,Pública,-19.9167,-43.9345
+3580598582,Manaus,D,3,D,2,Sim,1,590,6,Pública,-3.119,-60.0217
+7546758461,Fortaleza,B,1,A,0,Não,0,568,1,Pública,-3.7319,-38.5267
+3149301468,Manaus,B,1,B,1,Sim,1,463,3,Pública,-3.119,-60.0217
+4360561237,Manaus,A,0,B,1,Não,0,515,1,Pública,-3.119,-60.0217
+8106387611,Fortaleza,B,1,A,0,Sim,1,676,2,Pública,-3.7319,-38.5267
+1057741733,Manaus,D,3,F,3,Sim,1,482,7,Pública,-3.119,-60.0217
+9431513279,Fortaleza,D,3,F,3,Sim,1,579,7,Privada,-3.7319,-38.5267
+4094014167,Rio de Janeiro,B,1,A,0,Sim,1,464,2,Privada,-22.9068,-43.1729
+7795501146,Fortaleza,Q,5,F,3,Sim,1,829,9,Pública,-3.7319,-38.5267
+4257339813,Manaus,D,3,D,2,Sim,1,659,6,Pública,-3.119,-60.0217
+5500314250,Manaus,E,4,G,4,Sim,1,794,9,Pública,-3.119,-60.0217
+1265692779,Rio de Janeiro,B,1,A,0,Sim,1,486,2,Pública,-22.9068,-43.1729
+9505418533,Rio de Janeiro,C,2,D,2,Sim,1,704,5,Privada,-22.9068,-43.1729
+2228049507,São Paulo,C,2,F,3,Sim,1,696,6,Pública,-23.5505,-46.6333
+6320299716,Fortaleza,B,1,A,0,Não,0,443,1,Pública,-3.7319,-38.5267
+4653762127,Rio de Janeiro,Q,5,F,3,Sim,1,716,9,Pública,-22.9068,-43.1729
+5445213287,Manaus,B,1,A,0,Não,0,400,1,Pública,-3.119,-60.0217
+1115899857,Belo Horizonte,C,2,F,3,Sim,1,627,6,Pública,-19.9167,-43.9345
+7870600405,Rio de Janeiro,D,3,D,2,Sim,1,496,6,Privada,-22.9068,-43.1729
+2110275887,São Paulo,B,1,A,0,Não,0,474,1,Pública,-23.5505,-46.6333
+1441559420,São Paulo,C,2,D,2,Sim,1,707,5,Pública,-23.5505,-46.6333
+3375905009,Manaus,B,1,B,1,Não,0,257,2,Privada,-3.119,-60.0217
+7386361750,Belo Horizonte,Q,5,F,3,Sim,1,725,9,Pública,-19.9167,-43.9345
+3150475640,Rio de Janeiro,A,0,B,1,Sim,1,469,2,Pública,-22.9068,-43.1729
+3464119574,Manaus,D,3,D,2,Sim,1,627,6,Pública,-3.119,-60.0217
+7764447333,Fortaleza,B,1,B,1,Não,0,390,2,Pública,-3.7319,-38.5267
+8118448918,Fortaleza,D,3,D,2,Sim,1,505,6,Privada,-3.7319,-38.5267
+7094531458,São Paulo,D,3,D,2,Sim,1,544,6,Pública,-23.5505,-46.6333
+2756674874,Rio de Janeiro,A,0,B,1,Sim,1,458,2,Privada,-22.9068,-43.1729
+7987283096,Rio de Janeiro,A,0,A,0,Sim,1,494,1,Pública,-22.9068,-43.1729
+8215018862,Fortaleza,A,0,B,1,Não,0,498,1,Privada,-3.7319,-38.5267
+9677167381,São Paulo,A,0,A,0,Sim,1,457,1,Pública,-23.5505,-46.6333
+5922983801,São Paulo,D,3,D,2,Sim,1,706,6,Privada,-23.5505,-46.6333
+4780822202,Rio de Janeiro,E,4,G,4,Sim,1,657,9,Pública,-22.9068,-43.1729
+7903406542,São Paulo,B,1,A,0,Não,0,414,1,Privada,-23.5505,-46.6333
+1518567266,Manaus,A,0,A,0,Não,0,581,0,Pública,-3.119,-60.0217
+8428602457,São Paulo,E,4,F,3,Sim,1,620,8,Pública,-23.5505,-46.6333
+1085383568,Rio de Janeiro,B,1,A,0,Sim,1,478,2,Privada,-22.9068,-43.1729
+5185914687,Belo Horizonte,C,2,F,3,Sim,1,717,6,Pública,-19.9167,-43.9345
+4157298415,São Paulo,D,3,F,3,Sim,1,583,7,Privada,-23.5505,-46.6333
+2242880753,Rio de Janeiro,D,3,D,2,Sim,1,635,6,Pública,-22.9068,-43.1729
+4562446203,Fortaleza,C,2,F,3,Sim,1,396,6,Pública,-3.7319,-38.5267
+5430407489,São Paulo,A,0,B,1,Não,0,421,1,Pública,-23.5505,-46.6333
+3213990830,São Paulo,D,3,D,2,Sim,1,720,6,Pública,-23.5505,-46.6333
+2202537347,Rio de Janeiro,C,2,D,2,Sim,1,518,5,Pública,-22.9068,-43.1729
+3006497607,São Paulo,D,3,F,3,Sim,1,572,7,Pública,-23.5505,-46.6333
+7602901273,Belo Horizonte,Q,5,G,4,Sim,1,755,10,Pública,-19.9167,-43.9345
+7830731983,Manaus,C,2,F,3,Sim,1,508,6,Pública,-3.119,-60.0217
+6023050824,Rio de Janeiro,D,3,D,2,Sim,1,687,6,Pública,-22.9068,-43.1729
+8991768297,Belo Horizonte,A,0,A,0,Sim,1,559,1,Pública,-19.9167,-43.9345
+2428392257,Belo Horizonte,B,1,A,0,Não,0,542,1,Pública,-19.9167,-43.9345
+1732005039,Fortaleza,E,4,G,4,Sim,1,692,9,Pública,-3.7319,-38.5267
+5275921974,São Paulo,D,3,D,2,Sim,1,580,6,Pública,-23.5505,-46.6333
+2491070237,Belo Horizonte,D,3,F,3,Sim,1,739,7,Privada,-19.9167,-43.9345
+4725553939,Belo Horizonte,C,2,F,3,Sim,1,588,6,Privada,-19.9167,-43.9345
+5719108066,São Paulo,A,0,A,0,Sim,1,479,1,Pública,-23.5505,-46.6333
+1954372695,Belo Horizonte,D,3,D,2,Sim,1,553,6,Pública,-19.9167,-43.9345
+8055416459,São Paulo,D,3,D,2,Sim,1,540,6,Privada,-23.5505,-46.6333
+9788705179,Fortaleza,E,4,G,4,Sim,1,657,9,Pública,-3.7319,-38.5267
+7722250754,São Paulo,Q,5,F,3,Sim,1,692,9,Pública,-23.5505,-46.6333
+7536148666,Manaus,C,2,F,3,Sim,1,557,6,Pública,-3.119,-60.0217
+1007408040,São Paulo,D,3,F,3,Sim,1,527,7,Pública,-23.5505,-46.6333
+6797571765,Manaus,C,2,D,2,Sim,1,704,5,Pública,-3.119,-60.0217
+8892590778,São Paulo,Q,5,G,4,Sim,1,624,10,Pública,-23.5505,-46.6333
+8200070220,Belo Horizonte,Q,5,G,4,Sim,1,733,10,Privada,-19.9167,-43.9345
+7356478872,Fortaleza,B,1,A,0,Sim,1,508,2,Privada,-3.7319,-38.5267
+1410322328,Belo Horizonte,B,1,B,1,Não,0,463,2,Pública,-19.9167,-43.9345
+9850987738,Fortaleza,C,2,F,3,Sim,1,556,6,Pública,-3.7319,-38.5267
+4527350027,Rio de Janeiro,D,3,D,2,Sim,1,441,6,Privada,-22.9068,-43.1729
+1994358224,São Paulo,A,0,B,1,Não,0,482,1,Pública,-23.5505,-46.6333
+9889327101,São Paulo,B,1,B,1,Sim,1,524,3,Pública,-23.5505,-46.6333
+9644234165,São Paulo,E,4,G,4,Sim,1,679,9,Pública,-23.5505,-46.6333
+7586914880,São Paulo,C,2,F,3,Sim,1,504,6,Privada,-23.5505,-46.6333
+1667442778,Manaus,D,3,F,3,Sim,1,529,7,Pública,-3.119,-60.0217
+9097762806,Rio de Janeiro,A,0,A,0,Sim,1,444,1,Privada,-22.9068,-43.1729
+3808005167,São Paulo,C,2,D,2,Sim,1,751,5,Privada,-23.5505,-46.6333
+5637839127,Fortaleza,C,2,F,3,Sim,1,625,6,Pública,-3.7319,-38.5267
+5824478352,Manaus,B,1,A,0,Sim,1,318,2,Pública,-3.119,-60.0217
+4815265920,Rio de Janeiro,A,0,B,1,Não,0,361,1,Pública,-22.9068,-43.1729
+1161374323,Fortaleza,E,4,G,4,Sim,1,672,9,Pública,-3.7319,-38.5267
+5940697907,Belo Horizonte,E,4,F,3,Sim,1,555,8,Pública,-19.9167,-43.9345
+5690405151,Rio de Janeiro,C,2,D,2,Sim,1,552,5,Pública,-22.9068,-43.1729
+4393494506,São Paulo,B,1,B,1,Sim,1,439,3,Pública,-23.5505,-46.6333
+6038490670,São Paulo,D,3,F,3,Sim,1,631,7,Privada,-23.5505,-46.6333
+4034521695,Fortaleza,C,2,D,2,Sim,1,608,5,Pública,-3.7319,-38.5267
+6734711993,Fortaleza,C,2,F,3,Sim,1,637,6,Pública,-3.7319,-38.5267
+9313575472,Fortaleza,C,2,D,2,Sim,1,635,5,Pública,-3.7319,-38.5267
+4972296070,Fortaleza,C,2,D,2,Sim,1,650,5,Pública,-3.7319,-38.5267
+3262113570,São Paulo,D,3,D,2,Sim,1,698,6,Pública,-23.5505,-46.6333
+4859999293,Belo Horizonte,E,4,G,4,Sim,1,691,9,Pública,-19.9167,-43.9345
+3622104051,Rio de Janeiro,A,0,B,1,Sim,1,462,2,Pública,-22.9068,-43.1729
+1355641644,Manaus,B,1,A,0,Sim,1,487,2,Pública,-3.119,-60.0217
+5722151597,Rio de Janeiro,C,2,F,3,Sim,1,617,6,Pública,-22.9068,-43.1729
+3113834727,Rio de Janeiro,A,0,B,1,Sim,1,441,2,Pública,-22.9068,-43.1729
+4452125891,Fortaleza,D,3,D,2,Sim,1,661,6,Pública,-3.7319,-38.5267
+6792613372,Rio de Janeiro,Q,5,F,3,Sim,1,710,9,Privada,-22.9068,-43.1729
+2764981747,São Paulo,B,1,A,0,Sim,1,442,2,Pública,-23.5505,-46.6333
+8602222972,Rio de Janeiro,D,3,F,3,Sim,1,639,7,Pública,-22.9068,-43.1729
+3880678482,Manaus,D,3,F,3,Sim,1,691,7,Pública,-3.119,-60.0217
+4929104689,Fortaleza,B,1,B,1,Sim,1,430,3,Pública,-3.7319,-38.5267
+5501994350,Belo Horizonte,B,1,A,0,Sim,1,484,2,Pública,-19.9167,-43.9345
+1171507428,Belo Horizonte,C,2,D,2,Sim,1,564,5,Pública,-19.9167,-43.9345
+2368817476,Manaus,B,1,B,1,Sim,1,484,3,Pública,-3.119,-60.0217
+9169973943,Manaus,C,2,F,3,Sim,1,687,6,Pública,-3.119,-60.0217
+4620469424,São Paulo,E,4,G,4,Sim,1,640,9,Pública,-23.5505,-46.6333
+4374241429,Fortaleza,B,1,B,1,Não,0,385,2,Pública,-3.7319,-38.5267
+3501224514,Belo Horizonte,A,0,A,0,Não,0,548,0,Pública,-19.9167,-43.9345
+3249250035,Manaus,C,2,D,2,Sim,1,520,5,Privada,-3.119,-60.0217
+2028493388,São Paulo,C,2,F,3,Sim,1,595,6,Pública,-23.5505,-46.6333
+6518554671,Manaus,A,0,A,0,Sim,1,424,1,Pública,-3.119,-60.0217
+6041828487,Fortaleza,D,3,D,2,Sim,1,684,6,Pública,-3.7319,-38.5267
+7746256521,Fortaleza,A,0,B,1,Sim,1,456,2,Pública,-3.7319,-38.5267
+8849787752,São Paulo,D,3,F,3,Sim,1,402,7,Pública,-23.5505,-46.6333
+2767428869,Rio de Janeiro,A,0,A,0,Não,0,569,0,Pública,-22.9068,-43.1729
+1604282252,Belo Horizonte,C,2,F,3,Sim,1,563,6,Pública,-19.9167,-43.9345
+9548709492,Fortaleza,A,0,B,1,Não,0,409,1,Pública,-3.7319,-38.5267
+4151921795,Rio de Janeiro,Q,5,G,4,Sim,1,826,10,Pública,-22.9068,-43.1729
+5796417466,Fortaleza,Q,5,F,3,Sim,1,701,9,Pública,-3.7319,-38.5267
+9436261533,São Paulo,D,3,F,3,Sim,1,593,7,Pública,-23.5505,-46.6333
+1088353774,Rio de Janeiro,Q,5,G,4,Sim,1,676,10,Pública,-22.9068,-43.1729
+2397866241,Manaus,Q,5,F,3,Sim,1,618,9,Pública,-3.119,-60.0217
+1514711728,São Paulo,A,0,A,0,Não,0,381,0,Privada,-23.5505,-46.6333
+8298191978,Manaus,B,1,B,1,Não,0,412,2,Pública,-3.119,-60.0217
+6446068926,Belo Horizonte,D,3,D,2,Sim,1,660,6,Pública,-19.9167,-43.9345
+4532024399,Rio de Janeiro,E,4,F,3,Sim,1,839,8,Pública,-22.9068,-43.1729
+1124989773,Manaus,A,0,A,0,Não,0,554,0,Privada,-3.119,-60.0217
+4388750144,Belo Horizonte,D,3,F,3,Sim,1,700,7,Pública,-19.9167,-43.9345
+6026183023,Fortaleza,A,0,A,0,Não,0,473,0,Pública,-3.7319,-38.5267
+1349097198,Fortaleza,B,1,B,1,Sim,1,368,3,Pública,-3.7319,-38.5267
+4747447078,Rio de Janeiro,E,4,G,4,Sim,1,689,9,Pública,-22.9068,-43.1729
+9301021901,Rio de Janeiro,D,3,F,3,Sim,1,601,7,Pública,-22.9068,-43.1729
+6114413842,Fortaleza,B,1,A,0,Sim,1,547,2,Pública,-3.7319,-38.5267
+9254298669,Manaus,A,0,B,1,Não,0,432,1,Privada,-3.119,-60.0217
+3463879269,Rio de Janeiro,C,2,F,3,Sim,1,717,6,Pública,-22.9068,-43.1729
+8763849515,São Paulo,C,2,D,2,Sim,1,515,5,Pública,-23.5505,-46.6333
+3364347146,Fortaleza,E,4,F,3,Sim,1,910,8,Privada,-3.7319,-38.5267
+8701141463,Manaus,Q,5,F,3,Sim,1,777,9,Pública,-3.119,-60.0217
+6893211361,Manaus,D,3,F,3,Sim,1,634,7,Pública,-3.119,-60.0217
+9458208500,Manaus,C,2,F,3,Sim,1,595,6,Pública,-3.119,-60.0217
+8731947076,Rio de Janeiro,A,0,A,0,Sim,1,432,1,Pública,-22.9068,-43.1729
+7661254582,São Paulo,B,1,A,0,Sim,1,532,2,Pública,-23.5505,-46.6333
+7406750263,Fortaleza,B,1,B,1,Não,0,660,2,Privada,-3.7319,-38.5267
+3137370468,Belo Horizonte,D,3,D,2,Sim,1,754,6,Pública,-19.9167,-43.9345
+7735487194,Manaus,C,2,F,3,Sim,1,667,6,Pública,-3.119,-60.0217
+3081076929,Fortaleza,D,3,D,2,Sim,1,597,6,Pública,-3.7319,-38.5267
+7055521598,Belo Horizonte,Q,5,F,3,Sim,1,830,9,Privada,-19.9167,-43.9345
+9456653698,São Paulo,A,0,A,0,Sim,1,464,1,Privada,-23.5505,-46.6333
+8622922016,Fortaleza,C,2,F,3,Sim,1,820,6,Privada,-3.7319,-38.5267
+1812646468,São Paulo,C,2,F,3,Sim,1,744,6,Pública,-23.5505,-46.6333
+6281932247,Fortaleza,Q,5,G,4,Sim,1,589,10,Pública,-3.7319,-38.5267
+7381394189,Manaus,B,1,B,1,Sim,1,498,3,Pública,-3.119,-60.0217
+8832879664,Fortaleza,D,3,F,3,Sim,1,530,7,Pública,-3.7319,-38.5267
+2941360816,Rio de Janeiro,E,4,F,3,Sim,1,707,8,Pública,-22.9068,-43.1729
+4048571795,Rio de Janeiro,C,2,D,2,Sim,1,453,5,Pública,-22.9068,-43.1729
+4428117473,Rio de Janeiro,D,3,F,3,Sim,1,485,7,Pública,-22.9068,-43.1729
+1925503682,São Paulo,C,2,F,3,Sim,1,477,6,Pública,-23.5505,-46.6333
+1842412072,Fortaleza,D,3,F,3,Sim,1,733,7,Pública,-3.7319,-38.5267
+7087430374,Fortaleza,E,4,F,3,Sim,1,821,8,Pública,-3.7319,-38.5267
+8438745233,Fortaleza,A,0,B,1,Não,0,483,1,Pública,-3.7319,-38.5267
+2075178777,Fortaleza,B,1,A,0,Sim,1,574,2,Pública,-3.7319,-38.5267
+8242316797,São Paulo,A,0,B,1,Sim,1,404,2,Pública,-23.5505,-46.6333
+5043392142,Belo Horizonte,B,1,A,0,Não,0,534,1,Pública,-19.9167,-43.9345
+7304550412,Belo Horizonte,Q,5,F,3,Sim,1,714,9,Pública,-19.9167,-43.9345
+5589606287,Belo Horizonte,D,3,D,2,Sim,1,529,6,Pública,-19.9167,-43.9345
+2494437589,Manaus,B,1,B,1,Não,0,328,2,Pública,-3.119,-60.0217
+7238584495,Belo Horizonte,A,0,B,1,Não,0,320,1,Privada,-19.9167,-43.9345
+2399452566,Manaus,B,1,B,1,Sim,1,488,3,Pública,-3.119,-60.0217
+2562449215,Rio de Janeiro,C,2,D,2,Sim,1,618,5,Pública,-22.9068,-43.1729
+1282097030,Belo Horizonte,C,2,F,3,Sim,1,446,6,Pública,-19.9167,-43.9345
+6368091131,Belo Horizonte,B,1,B,1,Sim,1,377,3,Pública,-19.9167,-43.9345
+5602704332,São Paulo,Q,5,G,4,Sim,1,715,10,Pública,-23.5505,-46.6333
+3953144116,Fortaleza,Q,5,G,4,Sim,1,834,10,Pública,-3.7319,-38.5267
+1211265104,Fortaleza,B,1,A,0,Sim,1,406,2,Privada,-3.7319,-38.5267
+2797404139,Manaus,D,3,D,2,Sim,1,519,6,Pública,-3.119,-60.0217
+1569865054,Manaus,A,0,B,1,Sim,1,478,2,Privada,-3.119,-60.0217
+7456214907,Fortaleza,Q,5,G,4,Sim,1,542,10,Pública,-3.7319,-38.5267
+3884056224,Fortaleza,A,0,A,0,Sim,1,529,1,Pública,-3.7319,-38.5267
+1895476956,Fortaleza,Q,5,F,3,Sim,1,661,9,Privada,-3.7319,-38.5267
+2550360588,Belo Horizonte,C,2,F,3,Sim,1,712,6,Pública,-19.9167,-43.9345
+3290967221,São Paulo,C,2,F,3,Sim,1,587,6,Pública,-23.5505,-46.6333
+3505640408,Fortaleza,C,2,F,3,Sim,1,735,6,Pública,-3.7319,-38.5267
+2712098349,São Paulo,D,3,D,2,Sim,1,615,6,Pública,-23.5505,-46.6333
+8502220268,Fortaleza,B,1,B,1,Não,0,460,2,Pública,-3.7319,-38.5267
+7459483832,Manaus,Q,5,F,3,Sim,1,718,9,Pública,-3.119,-60.0217
+1827863574,São Paulo,C,2,D,2,Sim,1,603,5,Pública,-23.5505,-46.6333
+1778498462,São Paulo,C,2,F,3,Sim,1,615,6,Pública,-23.5505,-46.6333
+8068806851,Belo Horizonte,E,4,G,4,Sim,1,721,9,Pública,-19.9167,-43.9345
+4770311912,Rio de Janeiro,A,0,A,0,Sim,1,538,1,Pública,-22.9068,-43.1729
+1615511910,Fortaleza,D,3,D,2,Sim,1,417,6,Pública,-3.7319,-38.5267
+1224651570,Rio de Janeiro,D,3,D,2,Sim,1,604,6,Pública,-22.9068,-43.1729
+7177798912,Rio de Janeiro,B,1,A,0,Sim,1,538,2,Pública,-22.9068,-43.1729
+1828980827,Rio de Janeiro,A,0,A,0,Não,0,483,0,Pública,-22.9068,-43.1729
+5059437536,Manaus,C,2,D,2,Sim,1,560,5,Privada,-3.119,-60.0217
+9296968630,Belo Horizonte,C,2,F,3,Sim,1,550,6,Pública,-19.9167,-43.9345
+9020640775,Rio de Janeiro,B,1,A,0,Não,0,386,1,Pública,-22.9068,-43.1729
+7215763778,Belo Horizonte,B,1,B,1,Não,0,323,2,Pública,-19.9167,-43.9345
+3875474495,Fortaleza,B,1,B,1,Sim,1,542,3,Pública,-3.7319,-38.5267
+9086588802,Fortaleza,E,4,F,3,Sim,1,643,8,Pública,-3.7319,-38.5267
+8491433377,Belo Horizonte,C,2,F,3,Sim,1,616,6,Pública,-19.9167,-43.9345
+9253216028,São Paulo,Q,5,G,4,Sim,1,770,10,Pública,-23.5505,-46.6333
+5448187749,Rio de Janeiro,A,0,B,1,Não,0,538,1,Pública,-22.9068,-43.1729
+3758139571,Fortaleza,D,3,F,3,Sim,1,570,7,Privada,-3.7319,-38.5267
+9445581025,São Paulo,A,0,A,0,Sim,1,634,1,Privada,-23.5505,-46.6333
+2733601390,Fortaleza,C,2,F,3,Sim,1,534,6,Privada,-3.7319,-38.5267
+7091361240,Fortaleza,C,2,F,3,Sim,1,535,6,Pública,-3.7319,-38.5267
+5783095774,Fortaleza,C,2,D,2,Sim,1,623,5,Pública,-3.7319,-38.5267
+2748000528,Rio de Janeiro,Q,5,F,3,Sim,1,670,9,Pública,-22.9068,-43.1729
+2896308382,São Paulo,C,2,F,3,Sim,1,700,6,Pública,-23.5505,-46.6333
+4376340133,Rio de Janeiro,A,0,A,0,Sim,1,388,1,Pública,-22.9068,-43.1729
+9954556089,Fortaleza,B,1,B,1,Sim,1,363,3,Pública,-3.7319,-38.5267
+5340352744,Belo Horizonte,C,2,D,2,Sim,1,530,5,Pública,-19.9167,-43.9345
+4302261905,São Paulo,C,2,D,2,Sim,1,631,5,Pública,-23.5505,-46.6333
+4371503416,Manaus,B,1,A,0,Não,0,343,1,Pública,-3.119,-60.0217
+1868507171,São Paulo,Q,5,G,4,Sim,1,667,10,Pública,-23.5505,-46.6333
+4416918600,Belo Horizonte,A,0,A,0,Não,0,476,0,Pública,-19.9167,-43.9345
+1249757180,Manaus,A,0,A,0,Não,0,529,0,Privada,-3.119,-60.0217
+3744623659,Rio de Janeiro,B,1,B,1,Sim,1,410,3,Pública,-22.9068,-43.1729
+5354333199,São Paulo,E,4,G,4,Sim,1,766,9,Pública,-23.5505,-46.6333
+3481022184,Manaus,B,1,B,1,Sim,1,365,3,Pública,-3.119,-60.0217
+7329195898,Manaus,E,4,G,4,Sim,1,750,9,Pública,-3.119,-60.0217
+2556767850,Manaus,Q,5,G,4,Sim,1,769,10,Pública,-3.119,-60.0217
+3622587484,Belo Horizonte,B,1,A,0,Não,0,511,1,Pública,-19.9167,-43.9345
+4574541885,Fortaleza,B,1,A,0,Sim,1,477,2,Pública,-3.7319,-38.5267
+5612058893,Belo Horizonte,D,3,F,3,Sim,1,502,7,Pública,-19.9167,-43.9345
+6850384462,Fortaleza,D,3,D,2,Sim,1,657,6,Pública,-3.7319,-38.5267
+7969445136,Fortaleza,C,2,F,3,Sim,1,748,6,Pública,-3.7319,-38.5267
+5669592109,São Paulo,Q,5,G,4,Sim,1,644,10,Pública,-23.5505,-46.6333
+5285882184,Manaus,C,2,F,3,Sim,1,711,6,Pública,-3.119,-60.0217
+3686488476,Belo Horizonte,Q,5,F,3,Sim,1,623,9,Pública,-19.9167,-43.9345
+5224490280,Fortaleza,Q,5,G,4,Sim,1,853,10,Privada,-3.7319,-38.5267
+8947247663,Manaus,D,3,F,3,Sim,1,515,7,Pública,-3.119,-60.0217
+2241172099,Rio de Janeiro,A,0,A,0,Sim,1,520,1,Pública,-22.9068,-43.1729
+5512298608,São Paulo,C,2,F,3,Sim,1,546,6,Pública,-23.5505,-46.6333
+5380929755,Belo Horizonte,Q,5,F,3,Sim,1,646,9,Pública,-19.9167,-43.9345
+3518001184,São Paulo,A,0,B,1,Sim,1,496,2,Pública,-23.5505,-46.6333
+1142307138,São Paulo,D,3,F,3,Sim,1,606,7,Pública,-23.5505,-46.6333
+9541017076,Manaus,B,1,B,1,Não,0,435,2,Privada,-3.119,-60.0217
+8171140085,Rio de Janeiro,B,1,A,0,Não,0,512,1,Pública,-22.9068,-43.1729
+9801437687,São Paulo,A,0,B,1,Sim,1,478,2,Pública,-23.5505,-46.6333
+6431838160,Belo Horizonte,B,1,A,0,Sim,1,448,2,Pública,-19.9167,-43.9345
+8690595047,Fortaleza,C,2,D,2,Sim,1,698,5,Pública,-3.7319,-38.5267
+4977103345,Manaus,A,0,A,0,Sim,1,423,1,Pública,-3.119,-60.0217
+5045091530,São Paulo,D,3,D,2,Sim,1,650,6,Pública,-23.5505,-46.6333
+7298968423,Fortaleza,E,4,G,4,Sim,1,845,9,Pública,-3.7319,-38.5267
+7670069521,São Paulo,E,4,G,4,Sim,1,618,9,Pública,-23.5505,-46.6333
+3095314818,Belo Horizonte,D,3,F,3,Sim,1,689,7,Pública,-19.9167,-43.9345
+8446962054,São Paulo,D,3,F,3,Sim,1,730,7,Privada,-23.5505,-46.6333
+9087219220,Rio de Janeiro,B,1,A,0,Não,0,430,1,Pública,-22.9068,-43.1729
+6822633009,Fortaleza,A,0,B,1,Sim,1,463,2,Privada,-3.7319,-38.5267
+8341777356,Rio de Janeiro,C,2,F,3,Sim,1,628,6,Pública,-22.9068,-43.1729
+1176076080,Fortaleza,D,3,F,3,Sim,1,548,7,Privada,-3.7319,-38.5267
+2912633192,Fortaleza,E,4,F,3,Sim,1,601,8,Pública,-3.7319,-38.5267
+7787891949,Fortaleza,B,1,B,1,Não,0,356,2,Privada,-3.7319,-38.5267
+7304214389,Belo Horizonte,C,2,F,3,Sim,1,609,6,Privada,-19.9167,-43.9345
+1814530375,Rio de Janeiro,D,3,D,2,Sim,1,627,6,Pública,-22.9068,-43.1729
+4556770606,São Paulo,A,0,B,1,Sim,1,564,2,Privada,-23.5505,-46.6333
+6086016368,Manaus,B,1,B,1,Sim,1,333,3,Pública,-3.119,-60.0217
+1786560424,Rio de Janeiro,Q,5,G,4,Sim,1,659,10,Pública,-22.9068,-43.1729
+5325781255,Rio de Janeiro,C,2,F,3,Sim,1,608,6,Pública,-22.9068,-43.1729
+1818946952,Rio de Janeiro,B,1,B,1,Sim,1,563,3,Pública,-22.9068,-43.1729
+2829897964,Manaus,E,4,F,3,Sim,1,671,8,Pública,-3.119,-60.0217
+8141684873,São Paulo,B,1,A,0,Sim,1,572,2,Pública,-23.5505,-46.6333
+2530616886,Belo Horizonte,B,1,A,0,Não,0,356,1,Pública,-19.9167,-43.9345
+1371554469,São Paulo,D,3,D,2,Sim,1,463,6,Pública,-23.5505,-46.6333
+4642538833,Belo Horizonte,A,0,A,0,Sim,1,479,1,Privada,-19.9167,-43.9345
+8343651390,Fortaleza,C,2,F,3,Sim,1,592,6,Pública,-3.7319,-38.5267
+9554707575,Fortaleza,B,1,B,1,Não,0,576,2,Pública,-3.7319,-38.5267
+7394931923,Rio de Janeiro,C,2,F,3,Sim,1,678,6,Pública,-22.9068,-43.1729
+9685905345,Manaus,Q,5,G,4,Sim,1,798,10,Pública,-3.119,-60.0217
+2835367625,Rio de Janeiro,C,2,D,2,Sim,1,698,5,Pública,-22.9068,-43.1729
+3264413060,Manaus,A,0,A,0,Sim,1,415,1,Pública,-3.119,-60.0217
+7834727131,Belo Horizonte,A,0,A,0,Não,0,467,0,Pública,-19.9167,-43.9345
+9048370335,São Paulo,Q,5,F,3,Sim,1,603,9,Privada,-23.5505,-46.6333
+9341948201,Manaus,C,2,F,3,Sim,1,594,6,Pública,-3.119,-60.0217
+2957464417,Rio de Janeiro,D,3,D,2,Sim,1,673,6,Pública,-22.9068,-43.1729
+1015489518,Belo Horizonte,A,0,B,1,Sim,1,397,2,Pública,-19.9167,-43.9345
+7280684793,Fortaleza,A,0,B,1,Sim,1,486,2,Pública,-3.7319,-38.5267
+1190027695,Fortaleza,Q,5,G,4,Sim,1,662,10,Pública,-3.7319,-38.5267
+4081525686,Rio de Janeiro,C,2,D,2,Sim,1,555,5,Pública,-22.9068,-43.1729
+3311186859,São Paulo,A,0,A,0,Sim,1,606,1,Pública,-23.5505,-46.6333
+8754576817,Rio de Janeiro,C,2,F,3,Sim,1,643,6,Pública,-22.9068,-43.1729
+3683525010,Fortaleza,C,2,F,3,Sim,1,514,6,Privada,-3.7319,-38.5267
+9701852379,Manaus,C,2,F,3,Sim,1,415,6,Privada,-3.119,-60.0217
+7034058240,Belo Horizonte,D,3,D,2,Sim,1,589,6,Pública,-19.9167,-43.9345
+3321931824,Belo Horizonte,Q,5,F,3,Sim,1,859,9,Pública,-19.9167,-43.9345
+9750217024,Fortaleza,Q,5,G,4,Sim,1,790,10,Pública,-3.7319,-38.5267
+5167766774,Fortaleza,C,2,D,2,Sim,1,551,5,Pública,-3.7319,-38.5267
+1470835714,Belo Horizonte,E,4,G,4,Sim,1,855,9,Pública,-19.9167,-43.9345
+5914530383,São Paulo,D,3,D,2,Sim,1,666,6,Pública,-23.5505,-46.6333
+7942197554,Rio de Janeiro,C,2,D,2,Sim,1,491,5,Pública,-22.9068,-43.1729
+9224068417,São Paulo,C,2,F,3,Sim,1,477,6,Pública,-23.5505,-46.6333
+9528962885,Rio de Janeiro,B,1,B,1,Não,0,519,2,Pública,-22.9068,-43.1729
+6056190968,Fortaleza,B,1,A,0,Sim,1,513,2,Privada,-3.7319,-38.5267
+6544697577,São Paulo,D,3,F,3,Sim,1,623,7,Privada,-23.5505,-46.6333
+3152683796,Rio de Janeiro,C,2,F,3,Sim,1,463,6,Pública,-22.9068,-43.1729
+5417453310,Fortaleza,D,3,D,2,Sim,1,666,6,Pública,-3.7319,-38.5267
+4254777889,São Paulo,Q,5,F,3,Sim,1,724,9,Privada,-23.5505,-46.6333
+6293891954,Belo Horizonte,B,1,A,0,Sim,1,602,2,Pública,-19.9167,-43.9345
+3578227825,Belo Horizonte,D,3,F,3,Sim,1,596,7,Pública,-19.9167,-43.9345
+2497574750,Manaus,B,1,B,1,Não,0,587,2,Pública,-3.119,-60.0217
+1260319507,Belo Horizonte,C,2,F,3,Sim,1,552,6,Pública,-19.9167,-43.9345
+3857775495,Fortaleza,B,1,A,0,Sim,1,521,2,Pública,-3.7319,-38.5267
+5363939407,Fortaleza,Q,5,G,4,Sim,1,712,10,Privada,-3.7319,-38.5267
+9144932549,São Paulo,B,1,A,0,Não,0,497,1,Privada,-23.5505,-46.6333
+9795304281,Manaus,D,3,F,3,Sim,1,519,7,Pública,-3.119,-60.0217
+9732512405,São Paulo,D,3,F,3,Sim,1,611,7,Pública,-23.5505,-46.6333
+6394938850,Rio de Janeiro,A,0,A,0,Sim,1,515,1,Privada,-22.9068,-43.1729
+1858224307,São Paulo,Q,5,F,3,Sim,1,744,9,Pública,-23.5505,-46.6333
+3786782355,Manaus,A,0,B,1,Sim,1,493,2,Privada,-3.119,-60.0217
+7234732093,Manaus,C,2,F,3,Sim,1,567,6,Pública,-3.119,-60.0217
+3919185621,Belo Horizonte,C,2,D,2,Sim,1,536,5,Pública,-19.9167,-43.9345
+4728005537,Rio de Janeiro,A,0,A,0,Não,0,533,0,Pública,-22.9068,-43.1729
+2108290086,Manaus,Q,5,G,4,Sim,1,760,10,Pública,-3.119,-60.0217
+1548324007,Manaus,B,1,B,1,Sim,1,513,3,Pública,-3.119,-60.0217
+9306009076,Fortaleza,A,0,A,0,Sim,1,485,1,Pública,-3.7319,-38.5267
+9767678338,Manaus,B,1,A,0,Não,0,533,1,Pública,-3.119,-60.0217
+3843815297,São Paulo,C,2,F,3,Sim,1,669,6,Pública,-23.5505,-46.6333
+2288246472,Rio de Janeiro,B,1,A,0,Não,0,426,1,Pública,-22.9068,-43.1729
+3421149011,Fortaleza,E,4,G,4,Sim,1,727,9,Privada,-3.7319,-38.5267
+5498466015,Belo Horizonte,B,1,B,1,Sim,1,357,3,Privada,-19.9167,-43.9345
+6016001679,Belo Horizonte,B,1,B,1,Não,0,366,2,Pública,-19.9167,-43.9345
